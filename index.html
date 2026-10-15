@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Competition Radar</title>
+<style>
+:root{--bg:#f5f6f8;--card:#fff;--tx:#1b1f24;--mut:#6b7280;--bd:#e2e5ea;--ac:#2563eb;--ok:#16a34a;--wa:#d97706;--er:#dc2626;--fin:#0d9488;--con:#7c3aed;--pro:#db2777}
+@media(prefers-color-scheme:dark){:root{--bg:#0f1318;--card:#171c23;--tx:#e8ebef;--mut:#98a1ad;--bd:#262d37;--ac:#5b9bff;--ok:#4ade80;--wa:#fbbf24;--er:#f87171;--fin:#2dd4bf;--con:#a78bfa;--pro:#f472b6}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.wrap{max-width:1150px;margin:0 auto;padding:20px 16px 60px}
+header{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;margin-bottom:16px}
+h1{font-size:22px;margin:0}.sub{color:var(--mut);font-size:12px}
+button,select,input{font:inherit;color:var(--tx);background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:7px 11px}
+button{cursor:pointer}button:hover{border-color:var(--ac)}button.p{background:var(--ac);color:#fff;border-color:var(--ac)}
+.grid{display:grid;gap:12px}.stats{grid-template-columns:repeat(auto-fit,minmax(150px,1fr));margin-bottom:12px}
+.two{grid-template-columns:2fr 1fr;margin-bottom:16px}@media(max-width:760px){.two{grid-template-columns:1fr}}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:14px}
+.stat b{display:block;font-size:26px}.stat span{color:var(--mut);font-size:12px}
+h3{margin:0 0 10px;font-size:13px;color:var(--mut);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+.bars{display:flex;align-items:flex-end;gap:8px;height:110px}
+.bar{flex:1;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;height:100%;font-size:11px;color:var(--mut)}
+.bar i{display:block;width:100%;background:var(--ac);border-radius:4px 4px 0 0;min-height:2px}
+.split{display:flex;height:14px;border-radius:7px;overflow:hidden;margin:8px 0}
+.leg{display:flex;flex-wrap:wrap;gap:10px;font-size:12px;color:var(--mut)}.leg b{color:var(--tx)}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:4px}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;align-items:center}
+.filters input[type=search]{flex:1;min-width:200px}
+.tabs button.on{background:var(--ac);color:#fff;border-color:var(--ac)}
+.item{display:grid;grid-template-columns:1fr auto;gap:8px 14px;margin-bottom:10px}
+.item h4{margin:0 0 4px;font-size:15px}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;color:var(--mut);font-size:12px}
+.tag{padding:1px 8px;border-radius:99px;border:1px solid var(--bd);font-size:11px;color:var(--tx)}
+.tag.finance{border-color:var(--fin);color:var(--fin)}.tag.consulting{border-color:var(--con);color:var(--con)}.tag.product{border-color:var(--pro);color:var(--pro)}
+.new{background:var(--ok);color:#fff;border-color:var(--ok)}
+.side{text-align:right;display:flex;flex-direction:column;gap:6px;align-items:flex-end;justify-content:center}
+.dl{font-weight:600}.dl.u{color:var(--er)}.dl.s{color:var(--wa)}
+a.reg{background:var(--ac);color:#fff;text-decoration:none;padding:6px 12px;border-radius:8px;font-weight:600;white-space:nowrap}
+.mini{display:flex;gap:6px}.mini button{padding:3px 8px;font-size:12px}
+.star.on{color:var(--wa);border-color:var(--wa)}
+a{color:var(--ac)}.empty{text-align:center;color:var(--mut);padding:40px 10px}
+#drop{border:2px dashed var(--bd);border-radius:12px;padding:22px;text-align:center;color:var(--mut);margin-bottom:14px}
+#drop.over{border-color:var(--ac)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div><h1>Competition Radar</h1><div class="sub" id="status">Loading…</div></div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap">
+    <button id="scan" class="p" hidden>Scan now</button>
+    <button id="refresh">Refresh</button>
+    <button id="pick">Load JSON files</button>
+    <button id="demo">Demo data</button>
+    <button id="export" class="p">Export CSV</button>
+    <input type="file" id="file" accept=".json" multiple hidden>
+  </div>
+</header>
+
+<div id="drop" hidden>No data files found next to this page. Run the bot to create <b>data/competitions.json</b>, or drag that file here, or click “Load JSON files”.</div>
+
+<div class="grid stats" id="stats"></div>
+<div class="grid two">
+  <div class="card"><h3>Registrations closing per week (next 8 weeks)</h3><div class="bars" id="weeks"></div></div>
+  <div class="card"><h3>Breakdown</h3><div id="cats"></div><div id="modes"></div></div>
+</div>
+
+<div class="filters">
+  <input type="search" id="q" placeholder="Search title, organizer, eligibility…">
+  <span class="tabs" id="tabs"></span>
+  <select id="mode"><option value="">Any mode</option><option>online</option><option>hybrid</option><option>in-person</option><option>unknown</option></select>
+  <select id="win"><option value="">Any deadline</option><option value="7">Closing in 7 days</option><option value="30">Closing in 30 days</option><option value="none">No deadline listed</option></select>
+  <select id="sort"><option value="dl">Sort: soonest deadline</option><option value="new">Sort: newest found</option><option value="t">Sort: title</option></select>
+  <label class="sub"><input type="checkbox" id="onlystar"> ★ only</label>
+</div>
+<div id="list"></div>
+</div>
+
+<script>
+const SRC=[["state.json","finance"],["state_consulting.json","consulting"],["state_product.json","product"]];
+const CAT_COL={finance:"var(--fin)",consulting:"var(--con)",product:"var(--pro)"};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safe=u=>/^https?:\/\//i.test(u||"")?u:"#";
+const LS={get(k,d){try{const v=JSON.parse(localStorage.getItem(k));return v??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let stars=new Set(LS.get("stars",[])),hidden=new Set(LS.get("hidden",[])),DATA=[],cat="all";
+const today=(()=>{const d=new Date();d.setHours(0,0,0,0);return d})();
+const daysLeft=s=>s?Math.round((new Date(s+"T00:00:00")-today)/864e5):null;
+const ageDays=s=>s?Math.round((today-new Date(s+"T00:00:00"))/864e5):999;
+
+function ingest(obj,c,out){
+  Object.values(obj).forEach(r=>{
+    const url=r.registration_url||r.page;if(!url)return;
+    out.push({id:url,cat:r.category||c,title:r.title||url,org:r.organizer||"",elig:r.eligibility||"",
+      mode:r.mode||(r.is_online===false?"in-person":"online"),deadline:r.deadline||"",url,page:r.page||url,first:r.first_seen||""});
+  });
+}
+function catFromName(n){return /consult/i.test(n)?"consulting":/product/i.test(n)?"product":"finance"}
+
+async function load(){
+  const out=[];let ok=0,meta=null;
+  try{const r=await fetch("data/competitions.json?t="+Date.now());if(!r.ok)throw 0;ingest(await r.json(),"finance",out);ok++;
+    try{meta=await (await fetch("data/meta.json?t="+Date.now())).json()}catch(e){}}catch(e){}
+  if(!ok)for(const [f,c] of SRC){
+    try{const r=await fetch(f+"?t="+Date.now());if(!r.ok)throw 0;ingest(await r.json(),c,out);ok++}catch(e){}
+  }
+  if(ok){DATA=out;$("#status").textContent=`${out.length} competitions`+(meta&&meta.last_run?` · last scan ${new Date(meta.last_run).toLocaleString()}`:` · loaded ${new Date().toLocaleString()}`);$("#drop").hidden=true}
+  else if(!DATA.length){$("#status").textContent="No data loaded";$("#drop").hidden=false}
+  render();
+}
+let poll=null;
+async function checkApi(){
+  try{const s=await (await fetch("/api/status")).json();const b=$("#scan");b.hidden=false;b.disabled=s.running;
+    b.textContent=s.running?"Scanning…":"Scan now";
+    if(s.running&&!poll)poll=setInterval(checkApi,5000);
+    if(!s.running&&poll){clearInterval(poll);poll=null;load()}}catch(e){}
+}
+async function loadFiles(files){
+  const out=[];
+  for(const f of files){try{ingest(JSON.parse(await f.text()),catFromName(f.name),out)}catch(e){alert("Could not read "+f.name)}}
+  if(out.length){DATA=out;$("#drop").hidden=true;$("#status").textContent=`Loaded ${files.length} file(s) manually · ${new Date().toLocaleString()}`;render()}
+}
+function demo(){
+  const d=n=>{const x=new Date(today);x.setDate(x.getDate()+n);return x.toISOString().slice(0,10)};
+  const mk=(c,t,o,m,e,dl,f)=>({registration_url:"https://example.com/"+t.replace(/\W/g,""),title:t,organizer:o,mode:m,eligibility:e,deadline:dl?d(dl):"",first_seen:d(-f),page:"https://example.com"});
+  const rows=[["finance","Alpha Quant Trading Challenge","Alpha Capital","online","Students",5,1],["finance","Global Stock Pitch Cup","Univ. Finance Club","online","Undergrad",18,3],
+  ["consulting","Apex Strategy Case Competition","Apex School of Business","hybrid","MBA students",9,0],["consulting","Asia Consulting Showdown","IIM Club","in-person","Undergrad",33,12],
+  ["product","ProdQuest PM Challenge","ProdQuest","online","Students & early career",14,2],["product","APM Case Sprint","","online","",0,6]];
+  DATA=[];rows.forEach(r=>ingest({x:mk(...r)},r[0],DATA));
+  $("#status").textContent="Showing demo data";$("#drop").hidden=true;render();
+}
+
+function filtered(){
+  const q=$("#q").value.toLowerCase(),m=$("#mode").value,w=$("#win").value,s=$("#sort").value,st=$("#onlystar").checked;
+  let r=DATA.filter(x=>!hidden.has(x.id)&&(cat==="all"||x.cat===cat)&&(!m||x.mode===m)&&(!st||stars.has(x.id))
+    &&(!q||(x.title+x.org+x.elig).toLowerCase().includes(q)));
+  if(w==="none")r=r.filter(x=>!x.deadline);
+  else if(w)r=r.filter(x=>{const d=daysLeft(x.deadline);return d!==null&&d>=0&&d<=+w});
+  r=r.filter(x=>{const d=daysLeft(x.deadline);return d===null||d>=0});
+  r.sort((a,b)=>s==="t"?a.title.localeCompare(b.title):s==="new"?ageDays(a.first)-ageDays(b.first)
+    :(a.deadline||"9999").localeCompare(b.deadline||"9999"));
+  return r;
+}
+
+function render(){
+  const all=DATA.filter(x=>!hidden.has(x.id)&&!(daysLeft(x.deadline)<0));
+  const cnt=k=>all.filter(x=>x.cat===k).length;
+  const soon=all.filter(x=>{const d=daysLeft(x.deadline);return d!==null&&d<=7}).length;
+  const fresh=all.filter(x=>ageDays(x.first)<=7).length;
+  $("#stats").innerHTML=[["Active",all.length],["New this week",fresh],["Closing ≤ 7 days",soon],["Starred",[...stars].filter(i=>all.some(x=>x.id===i)).length]]
+    .map(([l,v])=>`<div class="card stat"><b>${v}</b><span>${l}</span></div>`).join("");
+
+  const wk=Array(8).fill(0);
+  all.forEach(x=>{const d=daysLeft(x.deadline);if(d!==null&&d>=0&&d<56)wk[Math.floor(d/7)]++});
+  const mx=Math.max(1,...wk);
+  $("#weeks").innerHTML=wk.map((n,i)=>`<div class="bar">${n}<i style="height:${n/mx*80}px"></i>${i?"+"+i+"w":"this wk"}</div>`).join("");
+
+  const split=(items,colFn)=>{const t=items.reduce((a,b)=>a+b[1],0)||1;
+    return `<div class="split">${items.map(([k,n])=>`<div style="width:${n/t*100}%;background:${colFn(k)}"></div>`).join("")}</div>
+    <div class="leg">${items.map(([k,n])=>`<span><i class="dot" style="background:${colFn(k)}"></i>${k} <b>${n}</b></span>`).join("")}</div>`};
+  $("#cats").innerHTML=split(["finance","consulting","product"].map(k=>[k,cnt(k)]),k=>CAT_COL[k]);
+  const MC={online:"var(--ok)",hybrid:"var(--wa)","in-person":"var(--er)",unknown:"var(--mut)"};
+  $("#modes").innerHTML=`<div style="height:10px"></div>`+split(["online","hybrid","in-person","unknown"].map(k=>[k,all.filter(x=>x.mode===k).length]),k=>MC[k]);
+
+  $("#tabs").innerHTML=["all","finance","consulting","product"].map(k=>`<button data-c="${k}" class="${cat===k?"on":""}">${k==="all"?"All":k[0].toUpperCase()+k.slice(1)}</button>`).join(" ");
+
+  const rows=filtered();
+  $("#list").innerHTML=rows.length?rows.map(x=>{
+    const d=daysLeft(x.deadline),cls=d!==null&&d<=3?"u":d!==null&&d<=10?"s":"";
+    const dl=d===null?"No deadline listed":d===0?"Closes today":d===1?"1 day left":d+" days left";
+    return `<div class="card item"><div><h4>${esc(x.title)}</h4><div class="meta">
+      <span class="tag ${x.cat}">${x.cat}</span><span class="tag">${esc(x.mode)}</span>
+      ${x.elig?`<span class="tag">${esc(x.elig)}</span>`:""}${x.org?`<span>${esc(x.org)}</span>`:""}
+      ${ageDays(x.first)<=7?`<span class="tag new">NEW</span>`:""}
+      <a href="${esc(safe(x.page))}" target="_blank" rel="noopener">source</a></div></div>
+      <div class="side"><span class="dl ${cls}">${dl}${x.deadline?` · ${x.deadline}`:""}</span>
+      <a class="reg" href="${esc(safe(x.url))}" target="_blank" rel="noopener">Register →</a>
+      <span class="mini"><button class="star ${stars.has(x.id)?"on":""}" data-s="${esc(x.id)}">★</button><button data-h="${esc(x.id)}">Hide</button></span></div></div>`;
+  }).join(""):`<div class="empty">Nothing matches these filters.</div>`;
+}
+
+document.addEventListener("click",e=>{
+  const b=e.target.closest("button");if(!b)return;
+  if(b.dataset.c){cat=b.dataset.c;render()}
+  else if(b.dataset.s){stars.has(b.dataset.s)?stars.delete(b.dataset.s):stars.add(b.dataset.s);LS.set("stars",[...stars]);render()}
+  else if(b.dataset.h){hidden.add(b.dataset.h);LS.set("hidden",[...hidden]);render()}
+});
+["#q","#mode","#win","#sort","#onlystar"].forEach(s=>$(s).addEventListener("input",render));
+$("#refresh").onclick=load;$("#scan").onclick=async()=>{try{await fetch("/api/run")}catch(e){}checkApi()};$("#demo").onclick=demo;$("#pick").onclick=()=>$("#file").click();
+$("#file").onchange=e=>loadFiles([...e.target.files]);
+$("#export").onclick=()=>{
+  const q=v=>`"${String(v??"").replace(/"/g,'""')}"`;
+  const csv=[["category","title","organizer","mode","eligibility","deadline","registration_url"].join(",")]
+    .concat(filtered().map(x=>[x.cat,x.title,x.org,x.mode,x.elig,x.deadline,x.url].map(q).join(","))).join("\n");
+  const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([csv],{type:"text/csv"}));a.download="competitions.csv";a.click();
+};
+const dz=$("#drop");
+["dragover","dragenter"].forEach(ev=>document.addEventListener(ev,e=>{e.preventDefault();dz.hidden=false;dz.classList.add("over")}));
+["dragleave","drop"].forEach(ev=>document.addEventListener(ev,e=>{e.preventDefault();dz.classList.remove("over")}));
+document.addEventListener("drop",e=>loadFiles([...e.dataTransfer.files]));
+load();checkApi();setInterval(load,10*60*1000);
+</script>
+</body>
+</html>

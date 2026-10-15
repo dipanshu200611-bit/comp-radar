@@ -1,0 +1,28 @@
+name: daily-competition-scan
+on:
+  schedule:
+    - cron: "30 2 * * *"   # 08:00 IST every day
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: python comp_radar.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      - name: Commit results
+        run: |
+          git config user.name "comp-radar"; git config user.email "bot@users.noreply.github.com"
+          git add data/ || true
+          git commit -m "daily scan" || echo "no changes"
+          git push
