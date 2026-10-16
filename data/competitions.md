@@ -1,4 +1,4 @@
-# Competitions (updated 2026-10-15)
+# Competitions (updated 2026-10-16)
 
 - **Case Competition - ANÉA-ASNA** | consulting | unknown | students | deadline: 2026-10-16 | https://forms.gle/JzcvSDHeb4g5DqKQ7
 - **Call For Applications: MTN Africa PachiPanda Challenge 2026 - MSME Africa** | consulting | hybrid | students | deadline: 2026-10-16 | https://reference-url-citation.invalid/11
@@ -15,7 +15,7 @@
 - **6th Dr. Ashok Kumar Mohapatra Memorial Moot Court Competition 2026** | product | hybrid | students | deadline: 2026-11-06 | https://tinyurl.com/AKM-REGISTRATION
 - **Trading Challenge - The Prairie View A&M Virtual Trading Platform** | finance | online | students | deadline: 2026-11-20 | https://edu.stocktrak.com/pvamutrading/trading-challenge/
 - **Tech Tack- Product Management Case Competition-2026** | product | hybrid | students | deadline: 2026-11-30 | https://www.startupgrantsindia.com/competitions/tech-tack-product-management-case-competition-2026
-- **Stocks Return Prediction V3 | Quant Challenges** | finance | online | students | deadline: 2027-01-01 | https://quantchallenges.com/challenges/susquehanna-predictions-cup-2026-midterm-elections-competition-qc-2950
+- **ADIA Lab Structural Break Open Benchmark Challenge | Quant Challenges** | finance | online | students | deadline: 2027-01-01 | https://quantchallenges.com/challenges/susquehanna-predictions-cup-2026-midterm-elections-competition-qc-2950
 - **NationBuilding Case Study Competition 2026 - 2026** | consulting | hybrid | students | deadline: 2027-01-03 | https://unstop.com/competitions/1759161/register
 - **Stevens High Frequency Trading Competition 2027 | Quant Challenges** | finance | online | students | deadline: 2027-01-31 | https://quantchallenges.com/challenges/2027-stevens-high-frequency-trading-competition-qc-2951
 - **Calendar - Conrad Challenge** | finance | online | students | deadline: 2027-02-01 | https://conrad.spacecenter.org/about/calendar/
@@ -159,3 +159,10 @@
 - **International Business Ethics and Sustainability Case Competition - Loyola Marymount University** | consulting | hybrid | students | deadline: n/a | https://www.lmu.edu/apply/
 - **Closing the Loop – Graduate Case Competition World Cup Finals, Presented by Adobe | Management Consulted** | consulting | online | students | deadline: n/a | https://managementconsulted.com/event/closing-the-loop-graduate-case-competition-world-cup-finals-presented-by-adobe/
 - **AutoSens Europe Agenda - AutoSens** | product | unknown | students | deadline: n/a | https://auto-sens.com/europe/agenda/
+- **The Best Product Management Conferences in North America for 2026 · Product Events** | product | hybrid | n/a | deadline: n/a | https://productevents.co/guides/best-product-conferences-north-america-2026
+- **Must attend conferences for product leaders in 2026** | product | hybrid | students | deadline: n/a | https://www.productledalliance.com/join-the-pla-slack-community/
+- **2026 Food & Beverage Trade Shows and Conferences Calendar** | product | online | students | deadline: n/a | https://foodindustryexecutive.com/trade-shows/
+- **Product sense for product managers** | product | hybrid | students | deadline: n/a | https://producthq.org/product-strategy/product-sense-for-product-managers/
+- **Praxis: Product Management Case Study Competition - closes Thu 22 Oct** | product | online | students | deadline: n/a | https://brabble.ai/go/unstop-1770048?placement=detail_page
+- **ProductWorld — San Jose, Feb 18–20, 2026 · Product Events** | product | unknown | n/a | deadline: n/a | https://productevents.co/events/955-productworld
+- **Certified Product Manager** | product | online | n/a | deadline: n/a | https://sso.teachable.com/secure/43087/checkout/3413988/one-week-pm
