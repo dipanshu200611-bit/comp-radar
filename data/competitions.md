@@ -1,23 +1,27 @@
-# Competitions (updated 2026-10-17)
+# Competitions (updated 2026-10-18)
 
-- **Optiver & Economicus Case Challenge (2026): ₹1L Prize Pool** | finance | hybrid | students | deadline: 2026-10-17 | https://www.startupgrantsindia.com/competitions/optiver-economicus-case-challenge
 - **Ace The Case 2026 | SummIT: ₹2L Prize Pool, Apply by 18 Oct** | consulting | hybrid | students | deadline: 2026-10-18 | https://www.startupgrantsindia.com/competitions/ace-the-case-2026-summit
 - **SafeTech Africa HackLab 2026: Apply Youth Innovation Challenge to Win US$5,000–US$10,000 in Seed Fundin - Opportunities for Youth** | product | online | students | deadline: 2026-10-18 | https://opportunitiesforyouth.org/2026/10/09/communications-design-lead-at-ylabs-a-senior-role-shaping-global-youth-focused-impact/
-- **Shenzhen FinTech Competition 2026 in China (Fully Funded)** | finance | online | students | deadline: 2026-10-20 | https://ird.oou.cmu.ac.th/2026-shenzhen-international-fintech-competition/
 - **Shenzhen FinTech Competition 2026 in China (Fully Funded) - Global Jobs Atlas** | finance | online | students | deadline: 2026-10-20 | https://brightscholarship.com/china-shenzhen-fintech-competition/
 - **2026 Shenzhen International FinTech Competition (FinTechathon) – International Track – Open Opportunities** | finance | hybrid | students | deadline: 2026-10-20 | https://openopportunities.org/opportunities/2026-shenzhen-international-fintech-competition-fintechathon-international-track/
 - **Case:Zero (2026) — ₹20,000 Prize Pool, Apply by 20 Oct** | consulting | hybrid | students | deadline: 2026-10-20 | https://www.startupgrantsindia.com/competitions/casezero
 - **Competition Currents | October 2026 | Insights | Greenberg Traurig LLP** | consulting | hybrid | students | deadline: 2026-10-29 | https://www.gtlaw.com/en/insights/2026/10/gt-newsletter-competition-currents-october-2026
 - **HCGCC 2026: Harvard Crimson Global Case Competition | WiWit** | consulting | hybrid | students | deadline: 2026-10-29 | https://wiwitness.com/opportunities/harvard-crimson-global-case-competition-hcgcc
+- **NDANGIRA.COM - Jobs, Scholarships, Tenders & Opportunities in Rwanda** | finance | online | students | deadline: 2026-10-30 | https://ird.oou.cmu.ac.th/2026-shenzhen-international-fintech-competition/
 - **HHL Finance Case Challenge | Leipzig - powered by BCG** | consulting | in-person | students | deadline: 2026-10-30 | https://www.hhl.de/event/hhl-finance-case-challenge-leipzig/
-- **AI Business Challenge 2026 by Badruka School of Management** | finance | online | students | deadline: 2026-11-01 | https://internshala.com/registration/student?utm_source=is_competitions&utm_medium=header
+- **Shenzhen International FinTech Competition 2026 - Fellowships Guide** | finance | online | students | deadline: 2026-10-31 | https://drive.scmc.cmu.ac.th/s/knkpsQd5HpwJ9qj?dir=/&editing=false&openfile=true
 - **Application Deadlines — Management Consulting Group** | consulting | unknown | students | deadline: 2026-11-01 | http://mcgbinghamton.com/application-deadlines
 - **6th Dr. Ashok Kumar Mohapatra Memorial Moot Court Competition 2026** | product | hybrid | students | deadline: 2026-11-06 | https://tinyurl.com/AKM-REGISTRATION
+- **Agentic Banking Hackathon 2026 - Internshala Competitions** | finance | hybrid | students | deadline: 2026-11-15 | https://internshala.com/registration/student?utm_source=is_competitions&utm_medium=header
 - **Trading Challenge - The Prairie View A&M Virtual Trading Platform** | finance | online | students | deadline: 2026-11-20 | https://edu.stocktrak.com/pvamutrading/trading-challenge/
+- **October 2026 Hackathon List: Deadlines, Links, and Best Fit** | finance | hybrid | students | deadline: 2026-11-30 | https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Foctober-2026-hackathon-list-70-events-deadlines-links-who-ibjgf&trk=pulse-article_contextual-sign-in-modal_join-link
 - **Tech Tack- Product Management Case Competition-2026** | product | hybrid | students | deadline: 2026-11-30 | https://www.startupgrantsindia.com/competitions/tech-tack-product-management-case-competition-2026
 - **Consulting deadlines tracker · RecruitMap** | consulting | hybrid | students | deadline: 2026-11-30 | https://recruitmap.org/deadlines
-- **ADIA Lab Structural Break Open Benchmark Challenge | Quant Challenges** | finance | online | students | deadline: 2027-01-01 | https://quantchallenges.com/challenges/susquehanna-predictions-cup-2026-midterm-elections-competition-qc-2950
+- **Free Grants and Programs for Small Business | CO- by US Chamber of Commerce** | finance | hybrid | students | deadline: 2026-12-31 | https://www.uschamber.com/co/events/co-100-sbf-registration
 - **NationBuilding Case Study Competition 2026 - 2026** | consulting | hybrid | students | deadline: 2027-01-03 | https://unstop.com/competitions/1759161/register
+- **Quant Challenges for Trading, Finance & Research** | finance | online | students | deadline: 2027-01-06 | https://quantchallenges.com/challenges/susquehanna-predictions-cup-2026-midterm-elections-competition-qc-2950
+- **Shenzhen FinTech Competition 2026: RMB 250,000 Pool** | finance | hybrid | students | deadline: 2027-01-06 | https://fintechathon.g-ican.com/#/en
+- **Free Stock Market Games: Six Contests Compared 2026** | finance | hybrid | students | deadline: 2027-01-25 | https://cryptoticker.io/en/free-stock-market-games/
 - **Stevens High Frequency Trading Competition 2027 | Quant Challenges** | finance | online | students | deadline: 2027-01-31 | https://quantchallenges.com/challenges/2027-stevens-high-frequency-trading-competition-qc-2951
 - **Calendar - Conrad Challenge** | finance | online | students | deadline: 2027-02-01 | https://conrad.spacecenter.org/about/calendar/
 - **Deadlines | HMMT** | finance | online | n/a | deadline: 2027-02-13 | https://www.hmmt.org/rg/nu
@@ -25,8 +29,9 @@
 - **10 Business Programs and Competitions for International Students | Borderless** | consulting | hybrid | students | deadline: 2027-02-21 | https://borderless.so/blog/business-programs-and-competitions-for-international-students
 - **African NGO Funding Opportunities – October & November 2026 – African NGOs** | finance | online | students | deadline: 2027-03-31 | https://www.ifa.de/en/funding/zivik
 - **UK & Ireland Student Competitions Database | CompeteMap** | consulting | unknown | students | deadline: 2027-05-06 | https://competemap.com/
+- **MONECO Financial Training : Home Page** | finance | hybrid | n/a | deadline: 2027-09-21 | https://www.moneco.com/
 - **CIMA Case Study Exam Dates 2026–2027: OCS, MCS & SCS Timetable — MSL Business School** | consulting | online | students | deadline: 2027-11-12 | https://www.mslbusinessschool.com/cima
-- **AI Drives Surge in WorldQuant Quant Competition Registrations** | finance | online | students | deadline: n/a | https://www.globalbankingandfinance.com/ai-use-lifts-participation-worldquant-contest/
+- **AI Drives Surge in WorldQuant Quant Competition Registrations** | finance | hybrid | students | deadline: n/a | https://www.globalbankingandfinance.com/ai-use-lifts-participation-worldquant-contest/
 - **Upcoming case competitions in October 2026** | finance | hybrid | students | deadline: n/a | https://brabble.ai/upcoming/case-competitions/october-2026
 - **Case competitions open for entry, sorted by deadline** | finance | hybrid | students | deadline: n/a | https://brabble.ai/case-competitions
 - **Case competitions for college and MBA students, open now** | finance | hybrid | students | deadline: n/a | https://brabble.ai/college-students/case-competitions
@@ -41,7 +46,6 @@
 - **116 Fintech Hackathons | Hackathon Radar** | finance | hybrid | students | deadline: n/a | https://www.hackathonradar.com/discover/c/fintech
 - **Airwallex Agentic Banking Hackathon** | finance | hybrid | n/a | deadline: n/a | https://www.hackerearth.com/community/challenges/hackathon/agentic-banking-hackathon/?register=true
 - **Hackathons open for registration, sorted by deadline** | finance | hybrid | students | deadline: n/a | https://brabble.ai/hackathons
-- **JPMorganChase hiring 2026 APAC Career4Corp Case Challenge - Corporate Analyst Development Program (Singapore) in Singapore, Singapore | Link** | finance | hybrid | students | deadline: n/a | https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
 - **Crypto Trading Contests In 2026** | finance | hybrid | students | deadline: n/a | https://partner.bybit.com/b/bannertu
 - **Crypto World's Fair Hackathon - Colosseum** | finance | online | students | deadline: n/a | https://colosseum.com/arena/hackathon/register?entry=worldsfair
 - **October 2026 Opportunities: 14 Openings for Africa’s Founders, Innovators and Changemakers** | finance | hybrid | students | deadline: n/a | https://menterprise.africa/october-2026-opportunities-for-africans/
@@ -189,3 +193,16 @@
 - **Tech Fuse Des Moines 2026 at Community Choice Credit Union Convention Center, Des Moines on 15th October, 2026** | product | in-person | students | deadline: n/a | https://happeningnext.com/event/tech-fuse-des-moines-2026-eid1ef0ksr9xhtr
 - **Competitions Australia Online** | product | online | n/a | deadline: n/a | https://www.lottos.com.au/competitions/purch_form.php
 - **Kern Robotics High School League '26-'27 - PM : VEX V5 Robotics Competition "Override" - HS Only : VEX Events** | product | hybrid | n/a | deadline: n/a | https://events.vex.com/robot-competitions/vex-robotics-competition/RE-V5RC-26-4214.html
+- **Free Trading Competitions | Top Contests To Win Real Prizes** | finance | hybrid | students | deadline: n/a | https://tradersunion.com/contests/best-trading-competitions/
+- **GIFT Finance Olympiad: National Student Case Challenge 2026 | IIM Bangalore** | finance | hybrid | students | deadline: n/a | https://www.iimb.ac.in/ccmrm-national-student-case-challenge-2026
+- **Crypto Trading Contests In 2026** | finance | hybrid | students | deadline: n/a | https://tradersunion.com/contests/crypto-trading-contests/
+- **Trading Competitions in 2026: What Traders in India Should Check Before Joining a Global Contest** | finance | online | n/a | deadline: n/a | https://tradebrains.in/brand/trading-competitions-in-2026-what-traders-in-india-should-check-before-joining-a-global-contest-12678788
+- **The Leap by AMP Futures — September, 2026 — TradingView** | finance | online | n/a | deadline: n/a | https://www.tradingview.com/the-leap/amp-futures-september-2026/
+- **Best Stock Trading Contests In 2026** | finance | hybrid | students | deadline: n/a | https://tradersunion.com/contests/best-stock-trading-contests/
+- **Finance West Africa 2026** | finance | hybrid | n/a | deadline: n/a | https://www.theasianbanker.com/finance-west-africa-2026/agenda
+- **MoneyBhai Review 2026: India's Best Free Virtual Stock Trading Simulator?** | finance | online | students | deadline: n/a | https://papertradingapp.com/moneybhai/
+- **Virtual Trading App India 2026 – Apps on Google Play** | finance | online | n/a | deadline: n/a | https://play.google.com/store/apps/details?id=zerostake.app&hl=en-GB
+- **Stock Market Simulator: Practice With Fake Money — Tradewink** | finance | online | students | deadline: n/a | https://www.tradewink.com/learn/stock-market-simulator-guide
+- **12 Investing Competitions for High Schoolers 2026-27** | finance | hybrid | students | deadline: n/a | https://rapunzl.com/blog/investing-competitions-high-school-2026-27
+- **Mobius Social's Inaugural Stock Investment Simulation Competition to Launch Tomorrow in Singapore** | finance | hybrid | n/a | deadline: n/a | https://www.finanznachrichten.de/nachrichten-2026-08/69426146-mobius-social-s-inaugural-stock-investment-simulation-competition-to-launch-tomorrow-in-singapore-011.htm
+- **Learn Stock Trading in Pakistan – Virtual Rs. 1,000,000 Practice Account** | finance | online | students | deadline: n/a | https://www.pakstockexchange.com/
