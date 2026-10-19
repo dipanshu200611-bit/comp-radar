@@ -1,8 +1,6 @@
-# Competitions (updated 2026-10-18)
+# Competitions (updated 2026-10-19)
 
-- **Ace The Case 2026 | SummIT: ₹2L Prize Pool, Apply by 18 Oct** | consulting | hybrid | students | deadline: 2026-10-18 | https://www.startupgrantsindia.com/competitions/ace-the-case-2026-summit
-- **SafeTech Africa HackLab 2026: Apply Youth Innovation Challenge to Win US$5,000–US$10,000 in Seed Fundin - Opportunities for Youth** | product | online | students | deadline: 2026-10-18 | https://opportunitiesforyouth.org/2026/10/09/communications-design-lead-at-ylabs-a-senior-role-shaping-global-youth-focused-impact/
-- **Shenzhen FinTech Competition 2026 in China (Fully Funded) - Global Jobs Atlas** | finance | online | students | deadline: 2026-10-20 | https://brightscholarship.com/china-shenzhen-fintech-competition/
+- **China Shenzhen FinTech Competition 2026 for Global Innovators (Fully Funded) - Bright Scholarship** | finance | online | students | deadline: 2026-10-20 | https://brightscholarship.com/china-shenzhen-fintech-competition/
 - **2026 Shenzhen International FinTech Competition (FinTechathon) – International Track – Open Opportunities** | finance | hybrid | students | deadline: 2026-10-20 | https://openopportunities.org/opportunities/2026-shenzhen-international-fintech-competition-fintechathon-international-track/
 - **Case:Zero (2026) — ₹20,000 Prize Pool, Apply by 20 Oct** | consulting | hybrid | students | deadline: 2026-10-20 | https://www.startupgrantsindia.com/competitions/casezero
 - **Competition Currents | October 2026 | Insights | Greenberg Traurig LLP** | consulting | hybrid | students | deadline: 2026-10-29 | https://www.gtlaw.com/en/insights/2026/10/gt-newsletter-competition-currents-october-2026
@@ -25,9 +23,11 @@
 - **Stevens High Frequency Trading Competition 2027 | Quant Challenges** | finance | online | students | deadline: 2027-01-31 | https://quantchallenges.com/challenges/2027-stevens-high-frequency-trading-competition-qc-2951
 - **Calendar - Conrad Challenge** | finance | online | students | deadline: 2027-02-01 | https://conrad.spacecenter.org/about/calendar/
 - **Deadlines | HMMT** | finance | online | n/a | deadline: 2027-02-13 | https://www.hmmt.org/rg/nu
+- **9 Photography Contests Still Open in October 2026: Verified Deadlines and Entry Rules - Camera Times** | finance | online | students | deadline: 2027-02-14 | https://cameratimes.org/october-2026-photography-contests-open-calls/
 - **CIMA Strategic Case Study (SCS): Exam Guide & Resources — MSL Business School** | consulting | online | n/a | deadline: 2027-02-19 | https://www.mslbusinessschool.com/cima-strategic-case-study
 - **10 Business Programs and Competitions for International Students | Borderless** | consulting | hybrid | students | deadline: 2027-02-21 | https://borderless.so/blog/business-programs-and-competitions-for-international-students
 - **African NGO Funding Opportunities – October & November 2026 – African NGOs** | finance | online | students | deadline: 2027-03-31 | https://www.ifa.de/en/funding/zivik
+- **City of Chicago :: DCASE Opportunities** | finance | hybrid | students | deadline: 2027-04-15 | https://www.chicago.gov/content/city/en/depts/dca/supp_info/dance_residency_call.html
 - **UK & Ireland Student Competitions Database | CompeteMap** | consulting | unknown | students | deadline: 2027-05-06 | https://competemap.com/
 - **MONECO Financial Training : Home Page** | finance | hybrid | n/a | deadline: 2027-09-21 | https://www.moneco.com/
 - **CIMA Case Study Exam Dates 2026–2027: OCS, MCS & SCS Timetable — MSL Business School** | consulting | online | students | deadline: 2027-11-12 | https://www.mslbusinessschool.com/cima
@@ -206,3 +206,9 @@
 - **12 Investing Competitions for High Schoolers 2026-27** | finance | hybrid | students | deadline: n/a | https://rapunzl.com/blog/investing-competitions-high-school-2026-27
 - **Mobius Social's Inaugural Stock Investment Simulation Competition to Launch Tomorrow in Singapore** | finance | hybrid | n/a | deadline: n/a | https://www.finanznachrichten.de/nachrichten-2026-08/69426146-mobius-social-s-inaugural-stock-investment-simulation-competition-to-launch-tomorrow-in-singapore-011.htm
 - **Learn Stock Trading in Pakistan – Virtual Rs. 1,000,000 Practice Account** | finance | online | students | deadline: n/a | https://www.pakstockexchange.com/
+- **Trading Competitions 2026: Live Prize Pools and Contests** | finance | online | n/a | deadline: n/a | https://tradercomps.com/competitions
+- **Home - Delta Sigma Pi x Quinlan Case Competition - LibGuides at Loyola University Chicago** | finance | hybrid | students | deadline: n/a | https://libraries.luc.edu/QuinlanCaseCompetition
+- **Origins Hackathon | TOKEN2049 | 6-7 October 2027 | Singapore** | finance | hybrid | students | deadline: n/a | https://www.token2049.com/singapore/2049-origins
+- **Public Finance Conference 2026 - Bajeti Hub** | finance | hybrid | students | deadline: n/a | https://bajetihub.org/public-finance-conference-registration-page/
+- **Alpha Capital Free Trading Competition (2026)** | finance | hybrid | n/a | deadline: n/a | https://alphacapitalgroup.uk/resources/free-monthly-trading-competition-alpha-capital-2026
+- **JSE Investment Challenge draws almost 92 000 young participants** | finance | online | students | deadline: n/a | https://thenational.co.za/news/2026-10-16-jse-investment-challenge-draws-almost-92-000-young-participants/
