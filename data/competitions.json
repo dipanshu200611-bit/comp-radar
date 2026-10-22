@@ -49,7 +49,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-22"
  },
  "https://brabble.ai/college-students/case-competitions": {
   "title": "Case competitions for college and MBA students, open now",
@@ -260,17 +260,17 @@
   "last_seen": "2026-10-15"
  },
  "https://www.linkedin.com/signup/cold-join": {
-  "title": "October 2026 Hackathon List: Deadlines, Links, and Best Fit",
+  "title": "Reddit, Inc. | LinkedIn",
   "organizer": "",
-  "mode": "hybrid",
-  "eligibility": "students",
-  "deadline": "2026-11-30",
-  "registration_url": "https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Foctober-2026-hackathon-list-70-events-deadlines-links-who-ibjgf&trk=pulse-article_contextual-sign-in-modal_join-link",
-  "page": "https://www.linkedin.com/pulse/october-2026-hackathon-list-70-events-deadlines-links-who-ibjgf",
+  "mode": "online",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Freddit-com&trk=public_biz_promo-join",
+  "page": "https://www.linkedin.com/company/reddit-com/",
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-22"
  },
  "https://edu.stocktrak.com/pvamutrading/trading-challenge": {
   "title": "Trading Challenge - The Prairie View A&M Virtual Trading Platform",
@@ -660,7 +660,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-22"
  },
  "https://www.iseg.ulisboa.pt/en/2026/10/global-management-challenge-registration-is-open-until-october-26": {
   "title": "Global Management Challenge: Registration Open Through October 26 - ISEG",
@@ -764,7 +764,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-22"
  },
  "https://sa.ku.edu": {
   "title": "EY/KU Case Competition - The University of Kansas",
@@ -829,7 +829,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-22"
  },
  "https://bit.ly/BURSONPRAXISAP26": {
   "title": "PRAXIS Asia-Pacific Summit 2026",
@@ -2571,7 +2571,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-22"
  },
  "https://cryptoticker.io/en/free-stock-market-games": {
   "title": "Free Stock Market Games: Six Contests Compared 2026",
@@ -2584,7 +2584,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-22"
  },
  "https://www.finanznachrichten.de/nachrichten-2026-08/69426146-mobius-social-s-inaugural-stock-investment-simulation-competition-to-launch-tomorrow-in-singapore-011.htm": {
   "title": "Mobius Social's Inaugural Stock Investment Simulation Competition to Launch Tomorrow in Singapore",
@@ -2636,7 +2636,7 @@
   "category": "finance",
   "first_seen": "2026-10-19",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-22"
  },
  "https://libraries.luc.edu/QuinlanCaseCompetition": {
   "title": "Home - Delta Sigma Pi x Quinlan Case Competition - LibGuides at Loyola University Chicago",
@@ -3080,19 +3080,6 @@
   "reminded": false,
   "last_seen": "2026-10-20"
  },
- "https://www.nydesignawards.com": {
-  "title": "NY Product Design Awards | International Product Design Competition",
-  "organizer": "",
-  "mode": "unknown",
-  "eligibility": "",
-  "deadline": "2026-10-21",
-  "registration_url": "https://www.nydesignawards.com/",
-  "page": "https://www.nydesignawards.com/",
-  "category": "product",
-  "first_seen": "2026-10-20",
-  "reminded": true,
-  "last_seen": "2026-10-21"
- },
  "https://apmlist.org/resources/google-apm-associate-product-manager-internship": {
   "title": "Google APM Internship 2027: London Still Open, Pay, Dates",
   "organizer": "",
@@ -3209,5 +3196,70 @@
   "first_seen": "2026-10-21",
   "reminded": false,
   "last_seen": "2026-10-21"
+ },
+ "https://en.wikipedia.org/wiki/Space_Shuttle": {
+  "title": "Space Shuttle - Wikipedia",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://en.wikipedia.org/wiki/Space_Shuttle",
+  "page": "https://en.wikipedia.org/wiki/Space_Shuttle",
+  "category": "finance",
+  "first_seen": "2026-10-22",
+  "reminded": false,
+  "last_seen": "2026-10-22"
+ },
+ "https://www.instant-gaming.com/fr": {
+  "title": "Achetez vos jeux vid\u00e9o moins cher sur PC et consoles - Instant Gaming",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.instant-gaming.com/fr/",
+  "page": "https://www.instant-gaming.com/fr/",
+  "category": "consulting",
+  "first_seen": "2026-10-22",
+  "reminded": false,
+  "last_seen": "2026-10-22"
+ },
+ "https://www.investopedia.com/terms/b/business.asp": {
+  "title": "What Is a Business? Understanding Different Types and Company Sizes",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.investopedia.com/terms/b/business.asp",
+  "page": "https://www.investopedia.com/terms/b/business.asp",
+  "category": "consulting",
+  "first_seen": "2026-10-22",
+  "reminded": false,
+  "last_seen": "2026-10-22"
+ },
+ "https://en.wikipedia.org/wiki/Press-Register": {
+  "title": "Reddit - Wikipedia",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://en.wikipedia.org/wiki/Press-Register",
+  "page": "https://en.m.wikipedia.org/wiki/Reddit",
+  "category": "consulting",
+  "first_seen": "2026-10-22",
+  "reminded": false,
+  "last_seen": "2026-10-22"
+ },
+ "https://www.business.reddit.com/events": {
+  "title": "Reach your customers on Reddit | Reddit for Business",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://www.business.reddit.com/events",
+  "page": "https://www.business.reddit.com/",
+  "category": "consulting",
+  "first_seen": "2026-10-22",
+  "reminded": false,
+  "last_seen": "2026-10-22"
  }
 }

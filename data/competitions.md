@@ -1,6 +1,5 @@
-# Competitions (updated 2026-10-21)
+# Competitions (updated 2026-10-22)
 
-- **NY Product Design Awards | International Product Design Competition** | product | unknown | n/a | deadline: 2026-10-21 | https://www.nydesignawards.com/
 - **Competition Currents | October 2026 | Insights | Greenberg Traurig LLP** | consulting | hybrid | students | deadline: 2026-10-29 | https://www.gtlaw.com/en/insights/2026/10/gt-newsletter-competition-currents-october-2026
 - **HCGCC 2026: Harvard Crimson Global Case Competition | WiWit** | consulting | hybrid | students | deadline: 2026-10-29 | https://wiwitness.com/opportunities/harvard-crimson-global-case-competition-hcgcc
 - **HHL Finance Case Challenge | Leipzig - powered by BCG** | consulting | in-person | students | deadline: 2026-10-30 | https://www.hhl.de/event/hhl-finance-case-challenge-leipzig/
@@ -12,7 +11,6 @@
 - **Global Equity Valuation Competition - Season 3 (Competition, deadline November 11, 2026) · Opportunity Universe** | finance | online | students | deadline: 2026-11-11 | https://opportunity-universe.com/en/opportunity/40390-global-equity-valuation-competition-season-3
 - **Agentic Banking Hackathon 2026 - Internshala Competitions** | finance | hybrid | students | deadline: 2026-11-15 | https://internshala.com/registration/student?utm_source=is_competitions&utm_medium=header
 - **Trading Challenge - The Prairie View A&M Virtual Trading Platform** | finance | online | students | deadline: 2026-11-20 | https://edu.stocktrak.com/pvamutrading/trading-challenge/
-- **October 2026 Hackathon List: Deadlines, Links, and Best Fit** | finance | hybrid | students | deadline: 2026-11-30 | https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Foctober-2026-hackathon-list-70-events-deadlines-links-who-ibjgf&trk=pulse-article_contextual-sign-in-modal_join-link
 - **Tech Tack- Product Management Case Competition-2026** | product | hybrid | students | deadline: 2026-11-30 | https://www.startupgrantsindia.com/competitions/tech-tack-product-management-case-competition-2026
 - **Consulting deadlines tracker · RecruitMap** | consulting | hybrid | students | deadline: 2026-11-30 | https://recruitmap.org/deadlines
 - **NSS Roadmap to Space Art Contest 2026 | WiWit** | product | hybrid | students | deadline: 2026-11-30 | https://wiwitness.com/opportunities/nss-roadmap-to-space-art-contest
@@ -48,6 +46,7 @@
 - **127 Fintech Hackathons | Hackathon Radar** | finance | hybrid | students | deadline: n/a | https://www.hackathonradar.com/discover/c/fintech
 - **Airwallex Agentic Banking Hackathon** | finance | hybrid | n/a | deadline: n/a | https://www.hackerearth.com/community/challenges/hackathon/agentic-banking-hackathon/?register=true
 - **Hackathons open for registration, sorted by deadline** | finance | hybrid | students | deadline: n/a | https://brabble.ai/hackathons
+- **Reddit, Inc. | LinkedIn** | finance | online | n/a | deadline: n/a | https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Freddit-com&trk=public_biz_promo-join
 - **Crypto Trading Contests In 2026** | finance | hybrid | students | deadline: n/a | https://partner.bybit.com/b/bannertu
 - **Crypto World's Fair Hackathon - Colosseum** | finance | online | students | deadline: n/a | https://colosseum.com/arena/hackathon/register?entry=worldsfair
 - **October 2026 Opportunities: 14 Openings for Africa’s Founders, Innovators and Changemakers** | finance | hybrid | students | deadline: n/a | https://menterprise.africa/october-2026-opportunities-for-africans/
@@ -249,3 +248,8 @@
 - **MH Markets | Best Forex Broker to Trade Forex, Metals, Stocks, Indices, etc.** | finance | online | students | deadline: n/a | https://landingpage.mhmarkets.com/en/grand-prix-trading-competition
 - **Free Stock Market Games, Compared (2026)** | finance | online | n/a | deadline: n/a | https://playfsl.com/free-stock-market-games
 - **CASESCEND’26 - The Ultimate Case Competition - closes Fri 23 Oct** | consulting | unknown | students | deadline: n/a | https://brabble.ai/go/unstop-1772545?placement=detail_page
+- **Space Shuttle - Wikipedia** | finance | online | students | deadline: n/a | https://en.wikipedia.org/wiki/Space_Shuttle
+- **Achetez vos jeux vidéo moins cher sur PC et consoles - Instant Gaming** | consulting | online | students | deadline: n/a | https://www.instant-gaming.com/fr/
+- **What Is a Business? Understanding Different Types and Company Sizes** | consulting | hybrid | students | deadline: n/a | https://www.investopedia.com/terms/b/business.asp
+- **Reddit - Wikipedia** | consulting | hybrid | students | deadline: n/a | https://en.wikipedia.org/wiki/Press-Register
+- **Reach your customers on Reddit | Reddit for Business** | consulting | online | n/a | deadline: n/a | https://www.business.reddit.com/events
