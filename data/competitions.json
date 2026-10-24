@@ -104,17 +104,17 @@
   "last_seen": "2026-10-23"
  },
  "https://quantchallenges.com/challenges/susquehanna-predictions-cup-2026-midterm-elections-competition-qc-2950": {
-  "title": "Quant Challenges for Trading, Finance & Research",
+  "title": "Stocks Return Prediction V3 | Quant Challenges",
   "organizer": "",
   "mode": "online",
   "eligibility": "students",
-  "deadline": "2027-01-06",
+  "deadline": "2027-01-01",
   "registration_url": "https://quantchallenges.com/challenges/susquehanna-predictions-cup-2026-midterm-elections-competition-qc-2950",
-  "page": "https://quantchallenges.com/",
+  "page": "https://quantchallenges.com/challenges/stocks-return-prediction-v3-qc-2814",
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-24"
  },
  "https://builtin.com/job/2026-undergraduate-case-competition-registration/11465600": {
   "title": "2026 Undergraduate Case Competition Registration - Farallon Capital Management, L.L.C | Built In",
@@ -348,7 +348,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-24"
  },
  "https://quantchallenges.com/challenges/2027-stevens-high-frequency-trading-competition-qc-2951": {
   "title": "Stevens High Frequency Trading Competition 2027 | Quant Challenges",
@@ -361,7 +361,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-20"
+  "last_seen": "2026-10-24"
  },
  "https://quantchallenges.com/challenges/global-quant-trading-challenge-qc-2818": {
   "title": "Global Quant Trading Challenge | Quant Challenges",
@@ -374,7 +374,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-24"
  },
  "https://quantchallenges.com/challenges/forgealpha-challenge-qc-2908": {
   "title": "ForgeAlpha Challenge | Quant Challenges",
@@ -387,7 +387,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-17"
+  "last_seen": "2026-10-24"
  },
  "https://quantchallenges.com/challenges/synth-synthetic-price-data-qc-2612": {
   "title": "Numerai Tournament | Quant Challenges",
@@ -2636,7 +2636,7 @@
   "category": "finance",
   "first_seen": "2026-10-19",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-24"
  },
  "https://libraries.luc.edu/QuinlanCaseCompetition": {
   "title": "Home - Delta Sigma Pi x Quinlan Case Competition - LibGuides at Loyola University Chicago",

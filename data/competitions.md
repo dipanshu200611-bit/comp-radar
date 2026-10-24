@@ -1,4 +1,4 @@
-# Competitions (updated 2026-10-23)
+# Competitions (updated 2026-10-24)
 
 - **Competition Currents | October 2026 | Insights | Greenberg Traurig LLP** | consulting | hybrid | students | deadline: 2026-10-29 | https://www.gtlaw.com/en/insights/2026/10/gt-newsletter-competition-currents-october-2026
 - **HCGCC 2026: Harvard Crimson Global Case Competition | WiWit** | consulting | hybrid | students | deadline: 2026-10-29 | https://wiwitness.com/opportunities/harvard-crimson-global-case-competition-hcgcc
@@ -20,8 +20,8 @@
 - **Apply: UAE Opens Innovation Challenge for Financial Health Solutions - EduTimes Africa** | finance | online | students | deadline: 2026-11-30 | https://edutimesafrica.com/wp-content/uploads/2026/07/hand-writing-apply-now-on-a-chalkboard.jpg
 - **Global Case Competition (HCGCC) | Borderless** | consulting | online | students | deadline: 2026-12-01 | https://borderless.so/extracurricular-programs/crimson-education/global-case-competition
 - **Free Grants and Programs for Small Business | CO- by US Chamber of Commerce** | finance | hybrid | students | deadline: 2026-12-31 | https://www.uschamber.com/co/events/co-100-sbf-registration
+- **Stocks Return Prediction V3 | Quant Challenges** | finance | online | students | deadline: 2027-01-01 | https://quantchallenges.com/challenges/susquehanna-predictions-cup-2026-midterm-elections-competition-qc-2950
 - **NationBuilding Case Study Competition 2026 - 2026** | consulting | hybrid | students | deadline: 2027-01-03 | https://unstop.com/competitions/1759161/register
-- **Quant Challenges for Trading, Finance & Research** | finance | online | students | deadline: 2027-01-06 | https://quantchallenges.com/challenges/susquehanna-predictions-cup-2026-midterm-elections-competition-qc-2950
 - **Shenzhen FinTech Competition 2026: RMB 250,000 Pool** | finance | hybrid | students | deadline: 2027-01-06 | https://fintechathon.g-ican.com/#/en
 - **Free Stock Market Games: Six Contests Compared 2026** | finance | hybrid | students | deadline: 2027-01-25 | https://cryptoticker.io/en/free-stock-market-games/
 - **Stevens High Frequency Trading Competition 2027 | Quant Challenges** | finance | online | students | deadline: 2027-01-31 | https://quantchallenges.com/challenges/2027-stevens-high-frequency-trading-competition-qc-2951
