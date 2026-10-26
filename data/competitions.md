@@ -1,4 +1,4 @@
-# Competitions (updated 2026-10-25)
+# Competitions (updated 2026-10-26)
 
 - **Competition Currents | October 2026 | Insights | Greenberg Traurig LLP** | consulting | hybrid | students | deadline: 2026-10-29 | https://www.gtlaw.com/en/insights/2026/10/gt-newsletter-competition-currents-october-2026
 - **HCGCC 2026: Harvard Crimson Global Case Competition | WiWit** | consulting | hybrid | students | deadline: 2026-10-29 | https://wiwitness.com/opportunities/harvard-crimson-global-case-competition-hcgcc
@@ -13,6 +13,7 @@
 - **Consulting Recruiting Timeline: 2026-27 Deadlines by Firm** | consulting | online | students | deadline: 2026-11-12 | https://strategycase.com/consulting-recruiting-timeline/
 - **JPMorganChase: MarketMind Challenge | Bright Network** | finance | online | students | deadline: 2026-11-13 | https://www.brightnetwork.co.uk/signup/?next=/
 - **UK National Case Championship 2026 | New London School** | finance | hybrid | students | deadline: 2026-11-14 | https://forms.gle/JaSwBCD7cDmmX1Tj6
+- **Full-Time MBA | Rutgers Business School** | consulting | hybrid | students | deadline: 2026-11-15 | https://www.business.rutgers.edu/executive-education/open-enrollment
 - **Trading Challenge - The Prairie View A&M Virtual Trading Platform** | finance | online | students | deadline: 2026-11-20 | https://edu.stocktrak.com/pvamutrading/trading-challenge/
 - **October 2026 Hackathon List: Deadlines, Links, and Best Fit** | finance | hybrid | students | deadline: 2026-11-30 | https://www.linkedin.com/signup/cold-join?session_redirect=%2Fpulse%2Foctober-2026-hackathon-list-70-events-deadlines-links-who-ibjgf&trk=pulse-article_contextual-sign-in-modal_join-link
 - **Tech Tack- Product Management Case Competition-2026** | product | hybrid | students | deadline: 2026-11-30 | https://www.startupgrantsindia.com/competitions/tech-tack-product-management-case-competition-2026
@@ -224,7 +225,7 @@
 - **Get Ready for Round One of the 2026 DECA Virtual Business Challenge | DECA Direct Online** | finance | hybrid | students | deadline: n/a | https://knowledgematters.com/highschool/competitions/deca/
 - **AI upends Singapore’s ‘quant Olympics’ — Financial Times | Dailygram News** | finance | online | students | deadline: n/a | https://dailygram.news/story/ai-upends-singapores-quant-olympics-4a39c914
 - **MH Markets | Best Forex Broker to Trade Forex, Metals, Stocks, Indices, etc.** | finance | online | n/a | deadline: n/a | https://client.mhmarkets.com/signup
-- **Replay $IND on October 16, 2026 | simul8or** | finance | online | n/a | deadline: n/a | https://simul8or.com/?ticker=IND&date=2026-10-16
+- **simul8or - Free Trading Simulator - Practice Day Trading Risk-Free** | finance | online | n/a | deadline: n/a | https://simul8or.com/
 - **Wharton Global High School Investment Competition: A Student's Guide | GRF** | finance | online | students | deadline: n/a | https://www.globalresearchfellowship.com/blog/wharton-investment-competition-guide
 - **Case Competitions — IC IIM Rohtak** | consulting | hybrid | n/a | deadline: n/a | https://internshipcommittee.com/case-competitions.html
 - **Proposed decision: SMS investigation into Microsoft’s business software ecosystem - GOV.UK** | consulting | unknown | n/a | deadline: n/a | https://www.gov.uk/government/consultations/proposed-decision-sms-investigation-into-microsofts-business-software-ecosystem
@@ -306,3 +307,41 @@
 - **Mantravat - The Flagship Case Competition - closes Sat 14 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1775042?placement=detail_page
 - **MED Detective - National Medical Case Study Competition - closes Sun 15 Nov** | consulting | in-person | students | deadline: n/a | https://brabble.ai/go/unstop-1774032?placement=detail_page
 - **ECOGEN: National Sustainability Case Competition, 2026 - closes Sun 15 Nov** | consulting | unknown | n/a | deadline: n/a | https://brabble.ai/go/unstop-1773216?placement=detail_page
+- **Stock - Wikipedia** | finance | hybrid | students | deadline: n/a | https://en.wikipedia.org/wiki/Registered_share
+- **Qualitative vs Quantitative Data Explained: Key Differences (2026)** | finance | hybrid | students | deadline: n/a | https://statisticsfundamentals.com/descriptive-statistics/qualitative-vs-quantitative/
+- **Investment - Wikipedia** | finance | online | students | deadline: n/a | https://en.wikipedia.org/wiki/Investment
+- **Financial technology - Wikipedia** | finance | hybrid | students | deadline: n/a | https://en.wikipedia.org/wiki/Financial_technology
+- **What is fintech? 6 main types of fintech and how they work | Plaid** | finance | hybrid | n/a | deadline: n/a | https://plaid.com/resources/fintech/what-is-fintech/
+- **Understanding Fintech: Enhancing Financial Services and Everyday Life** | finance | hybrid | students | deadline: n/a | https://www.investopedia.com/terms/f/fintech.asp
+- **What is Fintech? | IBM** | finance | online | n/a | deadline: n/a | https://www.ibm.com/think/topics/fintech
+- **What is Fintech? Complete Guide to Financial Technology in 2026 | Beltsys Labs** | finance | hybrid | n/a | deadline: n/a | https://beltsys.com/en/blog/what-is-fintech/
+- **Trade Your Way on TradingView with 100+ Trusted Brokers** | finance | online | n/a | deadline: n/a | https://www.tradingview.com/trading/
+- **Cryptocurrency - Wikipedia** | finance | hybrid | students | deadline: n/a | https://en.wikipedia.org/wiki/Federal_Register
+- **Cryptocurrency Prices, Charts, and Crypto Market Cap | CoinGecko** | finance | online | students | deadline: n/a | https://www.coingecko.com/
+- **Hedge (finance) - Wikipedia** | finance | hybrid | students | deadline: n/a | https://en.m.wikipedia.org/wiki/Hedge_(finance)
+- **Risk - Wikipedia** | finance | online | students | deadline: n/a | https://en.wikipedia.org/wiki/Risk_register
+- **Nigeria’s Fintech Sector Surges 70% Despite Challenges - Fintech News Africa** | finance | hybrid | n/a | deadline: n/a | https://fintechnews.africa/44869/fintech-nigeria/nigerias-fintech-sector-surges-70-despite-challenges/
+- **The Crypto Effect : Framework, challenges & The way forward – Mumbaiuncensored** | finance | hybrid | students | deadline: n/a | https://web.archive.org/web/20220124050010/https://www.mumbaiuncensored.com/2022/01/15/the-crypto-effect-framework-challenges-the-way-forward/
+- **Consultant - Wikipedia** | consulting | online | students | deadline: n/a | https://en.wikipedia.org/wiki/Consultant
+- **What Is Consulting & What Do Consultants Do? [2025]** | consulting | in-person | students | deadline: n/a | https://www.myconsultingoffer.org/what-is-consulting/
+- **What Is Consulting: A Comprehensive Guide To Value, Capabilities, And Best Practices** | consulting | in-person | n/a | deadline: n/a | https://consultingquest.com/insights/what-is-consulting-guide/
+- **What Is Consulting? Everything You Need to Know About Consulting Work and Careers | The Thinksters** | consulting | online | students | deadline: n/a | https://thethinksters.com/guide-to-consulting-work-careers-and-business-impact/
+- **Our services | Deloitte US** | consulting | unknown | students | deadline: n/a | https://www.deloitte.com/us/en/services/consulting..html
+- **Strategy - Wikipedia** | consulting | unknown | students | deadline: n/a | https://en.wikipedia.org/wiki/Strategy
+- **Strategy& - Wikipedia** | consulting | in-person | students | deadline: n/a | https://en.wikipedia.org/wiki/Strategy&
+- **Strategy& U.S. - the global strategy consulting team at PwC** | consulting | unknown | n/a | deadline: n/a | https://www.strategyand.pwc.com/us/en.html
+- **What is Strategy? Meaning, Definition, Key Features and Examples - Management Study Guide** | consulting | in-person | students | deadline: n/a | https://www.managementstudyguide.com/user-login
+- **What is Strategy? | Strategic Thinking Institute** | consulting | online | n/a | deadline: n/a | https://www.strategyskills.com/what-is-strategy/
+- **Management - Wikipedia** | consulting | online | students | deadline: n/a | https://en.wikipedia.org/wiki/Management
+- **What Is Management? Meaning, Benefits & Best Practices** | consulting | hybrid | n/a | deadline: n/a | https://www.managementlegend.com/what-is-management
+- **What is Management? Definition, Functions & Types Explained** | consulting | hybrid | students | deadline: n/a | https://instituteprojectmanagement.com/lecture-and-volunteer/
+- **MANAGEMENT Definition & Meaning - Merriam-Webster** | consulting | online | students | deadline: n/a | https://www.merriam-webster.com/dictionary/management
+- **Master of Business Administration - Wikipedia** | consulting | hybrid | students | deadline: n/a | https://en.m.wikipedia.org/wiki/Master_of_Business_Administration
+- **What is a Master Of Business Administration degree (MBA)?** | consulting | hybrid | students | deadline: n/a | https://www.mba.com/apply-and-get-ready?nav=header
+- **What Is an MBA? Your Complete Guide to MBA Degrees (2026)** | consulting | hybrid | students | deadline: n/a | https://www.mbaschools.org/resources/what-is-an-mba/
+- **Mastering Digital Transformation: A Case Study (Part 1) | Thoughtworks** | consulting | in-person | n/a | deadline: n/a | https://www.thoughtworks.com/insights/blog/mastering-digital-transformation-case-study-part-1
+- **Competition and Business Strategy in Historical Perspective | Business History Review | Cambridge Core** | consulting | online | students | deadline: n/a | https://www.amazon.com/gp/help/customer/display.html/ref=kinw_myk_wl_ln?ie=UTF8&nodeId=200767340#fees
+- **Tax Transformation Consulting | Deloitte US** | consulting | unknown | n/a | deadline: n/a | https://www.deloitte.com/us/en/services/tax/services/tax-technology-consulting.html
+- **Counter-terrorism strategy (CONTEST) 2018 - GOV.UK** | consulting | unknown | n/a | deadline: n/a | https://www.gov.uk/government/publications/counter-terrorism-strategy-contest-2018
+- **Careers | Strategy& US** | consulting | unknown | students | deadline: n/a | https://www.strategyand.pwc.com/us/en/careers/entry-level.html
+- **Case study - Wikipedia** | consulting | unknown | students | deadline: n/a | https://en.wikipedia.org/wiki/Case_study
