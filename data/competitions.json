@@ -10,7 +10,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/upcoming/case-competitions/october-2026": {
   "title": "Upcoming case competitions in October 2026",
@@ -36,7 +36,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": true,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/case-competitions": {
   "title": "Case competitions open for entry, sorted by deadline",
@@ -49,7 +49,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/college-students/case-competitions": {
   "title": "Case competitions for college and MBA students, open now",
@@ -62,7 +62,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://joinprop.com/prop-news/rebelsfunding-opens-a-free-october-trading-competition-on-october-5-with-up-to-320000-in-funded-accounts-for-the-top-150": {
   "title": "RebelsFunding Opens A Free October Trading Competition On October 5 With Up To $320,000 In Funded Accounts For The Top 150 | JoinProp",
@@ -88,7 +88,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://www.abcmoney.co.uk/2026/09/the-wharton-investment-competition-is-free-open-to-any-high-schooler-and-more-competitive-than-most-people-realize": {
   "title": "The Wharton Investment Competition Is Free, Open to Any High Schooler, and More Competitive Than Most People Realize | ABC Money",
@@ -192,7 +192,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://globaltv.in/hackathon26": {
   "title": "FinTech Innovation Hackathon 2026 | St Aloysius and RBIH Launch FinTech Innovation Hackathon 2026 to Fight Digital Payment Fraud | Global TV",
@@ -208,7 +208,7 @@
   "last_seen": "2026-10-21"
  },
  "https://www.hackathonradar.com/discover/c/fintech": {
-  "title": "123 Fintech Hackathons | Hackathon Radar",
+  "title": "122 Fintech Hackathons | Hackathon Radar",
   "organizer": "",
   "mode": "hybrid",
   "eligibility": "students",
@@ -218,7 +218,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://www.hackerearth.com/community/challenges/hackathon/agentic-banking-hackathon": {
   "title": "Airwallex Agentic Banking Hackathon",
@@ -231,20 +231,20 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-15"
+  "last_seen": "2026-10-27"
  },
  "https://internshala.com/registration/student": {
-  "title": "AI Business Challenge 2026 by Badruka School of Management",
+  "title": "Agentic Banking Hackathon 2026 - Internshala Competitions",
   "organizer": "",
-  "mode": "online",
+  "mode": "hybrid",
   "eligibility": "students",
-  "deadline": "2026-11-01",
+  "deadline": "2026-11-15",
   "registration_url": "https://internshala.com/registration/student?utm_source=is_competitions&utm_medium=header",
-  "page": "https://internshala.com/competitions/ai-business-challenge-2026-by-badruka-school-of-management-2/",
+  "page": "https://internshala.com/competitions/agentic-banking-hackathon-2026/",
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/hackathons": {
   "title": "Hackathons open for registration, sorted by deadline",
@@ -322,7 +322,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.ifa.de/en/funding/zivik": {
   "title": "African NGO Funding Opportunities \u2013 October & November 2026 \u2013 African NGOs",
@@ -634,7 +634,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "http://mcgbinghamton.com/application-deadlines": {
   "title": "Application Deadlines \u2014 Management Consulting Group",
@@ -647,7 +647,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/case-competitions/online": {
   "title": "Online case competitions you can join from anywhere",
@@ -660,7 +660,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.iseg.ulisboa.pt/en/2026/10/global-management-challenge-registration-is-open-until-october-26": {
   "title": "Global Management Challenge: Registration Open Through October 26 - ISEG",
@@ -712,7 +712,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://unstop.com/competitions/1757615/register": {
   "title": "SMART TANK 5.0 | NATIONAL CASE COMPETITION | FLAME UNIVERSITY  - 2026",
@@ -751,7 +751,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://www.thecasecentre.org/caseLearning/competitions": {
   "title": "Hackathons & Case Competitions 2026 | Brabble.ai",
@@ -764,7 +764,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://sa.ku.edu": {
   "title": "EY/KU Case Competition - The University of Kansas",
@@ -803,7 +803,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.investialeuven.be/lazard-case-competition": {
   "title": "Lazard Case Competition \u2013 Investia",
@@ -816,7 +816,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.casecomp.org/live-webinars": {
   "title": "Join HCGCC Live Webinars | Learn to Win Case Competitions",
@@ -829,7 +829,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://bit.ly/BURSONPRAXISAP26": {
   "title": "PRAXIS Asia-Pacific Summit 2026",
@@ -881,7 +881,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.australiancompetitionlaw.info/cases/current": {
   "title": "Current Australian competition law cases \u2014 Australian Competition Law",
@@ -920,7 +920,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": true,
-  "last_seen": "2026-10-20"
+  "last_seen": "2026-10-27"
  },
  "https://www.solutiongeek.in": {
   "title": "SolutionGeek \u2014 every case competition in India, scored against your resume",
@@ -933,7 +933,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-20"
+  "last_seen": "2026-10-27"
  },
  "https://redknightconsultancy.co.uk/2026/09/17/innovate-uk-competitions-october-2026-to-april-2027": {
   "title": "Innovate UK competitions October 2026 to April 2027 - RedKnight Consultancy | Grant Bid Writers | Funding Bid Writers | Bid Writers",
@@ -1024,7 +1024,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.aom.org/event/call-for-submissions-amd-registered-reports": {
   "title": "CAP: Strategic Management in Latin America Conference",
@@ -1115,7 +1115,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.pmi.org.in/pmsac26": {
   "title": "PMI South Asia Conference 2026 | Project Management Conference",
@@ -1193,7 +1193,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.globaltenders.com/africa/af-consultancy-tenders": {
   "title": "Africa consultancy tenders get latest Africa consultancy tenders and bids",
@@ -1466,7 +1466,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1745824": {
   "title": "Elevator Pitch: The B-Plan Event 2026 - closes Mon 30 Nov",
@@ -1479,7 +1479,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1759161": {
   "title": "Building India Case Study Competition 2027 - closes Tue 1 Dec",
@@ -1504,7 +1504,7 @@
   "page": "https://www.hhl.de/event/hhl-finance-case-challenge-leipzig/",
   "category": "consulting",
   "first_seen": "2026-10-15",
-  "reminded": false,
+  "reminded": true,
   "last_seen": "2026-10-15"
  },
  "https://brabble.ai/go/unstop-1765060": {
@@ -1765,7 +1765,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://cmsa.org/membership/join": {
   "title": "Events for October 2026 \u2013 CMSA",
@@ -1817,7 +1817,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://forms.cloud.microsoft/pages/responsepage.aspx": {
   "title": "Case Competitions | CSU College of Business",
@@ -1830,7 +1830,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://careers.crowe.com/event/6aa1819b45c7eb527d9a5519/Fall-2026-Crowe-National-Case-Competition": {
   "title": "Crowe National Case Competition | Crowe",
@@ -1856,7 +1856,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://nicholasinstitute.duke.edu/newsletter": {
   "title": "Case Competition | Energy Week at Duke University",
@@ -1882,7 +1882,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://www.flsouthern.edu/landing-pages/apply/index.html": {
   "title": "MBA Case Competition",
@@ -1895,7 +1895,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://www.thecasecompetition.org": {
   "title": "Global Case Competition at Harvard",
@@ -1908,7 +1908,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://www.lmu.edu/apply": {
   "title": "International Business Ethics and Sustainability Case Competition - Loyola Marymount University",
@@ -1921,7 +1921,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://managementconsulted.com/event/closing-the-loop-graduate-case-competition-world-cup-finals-presented-by-adobe": {
   "title": "Closing the Loop \u2013 Graduate Case Competition World Cup Finals, Presented by Adobe | Management Consulted",
@@ -1934,7 +1934,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.mslbusinessschool.com/cima-strategic-case-study": {
   "title": "CIMA Strategic Case Study (SCS): Exam Guide & Resources \u2014 MSL Business School",
@@ -2155,7 +2155,7 @@
   "category": "consulting",
   "first_seen": "2026-10-17",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1769878": {
   "title": "ASCEND 3.0 - The Ultimate Marketing Case Competition - closes Mon 9 Nov",
@@ -2181,7 +2181,7 @@
   "category": "consulting",
   "first_seen": "2026-10-17",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1770859": {
   "title": "When Lean Has No Slack: Axiom & Next Operations Case Challenge 2026 - closes Sat 31 Oct",
@@ -2194,7 +2194,7 @@
   "category": "consulting",
   "first_seen": "2026-10-17",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1757375": {
   "title": "goSTOPS Case Study Competition - closes Sat 31 Oct",
@@ -2311,7 +2311,7 @@
   "category": "consulting",
   "first_seen": "2026-10-17",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://ciber.gsu.edu/ib-case-competition": {
   "title": "IB Case Competition - Georgia State Center for International Business Education & Research",
@@ -2324,7 +2324,7 @@
   "category": "consulting",
   "first_seen": "2026-10-17",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://forum.justartscrapbooking.com/register": {
   "title": "October 2026  Challenge Tracker. | Just Art Community",
@@ -2389,7 +2389,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-10-18"
+  "last_seen": "2026-10-27"
  },
  "https://www.iimb.ac.in/ccmrm-national-student-case-challenge-2026": {
   "title": "GIFT Finance Olympiad: National Student Case Challenge 2026 | IIM Bangalore",
@@ -2402,7 +2402,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.moneco.com": {
   "title": "MONECO Financial Training : Home Page",
@@ -2415,7 +2415,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://fintechathon.g-ican.com": {
   "title": "Shenzhen FinTech Competition 2026: RMB 250,000 Pool",
@@ -2441,7 +2441,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-27"
  },
  "https://tradersunion.com/contests/crypto-trading-contests": {
   "title": "Crypto Trading Contests In 2026",
@@ -2454,7 +2454,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://www.uschamber.com/co/events/co-100-sbf-registration": {
   "title": "Free Grants and Programs for Small Business | CO- by US Chamber of Commerce",
@@ -2480,7 +2480,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://www.tradingview.com/the-leap/amp-futures-september-2026": {
   "title": "The Leap by AMP Futures \u2014 September, 2026 \u2014 TradingView",
@@ -2623,7 +2623,7 @@
   "category": "finance",
   "first_seen": "2026-10-19",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-27"
  },
  "https://tradercomps.com/competitions": {
   "title": "Trading Competitions 2026: Live Prize Pools and Contests",
@@ -2636,7 +2636,7 @@
   "category": "finance",
   "first_seen": "2026-10-19",
   "reminded": false,
-  "last_seen": "2026-10-26"
+  "last_seen": "2026-10-27"
  },
  "https://libraries.luc.edu/QuinlanCaseCompetition": {
   "title": "Home - Delta Sigma Pi x Quinlan Case Competition - LibGuides at Loyola University Chicago",
@@ -2675,7 +2675,7 @@
   "category": "finance",
   "first_seen": "2026-10-19",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://bajetihub.org/public-finance-conference-registration-page": {
   "title": "Public Finance Conference 2026 - Bajeti Hub",
@@ -2753,7 +2753,7 @@
   "category": "finance",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://tradersofcrypto.com/comp/tables": {
   "title": "All Coins Trading Competition: October 2026",
@@ -2766,7 +2766,7 @@
   "category": "finance",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-21"
+  "last_seen": "2026-10-27"
  },
  "https://knowledgematters.com/highschool/competitions/deca": {
   "title": "Get Ready for Round One of the 2026 DECA Virtual Business Challenge | DECA Direct Online",
@@ -2870,7 +2870,7 @@
   "category": "consulting",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://casecompetition.org": {
   "title": "the case | Case-decision training; historical events keep their years",
@@ -2901,7 +2901,7 @@
  "https://www.tbsnews.net/economy/corporates/texspire-wins-isus-cascade-2026-business-case-competition-1575611": {
   "title": "TexSpire wins ISU\u2019s \u2018Cascade 2026\u2019 business case competition | The Business Standard",
   "organizer": "",
-  "mode": "unknown",
+  "mode": "in-person",
   "eligibility": "students",
   "deadline": null,
   "registration_url": "https://www.tbsnews.net/economy/corporates/texspire-wins-isus-cascade-2026-business-case-competition-1575611",
@@ -2909,7 +2909,7 @@
   "category": "consulting",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://bm.hkust.edu.hk/press-releases/2026/10/hkust-international-case-competition-2026-concludes-successfully": {
   "title": "HKUST International Case Competition 2026 Concludes Successfully | HKUST Business School",
@@ -2922,7 +2922,7 @@
   "category": "consulting",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.bsg.org.uk/become-a-member": {
   "title": "New Consultants Leadership & Management Course 2026",
@@ -2987,7 +2987,7 @@
   "category": "consulting",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1771560": {
   "title": "Sankalp: Season 5 - A Consulting Case Competition - closes Fri 30 Oct",
@@ -3000,7 +3000,7 @@
   "category": "consulting",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1771536": {
   "title": "XPitch - Venture Capital Case Competition - closes Sat 31 Oct",
@@ -3013,7 +3013,7 @@
   "category": "consulting",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1771607": {
   "title": "Caseception (Case Competition) - closes Fri 20 Nov",
@@ -3026,7 +3026,7 @@
   "category": "consulting",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1767431": {
   "title": "Finance Traitors - Finance & Strategy Competition - closes Sat 31 Oct",
@@ -3039,7 +3039,7 @@
   "category": "consulting",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.eventbrite.com/e/energy-in-emerging-markets-case-competition-final-round-tickets-2003466453093": {
   "title": "Case Competition | Energy Week at Duke University",
@@ -3052,7 +3052,7 @@
   "category": "consulting",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://www.hf.uio.no/english/studies/career/case-competition/previous-competitons": {
   "title": "Previous competitons\n        \n     - Faculty of Humanities",
@@ -3195,7 +3195,7 @@
   "category": "consulting",
   "first_seen": "2026-10-21",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://en.wikipedia.org/wiki/Space_Shuttle": {
   "title": "Space Shuttle - Wikipedia",
@@ -3273,7 +3273,7 @@
   "category": "finance",
   "first_seen": "2026-10-23",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/faq": {
   "title": "Wharton Investment Competition 2026-2027: Official Deadlines and Resources - WGHS Wharton Global High School Investment Competition",
@@ -3286,7 +3286,7 @@
   "category": "finance",
   "first_seen": "2026-10-23",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://airtable.com/apprzr1j8zGIMBupG/pagK2B9rPHMMEszoL/form": {
   "title": "Wharton Global High School Investment Competition: Is it Worth It? \u2014 Young Founders Lab",
@@ -3325,7 +3325,7 @@
   "category": "finance",
   "first_seen": "2026-10-23",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://www.fintechprofile.com/fintech-event-calendar-2026": {
   "title": "FinTech Event Calendar 2026",
@@ -3351,7 +3351,7 @@
   "category": "finance",
   "first_seen": "2026-10-23",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://fintechnews.ae/fintech-events-middle-east": {
   "title": "Fintech Events Middle East - Fintech News UAE",
@@ -3442,7 +3442,7 @@
   "category": "consulting",
   "first_seen": "2026-10-23",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.paragoncapital.sg/event/pcm-ntu-singapore-asset-management-case-competition-2026": {
   "title": "https://www.paragoncapital.sg/event/pcm-ntu-singapore-asset-management-case-competition-2026/",
@@ -3520,7 +3520,7 @@
   "category": "consulting",
   "first_seen": "2026-10-23",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1773226": {
   "title": "General Case Study Competition - closes Wed 28 Oct",
@@ -3533,7 +3533,7 @@
   "category": "consulting",
   "first_seen": "2026-10-23",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1773484": {
   "title": "SIGFi x Finshots Finance Competition - closes Thu 5 Nov",
@@ -3546,7 +3546,7 @@
   "category": "consulting",
   "first_seen": "2026-10-23",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.legal500.com/intelligence/united-kingdom/antitrust-competition-law/competitive-edge-it's-not-just-about-attracting-clients-but-lawyers-too": {
   "title": "Competitive Edge: It's Not Just About Attracting Clients, But Lawyers Too | Legal 500",
@@ -3585,7 +3585,7 @@
   "category": "consulting",
   "first_seen": "2026-10-23",
   "reminded": false,
-  "last_seen": "2026-10-23"
+  "last_seen": "2026-10-27"
  },
  "https://event.ter-atlanta.com/october-2026": {
   "title": "October 2026 - AI Pricing & Product Strategy",
@@ -3780,7 +3780,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.deloitte.com/southeast-asia/en/events/board-symposium-2026.html": {
   "title": "Deloitte Singapore Board Symposium 2026 | Deloitte Southeast Asia",
@@ -3806,7 +3806,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.solutiongeek.in/competitions": {
   "title": "Competitions | SolutionGeek",
@@ -3845,7 +3845,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://www.leadersinconsulting.com/summit-2026-london-waitinglist": {
   "title": "LEADERS IN CONSULTING Summit London 2026",
@@ -3884,7 +3884,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1774304": {
   "title": "Policy Innovators Challenge 4.0 - closes Sat 31 Oct",
@@ -3897,7 +3897,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1774039": {
   "title": "TollGate: A Finance Case Competition - closes Fri 6 Nov",
@@ -3910,7 +3910,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1775042": {
   "title": "Mantravat - The Flagship Case Competition - closes Sat 14 Nov",
@@ -3923,7 +3923,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-10-25"
+  "last_seen": "2026-10-27"
  },
  "https://brabble.ai/go/unstop-1774032": {
   "title": "MED Detective - National Medical Case Study Competition - closes Sun 15 Nov",
@@ -4457,5 +4457,395 @@
   "first_seen": "2026-10-26",
   "reminded": false,
   "last_seen": "2026-10-26"
+ },
+ "https://www.timesnownews.com/education/iim-bangalore-gift-city-announce-finance-olympiad-2026-registration-deadline-october-31-article-156392478": {
+  "title": "IIM Bangalore, GIFT City Announce Finance Olympiad 2026, Registration Deadline October 31 | Times Now",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-10-31",
+  "registration_url": "https://www.timesnownews.com/education/iim-bangalore-gift-city-announce-finance-olympiad-2026-registration-deadline-october-31-article-156392478",
+  "page": "https://www.timesnownews.com/education/iim-bangalore-gift-city-announce-finance-olympiad-2026-registration-deadline-october-31-article-156392478",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://news.careers360.com/jee-mains-2027-registration-live-login-link-jeemain-nta-nic-in-exam-date-fees-syllabus-documents-meripehchan-new-changes-updates": {
+  "title": "GIFT Finance Olympiad 2026: Eligibility, dates, registration deadline",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-10-31",
+  "registration_url": "https://news.careers360.com/jee-mains-2027-registration-live-login-link-jeemain-nta-nic-in-exam-date-fees-syllabus-documents-meripehchan-new-changes-updates",
+  "page": "https://news.careers360.com/gift-city-iim-bangalore-organise-national-finance-olympiad-2026-registration-last-date-october-31",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.stockeducation.com/registration": {
+  "title": "October $1 Million Simulator Challenge | StockEducation",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://www.stockeducation.com/registration/",
+  "page": "https://www.stockeducation.com/simulator-challenge/",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.kucoin.com/ucenter/signup": {
+  "title": "Moomoo and Nasdaq Launch the Third Annual Global Trading Simulation Contest with AI Assistants | KuCoin",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://www.kucoin.com/ucenter/signup?backUrl=",
+  "page": "https://www.kucoin.com/news/flash/moomoo-and-nasdaq-launch-third-annual-global-trading-simulation-contest-with-ai-assistants",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://quantucf.com/events": {
+  "title": "Events | Quantitative Finance Club @ UCF",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://quantucf.com/events/",
+  "page": "https://quantucf.com/events/",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://fdimoot.org/teams": {
+  "title": "2026 - Globals Shenzhen, China",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://fdimoot.org/teams/",
+  "page": "https://fdimoot.org/",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.wallstreetoasis.com/academy/application": {
+  "title": "[2026 - October] Unbiased Prestige Rankings | Wall Street Oasis",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.wallstreetoasis.com/academy/application?affiliate=academypopup",
+  "page": "https://www.wallstreetoasis.com/forum/investment-banking/2026-october-unbiased-prestige-rankings",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "javascript://void(0)": {
+  "title": "YIS Global Stock Pitch Competition - \u963f\u601d\u4e39\uff08ASEEDER\uff09\u2014\u4e2d\u56fd\u9886\u5148\u7684\u56fd\u9645\u7d20\u8d28\u6559\u80b2\u5e73\u53f0",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "javascript:void(0)",
+  "page": "https://www.seedasdan.com/en/yis-eng/",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.rma-mn.org/education/commercial-lending-academy/commercial-lending-academy-adv-oct-26-30-2026": {
+  "title": "Chapter Event Calendar | Risk Management Association - ProSight Financial Association",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.rma-mn.org/education/commercial-lending-academy/commercial-lending-academy-adv-oct-26-30-2026",
+  "page": "https://www.prosightfa.org/peer-sharing-collaboration/chapters/events/",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.ycombinator.com/apply": {
+  "title": "Startup Accelerator Deadlines & Funding Programs",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2027-01-11",
+  "registration_url": "https://www.ycombinator.com/apply",
+  "page": "https://foundercal.org/",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.quantt.co.uk/resources/worldquant-brain": {
+  "title": "WorldQuant BRAIN Review 2026: Consultant Pay, IQC and Jobs | Quantt",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.quantt.co.uk/resources/worldquant-brain",
+  "page": "https://www.quantt.co.uk/resources/worldquant-brain",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://africablockchainfestival.com/tickets": {
+  "title": "Event Agenda \u2013 Africa Blockchain Festival",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://africablockchainfestival.com/tickets",
+  "page": "https://africablockchainfestival.com/agenda/",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.passionateinmarketing.com/gift-city-iim-bangalore-to-organise-gift-finance-olympiad-national-student-case-challenge-2026": {
+  "title": "GIFT City and IIM Bangalore Launch Finance Olympiad",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-10-31",
+  "registration_url": "https://www.passionateinmarketing.com/gift-city-iim-bangalore-to-organise-gift-finance-olympiad-national-student-case-challenge-2026/",
+  "page": "https://www.passionateinmarketing.com/gift-city-iim-bangalore-to-organise-gift-finance-olympiad-national-student-case-challenge-2026/",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.indiatoday.in/education-today/news/story/iim-bangalore-gift-finance-olympiad-2026-eligibility-registration-deadline-3024026-2026-10-24": {
+  "title": "IIM Bangalore GIFT Finance Olympiad 2026: Who can apply and how to participate? - India Today",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-10-31",
+  "registration_url": "https://www.indiatoday.in/education-today/news/story/iim-bangalore-gift-finance-olympiad-2026-eligibility-registration-deadline-3024026-2026-10-24",
+  "page": "https://www.indiatoday.in/education-today/news/story/iim-bangalore-gift-finance-olympiad-2026-eligibility-registration-deadline-3024026-2026-10-24",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://thecsruniverse.com/events/social-impact-conference-and-awards-sica": {
+  "title": "GIFT City, IIM Bangalore to Host Finance Olympiad 2026",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-10-31",
+  "registration_url": "https://thecsruniverse.com/events/social-impact-conference-and-awards-sica",
+  "page": "https://thecsruniverse.com/articles/gift-city-iim-bangalore-to-host-national-finance-olympiad-2026",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://opportunity-universe.com/en/opportunity/31133-konkurs-udruzenja-obrazovanje-gradi-bosnu-i-hercegovinu-jovan-divjak-za-dodjelu": {
+  "title": "Competitions 2026/2027: 784 Open Competitions for International Students \u00b7 Opportunity Universe",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://opportunity-universe.com/en/opportunity/31133-konkurs-udruzenja-obrazovanje-gradi-bosnu-i-hercegovinu-jovan-divjak-za-dodjelu",
+  "page": "https://opportunity-universe.com/en/type/competition",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://luma.com/z7et0cdt": {
+  "title": "Asia Fintech Forum 2026",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://luma.com/z7et0cdt?utm_source=AFFwebsite",
+  "page": "https://asiafintech.org/",
+  "category": "finance",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.bi.no/en/about-bi/events/2026/october/bi-national-case-competition-2026": {
+  "title": "BI National Case Competition 2026  | BI",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.bi.no/en/about-bi/events/2026/october/bi-national-case-competition-2026/",
+  "page": "https://www.bi.no/en/about-bi/events/2026/october/bi-national-case-competition-2026/",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.weber.edu/admissions/apply.html": {
+  "title": "WeberBiz Invitational",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": "2026-11-04",
+  "registration_url": "https://www.weber.edu/admissions/apply.html",
+  "page": "https://www.weber.edu/business/weberbiz-invitational.html",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://sph.uth.edu/research/centers/fleming/case-competition": {
+  "title": "Case Competition - George McMillan Fleming Center for Healthcare Management - George McMillan Fleming Center for Healthcare Management - Cen",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-10-30",
+  "registration_url": "https://sph.uth.edu/research/centers/fleming/case-competition",
+  "page": "https://sph.uth.edu/research/centers/fleming/case-competition",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": true,
+  "last_seen": "2026-10-27"
+ },
+ "https://sreday.com/2026-dallas-q4": {
+  "title": "SREday - evolv consulting HQ, Dallas, TX, USA, October 23, 2026",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://sreday.com/2026-dallas-q4/",
+  "page": "https://sreday.com/2026-dallas-q4/",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.lexisnexis.com/en-gb/legal/guidance/uk-competition-calendar": {
+  "title": "UK Competition Law Calendar: 2026 CAT Collective Proceedings, Damages Trials, and CMA Phase 1/2 Merger Deadlines (June\u2013October) - Legal Guid",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.lexisnexis.com/en-gb/legal/guidance/uk-competition-calendar",
+  "page": "https://www.lexisnexis.com/en-gb/legal/guidance/uk-competition-calendar",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.bing.com/executive-education/take-action/scholars-application-form": {
+  "title": "Competitive Strategy and Executive Training | Kellogg Executive Education",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://www.bing.com/executive-education/take-action/scholars-application-form/",
+  "page": "https://www.bing.com/aclick?ld=e8X-24rzMj3i_8xZfV0D2PbTVUCUwS9fWc6cKPA0GQ9CvDkyKCFcvNy7IKJ1SbkoT5eX4Hs0ZwR9P2PBroX6Ou6_0Za2mgpQcPBB9l-SycO_fZ80eNw_FTZoeIjDbX0Rduohk83efouhfV4XH7lV_NH2r4n6thpvUqqYrXgheJ_e10ufqHr5AD8hywlt3iiWWA8ZREl-oSqAHzZ6OEYEldZpfPHS0&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2YlMjYlMjZkc19lX2FkaWQlM2Q3Njk2NjA2MTMyMTI4MyUyNmRzX2VfdGFyZ2V0X2lkJTNka3dkLTc2OTY2NzE1NDQxNDQ3JTNhbG9jLTE5MCUyNiUyNmRzX2VfbmV0d29yayUzZG8lMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmd3d3LmtlbGxvZ2cubm9ydGh3ZXN0ZXJuLmVkdSUyZmV4ZWN1dGl2ZS1lZHVjYXRpb24lMmZpbmRpdmlkdWFsLXByb2dyYW1zJTJmZXhlY3V0aXZlLXByb2dyYW1zJTJmY29tcGV0ZS5hc3B4JTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkc2VhcmNoJTI2dXRtX2NhbXBhaWduJTNkRXhlY0VkLVByaW9yaXR5LUxvd1ByaW9yaXR5LVNlYXJjaCUyNnV0bV9jb250ZW50JTNkQ09NUEVURSUyNnV0bV90ZXJtJTNkY29tcGV0aXRpdmUlMjUyMHN0cmF0ZWd5JTI2Y2F0ZWdvcnklM2Rwb3J0Zm9saW8lMjZjcmVhdGl2ZSUzZCUyNmF1ZGllbmNlJTNkY29tcGV0ZSUyNnV0bV9uZXR3b3JrJTNkbyUyNnV0bV9zcGVjcHJvZyUzZGNvbXBldGUlMjZ1dG1fY2FtcGFpZ25pZCUzZDU5MDQ3MjMwMiUyNm1zY2xraWQlM2RiYjllYzA1MTVhYWQxODNlMWQ1ZGFhYjEwN2Y0YzgzZQ&rlid=bb9ec0515aad183e1d5daab107f4c83e",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://themachinemaker.com/register": {
+  "title": "Cummins India Launches REDEFINE 2026 Case Study Competition | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest",
+  "organizer": "",
+  "mode": "unknown",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://themachinemaker.com/register/",
+  "page": "https://themachinemaker.com/news/cummins-india-launches-redefine-2026-case-study-competition/",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.uni-corvinus.hu/post/hir/call-for-entries-the-ifua-horvath-case-study-competition": {
+  "title": "Call for Entries: The IFUA Horv\u00e1th Case Study Competition\u00a0\u00a0 - Corvinus University of Budapest",
+  "organizer": "",
+  "mode": "in-person",
+  "eligibility": "students",
+  "deadline": "2026-11-04",
+  "registration_url": "https://www.uni-corvinus.hu/post/hir/call-for-entries-the-ifua-horvath-case-study-competition/?lang=en",
+  "page": "https://www.uni-corvinus.hu/post/hir/call-for-entries-the-ifua-horvath-case-study-competition/?lang=en",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.nibsweb.org/competitions/business-simulation-competition": {
+  "title": "Business Simulation Competition - Network of International Business Schools",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.nibsweb.org/competitions/business-simulation-competition/",
+  "page": "https://www.nibsweb.org/competitions/business-simulation-competition/",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://www.amchamspain.com/en/events/global-trends-2026": {
+  "title": "Global Trends 2026",
+  "organizer": "",
+  "mode": "unknown",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.amchamspain.com/en/events/global-trends-2026/",
+  "page": "https://www.amchamspain.com/en/events/global-trends-2026/",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://brabble.ai/go/unstop-1776296": {
+  "title": "The Crown Effect: Case Competition - closes Thu 29 Oct",
+  "organizer": "",
+  "mode": "unknown",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://brabble.ai/go/unstop-1776296?placement=detail_page",
+  "page": "https://brabble.ai/s/unstop-1776296",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://brabble.ai/go/unstop-1776474": {
+  "title": "Aarambh Case Competition - closes Sat 31 Oct",
+  "organizer": "",
+  "mode": "in-person",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://brabble.ai/go/unstop-1776474?placement=detail_page",
+  "page": "https://brabble.ai/s/unstop-1776474",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
+ },
+ "https://brabble.ai/go/unstop-1778035": {
+  "title": "Prometheus X Next: The ProdMan Case Competition - closes Wed 4 Nov",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://brabble.ai/go/unstop-1778035?placement=detail_page",
+  "page": "https://brabble.ai/s/unstop-1778035",
+  "category": "consulting",
+  "first_seen": "2026-10-27",
+  "reminded": false,
+  "last_seen": "2026-10-27"
  }
 }
