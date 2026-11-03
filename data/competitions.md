@@ -1,5 +1,7 @@
-# Competitions (updated 2026-11-02)
+# Competitions (updated 2026-11-03)
 
+- **hackathons in november 2026 · Tensor Hack** | finance | hybrid | students | deadline: 2026-11-03 | https://tensorhack.com/hackathons/month/november-2026
+- **Upcoming Business and Management Conferences 2026–2027 (18,177)** | consulting | hybrid | students | deadline: 2026-11-03 | https://www.allconferencealert.com/business-and-management
 - **Churchill Investment Competition (CIC) 2026 (Competition, deadline November 4, 2026) · Opportunity Universe** | finance | online | students | deadline: 2026-11-04 | https://opportunity-universe.com/en/opportunity/32435-churchill-investment-competition-cic-2026
 - **WeberBiz Invitational** | consulting | online | students | deadline: 2026-11-04 | https://www.weber.edu/admissions/apply.html
 - **Call for Entries: The IFUA Horváth Case Study Competition   - Corvinus University of Budapest** | consulting | in-person | students | deadline: 2026-11-04 | https://www.uni-corvinus.hu/post/hir/call-for-entries-the-ifua-horvath-case-study-competition/?lang=en
@@ -41,10 +43,12 @@
 - **CIMA Strategic Case Study (SCS): Exam Guide & Resources — MSL Business School** | consulting | online | n/a | deadline: 2027-02-19 | https://www.mslbusinessschool.com/cima-strategic-case-study
 - **10 Business Programs and Competitions for International Students | Borderless** | consulting | hybrid | students | deadline: 2027-02-21 | https://borderless.so/blog/business-programs-and-competitions-for-international-students
 - **Business Scholarships - Scholarships.com** | consulting | unknown | students | deadline: 2027-02-28 | https://www.scholarships.com/scholarships/media-fellows-scholarship
+- **Call for Applications| Opportunities For Africans** | consulting | online | students | deadline: 2027-02-28 | https://www.opportunitiesforafricans.com/category/call-for-applications/
 - **12 Design Competitions for Students (2026) | TinyFish Blog** | product | in-person | students | deadline: 2027-03-19 | https://agent.tinyfish.ai/sign-up
 - **African NGO Funding Opportunities – October & November 2026 – African NGOs** | finance | online | students | deadline: 2027-03-31 | https://www.ifa.de/en/funding/zivik
 - **City of Chicago :: DCASE Opportunities** | finance | hybrid | students | deadline: 2027-04-15 | https://www.chicago.gov/content/city/en/depts/dca/supp_info/dance_residency_call.html
 - **UK & Ireland Student Competitions Database | CompeteMap** | consulting | unknown | students | deadline: 2027-05-06 | https://competemap.com/
+- **TechStars Application Deadline Dates (2026)** | finance | hybrid | students | deadline: 2027-06-03 | https://apply.techstars.com
 - **Business Competition Calendar 2026–27 for Students | IFA** | finance | online | students | deadline: 2027-06-12 | https://www.internationalfinanceacademy.com/competition-calendar
 - **EIC Pathfinder Challenges 2026: Funding, Eligibility & How to Apply | EUACC** | finance | online | students | deadline: 2027-09-16 | https://www.euacc.ai/programmes/pathfinder-challenges#how-to-apply
 - **MONECO Financial Training : Home Page** | finance | hybrid | n/a | deadline: 2027-09-21 | https://www.moneco.com/
@@ -61,7 +65,7 @@
 - **Financial Modeling World Cup- A Complete Overview in {currentyear} - IIM SKILLS** | finance | hybrid | students | deadline: n/a | https://iimskills.com/financial-modeling-world-cup/
 - **Upcoming Fintech Hackathons 2026 | Hackathon Radar** | finance | hybrid | students | deadline: n/a | https://www.hackathonradar.com/discover/c/fintech/2026
 - **FinTech Innovation Hackathon 2026 | St Aloysius and RBIH Launch FinTech Innovation Hackathon 2026 to Fight Digital Payment Fraud | Global TV** | finance | online | students | deadline: n/a | https://globaltv.in/hackathon26/
-- **120 Fintech Hackathons | Hackathon Radar** | finance | hybrid | students | deadline: n/a | https://www.hackathonradar.com/discover/c/fintech
+- **121 Fintech Hackathons | Hackathon Radar** | finance | hybrid | students | deadline: n/a | https://www.hackathonradar.com/discover/c/fintech
 - **Airwallex Agentic Banking Hackathon** | finance | hybrid | n/a | deadline: n/a | https://www.hackerearth.com/community/challenges/hackathon/agentic-banking-hackathon/?register=true
 - **Hackathons open for registration, sorted by deadline** | finance | hybrid | students | deadline: n/a | https://brabble.ai/hackathons
 - **P&G PEAKATHON 2026: Flagship P&G Case Competition at Procter & Gamble — Singapore, Singapore | LinkedIn Jobs** | finance | online | students | deadline: n/a | https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fsg.linkedin.com%2Fjobs%2Fview%2Fp-g-peakathon-2026-flagship-p-g-case-competition-at-procter-gamble-4480621932&trk=public_jobs_apply-link-offsite_contextual-sign-in-modal_join-link
@@ -406,7 +410,7 @@
 - **WSOT 2026 Is Live: Registration Opens for Bybit's World Series of Trading, With a Prize Pool of Up to 10 Million USDT Across Crypto, Stocks,** | finance | online | n/a | deadline: n/a | https://www.metatrader.com/en/news/chainwire/4652055-wsot-2026-is-live-registration-opens-for-bybit-s-world
 - **TOKEN2049 Singapore 2026 Sells Out, Drawing 25,000 Attendees to the World's Largest Crypto Event** | finance | hybrid | students | deadline: n/a | https://www.australiannews.net/news/279354657/token2049-singapore-2026-sells-out-drawing-25000-attendees-to-the-world-largest-crypto-event
 - **Accenture Management Consulting Case Competition at UIC — Accenture / FCG Consulting / United Women's Network at UIC | Oppura** | consulting | unknown | students | deadline: n/a | https://www.oppura.io/listing/accenture-management-consulting-case-competition-at-uic
-- **100% Online MBA Degrees - Texas A&M-Corpus Christi** | consulting | online | students | deadline: n/a | https://www.bing.com/aclick?ld=e8g3LZ9ZdynwvZoR2hTqyKkDVUCUxVJzq-AZZFEIsOdlvZqqDxGnwbl8vovz0nhiNbUHjX4kgJbK13Z9o_kpim4o-78cWvototOsrVMjBo_3n36Ve4fm_PmItrRuMqy_xXgTrDd_Vk1k6yLdYmSDJ5ybbu1xgK_2DwvGOWHuAugNAUqm1f6pbCdHUKzrlM5in5_IG2gA&u=aHR0cHMlM2ElMmYlMmZvbmxpbmUudGFtdWNjLmVkdSUyZm9ubGluZSUyZmJ1cy1tYmEtaHlwZXItMjAxMTAxJTJmJTNmbHNpZCUzZGJpbmclMjZsc3NpZCUzZHRhbXVjY19idXNfYWxsX3hfc3JfZ2VuJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX3Rlcm0lM2RtYXN0ZXJzJTI1MjBpbiUyNTIwYnVzaW5lc3MlMjZ1dG1fY29udGVudCUzZHRhbXVjY19idXNfYWxsX05fUGhyYXNlJTI2dXRtX2NhbXBhaWduJTNkdGFtdWNjX2J1c19hbGxfeF9zcl9nZW5fYmluZy1OLUlTJTI2Y2FtcGlkJTNkNTcxMzY2OTc0JTI2Z3JvdXBpZCUzZDEyMzI1NTQwNDYzMDE5NTklMjZ0eXBlJTNkYnAlMjZuZXR3b3JrJTNkbyUyNmRldmljZSUzZGMlMjZhZGlkJTNkNzcwMzQ3NzI4OTY1MzYlMjZmZGlkJTNkJTI2dGdpZCUzZGt3ZC03NzAzNTI5NDE5MTY2MyUzYWxvYy00MTI2JTI2bHBoeXMlM2Q2NTU0MiUyNmxpbnN0JTNkJTI2bXNjbGtpZCUzZDg2ODViZDBmM2VkNjFlZTYzN2Y0ZDdlODM5YjllNTM1&rlid=8685bd0f3ed61ee637f4d7e839b9e535
+- **Southern Utah University - Online MBA Degree Programs** | consulting | online | students | deadline: n/a | https://www.bing.com/aclick?ld=e8jgQew8N1chDqJ6S4nJWeojVUCUwbzBzD7sa5e-8Pp8a4OpRKRaIbxo2N-dVFbuG6UB6z19ZECHJuzDQtEh_iA802Bi9f_Aq1m0pLhTbcu56b_bSz7xSGw-oEEgrKmDZLKr-Bc2lVqVrrbXf-EgpBYvMTDGO8XRd73CVdEtBQz_7GI51yvf3_JrnvoUphVCpN8-DA4WL0zMgL144A3Cr5MS9osD0&u=aHR0cHMlM2ElMmYlMmZvbmxpbmUuc3V1LmVkdSUyZm9ubGluZSUyZmJ1cy1tYmEtc2FwMi0yMDA3MjglMmYlM2Zsc2lkJTNkYmluZyUyNmxzc2lkJTNkc3V1X2J1c19hbGxfeF9zcl9nZW4lMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fdGVybSUzZGJ1c2luZXNzJTI1MjBhZG1pbmlzdHJhdGlvbiUyNTIwbWFzdGVycyUyNnV0bV9jb250ZW50JTNkc3V1X2J1c19tYmFfTl9QaHJhc2UlMjZ1dG1fY2FtcGFpZ24lM2RzdXVfYnVzX2FsbF94X3NyX2dlbl9iaW5nLU4tT09TJTI2Y2FtcGlkJTNkNDcxNTU5MDE0JTI2Z3JvdXBpZCUzZDEyMjkyNTU2MzM5MjI0NjglMjZ0eXBlJTNkYnAlMjZuZXR3b3JrJTNkbyUyNmRldmljZSUzZGMlMjZhZGlkJTNkNzY4Mjg2MjI0NTc0MzAlMjZmZGlkJTNkJTI2dGdpZCUzZGt3ZC03NjgyOTI3NTM4OTg2MCUzYWxvYy00MDgzJTI2bHBoeXMlM2Q0MzQ2NiUyNmxpbnN0JTNkJTI2bXNjbGtpZCUzZGMwNTU5NTFkYTA3NjFlMjk3Nzg5ZmZmNDBlOTE3ODJj&rlid=c055951da0761e297789fff40e91782c
 - **My Consulting Offer Bootcamp | Consulting Interview Preparation Course** | consulting | online | n/a | deadline: n/a | https://www.myconsultingoffer.org/mckinsey-bain-bcg-application-deadline/
 - **Case Competition Workshop · Luma** | consulting | unknown | students | deadline: n/a | https://luma.com/12p9neab
 - **UK Competition law—daily round-up (20/10/2026) | News | LexisNexis** | consulting | in-person | n/a | deadline: n/a | https://www.lexisnexis.co.uk/legal/news/uk-competition-law-daily-round-up-20-10-2026
@@ -420,7 +424,7 @@
 - **Everlaw Summit 2026 Wednesday Sessions** | consulting | unknown | students | deadline: n/a | https://ediscoverytoday.com/2026/10/28/everlaw-summit-2026-wednesday-sessions-ediscovery-conferences/
 - **DCD Connect | MENA 2026 - DCD** | consulting | unknown | n/a | deadline: n/a | https://www.datacenterdynamics.com/en/dcdconnect-live/mena/2026/apply-to-be-a-speaker/
 - **Free case competitions, zero entry fee** | consulting | hybrid | students | deadline: n/a | https://brabble.ai/case-competitions/free
-- **ProdMad 6.0: Product Management Case Competition - closes Mon 2 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1783640?placement=detail_page
+- **ProdMad 6.0: Product Management Case Competition - closes Wed 4 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1783640?placement=detail_page
 - **Competition law risk management guide—dominant companies | Legal Guidance | LexisNexis** | consulting | in-person | n/a | deadline: n/a | https://www.lexisnexis.co.uk/legal/guidance/competition-law-risk-management-guide-dominant-companies-01
 - **Competition law risk management guide—non-dominant companies | Legal Guidance | LexisNexis** | consulting | in-person | n/a | deadline: n/a | https://www.lexisnexis.co.uk/legal/guidance/competition-law-risk-management-guide-non-dominant-companies-01
 - **Making Your Consulting Case (C-Case) - BE-EDGE** | consulting | online | students | deadline: n/a | https://docs.google.com/forms/d/e/1FAIpQLSdf7h4DV7GQCcBNz5D0PHyS5YoZkgKJe-Ov8E3Wi7PeUAozow/viewform?usp=sharing&ouid=115394361548568553512
@@ -481,3 +485,15 @@
 - **Competitions for Students from United Kingdom 2026/2027 · Opportunity Universe** | consulting | hybrid | students | deadline: n/a | https://opportunity-universe.com/en/country/gb/competition
 - **Product Strategy Case Competition | November Edition - closes Sun 15 Nov** | consulting | online | n/a | deadline: n/a | https://brabble.ai/go/unstop-1788752?placement=detail_page
 - **Challenge Events | List Of All Upcoming Challenge Events In Perth** | product | online | n/a | deadline: n/a | https://allevents.in/perth/challenge
+- **WSOT 2026 Is Live: Registration Opens for Bybit's World Series of Trading, With a Prize Pool of Up to 10 Million USDT Across Crypto, Stocks,** | finance | online | n/a | deadline: n/a | https://www.prnewswire.com/apac/news-releases/wsot-2026-is-live-registration-opens-for-bybits-world-series-of-trading-with-a-prize-pool-of-up-to-10-million-usdt-across-crypto-stocks-and-ai-302923862.html
+- **Stock Market Simulator** | finance | online | students | deadline: n/a | https://www.wallstreetsurvivor.com/
+- **CFA Level 1 Portfolio Management November 2026: Full Syllabus Revision** | finance | hybrid | students | deadline: n/a | https://www.pw.live/cfa/batches
+- **CFA Level 1 November 2026: Most Important Quantitative Methods and Portfolio Management Questions** | finance | hybrid | students | deadline: n/a | https://www.pw.live/cfa/exams/cfa-level-1-quantitative-methods-portfolio-management-nov-2026-questions
+- **The First Wave of AI Crypto Trading: Companies, Strategies and Lessons** | finance | hybrid | n/a | deadline: n/a | https://www.analyticsinsight.net/cryptocurrency-analytics-insight/the-first-wave-of-ai-crypto-trading-companies-strategies-and-lessons
+- **Best Automated & AI Trading Platforms Australia 2026: 5 Tested** | finance | online | n/a | deadline: n/a | https://invezz.com/visit/pepperstone?component=feature-comparison
+- **Competitions - ASEEDER Academic Challenge** | finance | hybrid | n/a | deadline: n/a | https://www.seedcomp.asia/competitions/
+- **Free Stock Market Simulator India: Learn Investing for ₹0** | finance | online | students | deadline: n/a | https://investwithmithun.com/marketlab-india-free-stock-market-simulator/
+- **Best Demo Trading Accounts For 2026** | finance | online | n/a | deadline: n/a | https://www.investing.co.uk/demo-accounts
+- **Startup Events in Singapore — 31 Upcoming Pitch Nights, Demo Days & Meetups** | finance | hybrid | n/a | deadline: n/a | https://pitchdeckanalysis.com/events/singapore
+- **McKinsey & Company - Wikipedia** | consulting | hybrid | students | deadline: n/a | https://en.wikipedia.org/wiki/McKinsey_&_Company
+- **Student case competitions - The Case Centre** | consulting | online | students | deadline: n/a | https://www.thecasecentre.org/myaccount/login
