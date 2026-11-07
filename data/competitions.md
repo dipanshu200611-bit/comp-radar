@@ -1,8 +1,8 @@
-# Competitions (updated 2026-11-06)
+# Competitions (updated 2026-11-07)
 
-- **6th Dr. Ashok Kumar Mohapatra Memorial Moot Court Competition 2026** | product | hybrid | students | deadline: 2026-11-06 | https://tinyurl.com/AKM-REGISTRATION
-- **Upcoming Business and Management Conferences 2026–2027 (17,603)** | consulting | hybrid | students | deadline: 2026-11-06 | https://www.allconferencealert.com/business-and-management
 - **Global Health Case Competition | University Center for International Studies** | consulting | hybrid | students | deadline: 2026-11-07 | https://forms.gle/Jd3PCubGgJ5Z86eNA
+- **hackathons in november 2026 · TensorHack** | finance | hybrid | students | deadline: 2026-11-07 | https://tensorhack.com/hackathons/month/november-2026
+- **GIFT Finance Olympiad 2026: Eligibility, dates, registration deadline** | finance | hybrid | students | deadline: 2026-11-07 | https://news.careers360.com/gift-city-iim-bangalore-organise-national-finance-olympiad-2026-registration-last-date-october-31
 - **Modeling the Future Challenge - Scholarships.com** | consulting | unknown | students | deadline: 2026-11-08 | https://www.scholarships.com/scholarships/modeling-the-future-challenge
 - **Hackathon | CityGov** | finance | online | students | deadline: 2026-11-09 | https://www.citygov.com/hackathon
 - **Royal Geographical Society × Financial Times School Essay Competition 2026 | CompeteMap** | finance | hybrid | students | deadline: 2026-11-09 | https://competemap.com/competitions/cmt4e62bb0003vnn4p3is8g62
@@ -47,6 +47,7 @@
 - **Business Scholarships - Scholarships.com** | consulting | unknown | students | deadline: 2027-02-28 | https://www.scholarships.com/scholarships/media-fellows-scholarship
 - **OpportunitiesForAfricans.com | Opportunities For Africans** | consulting | in-person | students | deadline: 2027-02-28 | https://www.opportunitiesforafricans.com/#penci-login-popup
 - **Quant Event & Competitions (Q4 2026)** | finance | hybrid | students | deadline: 2027-03-05 | https://alpha1.ghost.io/quant-event-competitions-q4-2026/
+- **High Frequency Trading Competition** | finance | online | students | deadline: 2027-03-08 | https://forms.gle/NX6sJcQrh28zVNsN8
 - **12 Design Competitions for Students (2026) | TinyFish Blog** | product | in-person | students | deadline: 2027-03-19 | https://agent.tinyfish.ai/sign-up
 - **African NGO Funding Opportunities – October & November 2026 – African NGOs** | finance | online | students | deadline: 2027-03-31 | https://www.ifa.de/en/funding/zivik
 - **African NGO Funding Opportunities – November & December 2026 – African NGOs** | consulting | online | students | deadline: 2027-03-31 | https://www.mfat.govt.nz/en/countries-and-regions/africa/south-africa/new-zealand-high-commission-to-south-africa/new-zealand-high-commission-fund
@@ -552,3 +553,14 @@
 - **Aayam - Case Study Competition - closes Thu 19 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1796644?placement=detail_page
 - **Avartan Factory - Supply Chain Management Case Challenge - closes Mon 16 Nov** | consulting | in-person | students | deadline: n/a | https://brabble.ai/go/unstop-1792085?placement=detail_page
 - **APM South Wales and West of England Network Conference 2026** | product | unknown | students | deadline: n/a | https://www.apm.org.uk/community/apm-south-wales-and-west-of-england-network-conference/
+- **Schedule â World Investment Competition 2026 | JPSI** | finance | hybrid | n/a | deadline: n/a | https://jpsi-association.com/wic/schedule
+- **The Students Challenge by Natixis Investment Managers: Applications Open for the 7th Edition | Morningstar** | finance | hybrid | students | deadline: n/a | https://www.morningstar.com/news/business-wire/20261104704927/the-students-challenge-by-natixis-investment-managers-applications-open-for-the-7th-edition
+- **The Students Challenge by Natixis Investment Managers: Applications Open for the 7th Edition | FinancialContent** | finance | hybrid | students | deadline: n/a | https://www.financialcontent.com/article/bizwire-2026-11-4-the-students-challenge-by-natixis-investment-managers-applications-open-for-the-7th-edition
+- **2026 Interactive Agenda | Nonprofit Risk Management Center** | finance | hybrid | students | deadline: n/a | https://nonprofitrisk.org/events/2026-risk-summit/interactive-agenda/
+- **The Global Market Making Games: Autumn 2026 in Numbers | Amsterdam Investment Club** | finance | hybrid | students | deadline: n/a | https://www.amsterdaminvestmentclub.com/globalmarketmakinggames/autumn-2026
+- **Events | QRS** | finance | hybrid | students | deadline: n/a | https://qrsntu.org/events/
+- **AI competitions in India: 23 open now (November 2026)** | finance | online | students | deadline: n/a | https://www.insiderone.in/go/event/897c38c3-0789-4d79-8cf4-6c2d3bd5b5d1?s=competitions-ai
+- **Events - TXF** | finance | hybrid | n/a | deadline: n/a | https://www.txfnews.com/Events
+- **Program - The African Financial Summit Platform** | finance | hybrid | students | deadline: n/a | https://www.afis.africa/en/2026-annual-summit/2026-program/
+- **Brokers with the Best Demo Trading Competitions in the UK 2026** | finance | online | n/a | deadline: n/a | https://www.investing.co.uk/demo-trading-competitions
+- **Young investors put their skills to the test in the JSE Investment Challenge | The Witness** | finance | online | students | deadline: n/a | https://witness.co.za/news/business/2026/11/02/young-investors-put-their-skills-to-the-test-in-the-jse-investment-challenge/
