@@ -1,8 +1,5 @@
-# Competitions (updated 2026-11-09)
+# Competitions (updated 2026-11-10)
 
-- **Hackathon | CityGov** | finance | online | students | deadline: 2026-11-09 | https://www.citygov.com/hackathon
-- **Royal Geographical Society × Financial Times School Essay Competition 2026 | CompeteMap** | finance | hybrid | students | deadline: 2026-11-09 | https://competemap.com/competitions/cmt4e62bb0003vnn4p3is8g62
-- **P&G PEAKATHON 2026: Flagship P&G Case Competition - NUS Centre for Future-ready Graduates** | consulting | hybrid | students | deadline: 2026-11-09 | https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/P-G-PEAKATHON-2026--Flagship-P-G-Case-Competition_R000161496
 - **Stampin' Up! Only Challenges – Papercrafting Challenge Site** | product | online | n/a | deadline: 2026-11-10 | https://suochallenges.com/
 - **Global Equity Valuation Competition - Season 3 (Competition, deadline November 11, 2026) · Opportunity Universe** | finance | online | students | deadline: 2026-11-11 | https://opportunity-universe.com/en/opportunity/40390-global-equity-valuation-competition-season-3
 - **Consulting Recruiting Timeline: 2026-27 Deadlines by Firm** | consulting | online | students | deadline: 2026-11-12 | https://strategycase.com/consulting-recruiting-timeline/
@@ -12,6 +9,7 @@
 - **Agentic Banking Hackathon 2026 - Internshala Competitions** | finance | hybrid | students | deadline: 2026-11-15 | https://internshala.com/registration/student?utm_source=is_competitions&utm_medium=header
 - **Full-Time MBA | Rutgers Business School** | consulting | hybrid | students | deadline: 2026-11-15 | https://www.business.rutgers.edu/executive-education/open-enrollment
 - **Accenture PhD Career Exchange: Case Challenge and Dinner for PhD Students | Business School | University of Mannheim** | consulting | online | students | deadline: 2026-11-15 | https://www.bwl.uni-mannheim.de/en/homburg/newsroom/news/accentures-interaktiver-strategy-workshop-230426/
+- **P&G PEAKATHON 2026: Flagship P&G Case Competition - NUS Centre for Future-ready Graduates** | consulting | hybrid | students | deadline: 2026-11-15 | https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/P-G-PEAKATHON-2026--Flagship-P-G-Case-Competition_R000161496
 - **CMA outlines proposals to unlock contactless technology on Apple iPhone - GOV.UK** | consulting | unknown | n/a | deadline: 2026-11-17 | https://www.gov.uk/government/news/cma-outlines-proposals-to-unlock-contactless-technology-on-apple-iphone
 - **15 AI Events in Singapore — Nov 2026–Sept 2027 | Create With** | finance | hybrid | students | deadline: 2026-11-17 | https://createwith.com/cities/singapore
 - **Timeline – CBS Case Competition** | consulting | unknown | n/a | deadline: 2026-11-19 | https://www.casecompetition.com/timeline/
@@ -258,7 +256,7 @@
 - **Asia Summit 2026 | Milken Institute** | consulting | unknown | n/a | deadline: n/a | https://milkeninstitute.org/events/asia-summit-2026
 - **the case | Case-decision training; historical events keep their years** | consulting | unknown | students | deadline: n/a | https://casecompetition.org/
 - **2026 Deals of the Year Awards - LatinFinance** | consulting | unknown | students | deadline: n/a | https://latinfinance.com/2026-deals-of-the-year-awards/
-- **TexSpire wins ISU’s ‘Cascade 2026’ business case competition | The Business Standard** | consulting | in-person | students | deadline: n/a | https://www.tbsnews.net/economy/corporates/texspire-wins-isus-cascade-2026-business-case-competition-1575611
+- **TexSpire wins ISU’s ‘Cascade 2026’ business case competition | The Business Standard** | consulting | unknown | students | deadline: n/a | https://www.tbsnews.net/economy/corporates/texspire-wins-isus-cascade-2026-business-case-competition-1575611
 - **HKUST International Case Competition 2026 Concludes Successfully | HKUST Business School** | consulting | unknown | students | deadline: n/a | https://bm.hkust.edu.hk/press-releases/2026/10/hkust-international-case-competition-2026-concludes-successfully
 - **New Consultants Leadership & Management Course 2026** | consulting | online | n/a | deadline: n/a | https://www.bsg.org.uk/become-a-member
 - **The Data Moat: An AI-Powered EdTech Case Competition - closes Wed 21 Oct** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1771422?placement=detail_page
@@ -535,7 +533,7 @@
 - **TRAIN WITH BAIN 2026 Tickets, Thursday, November 5-Thursday, November 12  •  3:30 PM-6 PM UTC | Eventbrite** | consulting | hybrid | n/a | deadline: n/a | https://www.eventbrite.dk/e/train-with-bain-2026-tickets-2003617329368
 - **Local Government Managers Australia - Rural Management Challenge** | consulting | online | n/a | deadline: n/a | https://www.lgmaqld.org.au/join
 - **PetKids Paws and Grow Business Case Competition - closes Tue 10 Nov** | consulting | online | n/a | deadline: n/a | https://brabble.ai/go/unstop-1787004?placement=detail_page
-- **FMA Gargi X FIC DDUC Finance Case Competition - closes Tue 10 Nov** | consulting | unknown | students | deadline: n/a | https://brabble.ai/go/unstop-1791164?placement=detail_page
+- **FMA Gargi X FIC DDUC Finance Case Competition - closes Tue 10 Nov** | consulting | unknown | n/a | deadline: n/a | https://brabble.ai/go/unstop-1791164?placement=detail_page
 - **NEXORA-The Case Competition - closes Wed 11 Nov** | consulting | in-person | students | deadline: n/a | https://brabble.ai/go/unstop-1792658?placement=detail_page
 - **AdTract - Marketing Case Competition - closes Fri 13 Nov** | consulting | unknown | n/a | deadline: n/a | https://brabble.ai/go/unstop-1792020?placement=detail_page
 - **CBS Case Competition** | consulting | unknown | n/a | deadline: n/a | https://www.eventbrite.dk/o/78347740833
@@ -546,13 +544,13 @@
 - **Event Details
 		 · Special Olympics International** | product | in-person | n/a | deadline: n/a | https://portals.specialolympics.org/participation-types
 - **DUMC to host Crack Managers 2026 to mark 56th Management Day | The Business Standard** | consulting | online | students | deadline: n/a | https://www.tbsnews.net/economy/corporates/dumc-host-crack-managers-2026-mark-56th-management-day-1594606
-- **UNL | Events** | consulting | unknown | students | deadline: n/a | https://www.unl.edu/apply/
+- **UNL | College of Business  | Events** | consulting | unknown | students | deadline: n/a | https://www.unl.edu/apply/
 - **Competitions** | consulting | hybrid | students | deadline: n/a | https://docs.google.com/forms/d/e/1FAIpQLSfvgy-fTl6ZdDeeDMcsLczlf8Q9FzfIMXlX2vfa9CWbtjPTFw/viewform
 - **Events - Owen James Events** | consulting | unknown | students | deadline: n/a | https://www.owenjamesevents.com/events
-- **The Helm: General Management Case Challenge - closes Mon 9 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1796771?placement=detail_page
+- **The Helm: General Management Case Challenge - closes Tue 10 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1796771?placement=detail_page
 - **Finova: Turning Real-World Business Challenges into Data-Driven Solutions - closes Sat 14 Nov** | consulting | unknown | n/a | deadline: n/a | https://brabble.ai/go/unstop-1796595?placement=detail_page
 - **Maple Bridge AI Governance Case Competition 2026 - closes Thu 19 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1796683?placement=detail_page
-- **Aayam - Case Study Competition - closes Thu 12 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1796644?placement=detail_page
+- **Aayam - Case Study Competition - closes Fri 13 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1796644?placement=detail_page
 - **Avartan Factory - Supply Chain Management Case Challenge - closes Mon 16 Nov** | consulting | in-person | students | deadline: n/a | https://brabble.ai/go/unstop-1792085?placement=detail_page
 - **APM South Wales and West of England Network Conference 2026** | product | unknown | students | deadline: n/a | https://www.apm.org.uk/community/apm-south-wales-and-west-of-england-network-conference/
 - **Schedule â World Investment Competition 2026 | JPSI** | finance | hybrid | n/a | deadline: n/a | https://jpsi-association.com/wic/schedule
@@ -573,8 +571,14 @@
 - **KBH Energy Finance Case Competition - Texas Today:  UT Events & Announcements Calendar** | consulting | unknown | students | deadline: n/a | https://calendar.utexas.edu/signup
 - **AUSTRIA CONNECT Southeast Asia 2026** | consulting | unknown | students | deadline: n/a | https://online.wko.at/advantageaustria/events/event/detail.html?dswid=1263&dsrid=538&eventId=1967151987648673366&dsrid=429
 - **Jinzai - The Annual HR Competition - closes Thu 12 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1798955?placement=detail_page
-- **Bears and Bulls - Equity Research Competition 7.0 - closes Fri 13 Nov** | consulting | online | students | deadline: n/a | https://brabble.ai/go/unstop-1798814?placement=detail_page
+- **Bears and Bulls - Equity Research Competition 7.0 - closes Fri 13 Nov** | consulting | unknown | students | deadline: n/a | https://brabble.ai/go/unstop-1798814?placement=detail_page
 - **HBA1 students put consulting skills to the test in BCG Case Competition** | consulting | online | students | deadline: n/a | https://www.ivey.uwo.ca/news/news-ivey/2026/november/hba1-students-put-consulting-skills-to-the-test-in-bcg-case-competition/
 - **ICAG Strategic Case Study Pre-Seen Resources | MSL — MSL Business School** | consulting | hybrid | students | deadline: n/a | https://www.mslbusinessschool.com/icag-scs
 - **Global Business Competition for students BOSS 2026 | Revas Business Simulation Games** | consulting | online | students | deadline: n/a | https://www.revas.online/en/registration-boss/
 - **Top Management Consulting Agencies to Hire in November 2026** | consulting | hybrid | students | deadline: n/a | https://www.50pros.com/auth/signup?role=client
+- **Bruin Hedge Fund x J.P. Morgan Case Competition** | consulting | unknown | students | deadline: n/a | https://uclaubs.com/calendar/2026/11/9/bruin-hedge-fund-x-jp-morgan-case-competition
+- **STARS EU Student Case Competition kicks off with 100 participants** | consulting | hybrid | students | deadline: n/a | https://starseu.org/stars-eu-student-case-competition-returns-to-france-with-an-entrepreneurship-challenge/
+- **Case Interview Examples: 42 Real Cases from MBB & More (2026)** | consulting | hybrid | students | deadline: n/a | https://strategycase.com/case-interview-examples-a-collection-from-mckinsey-and-others/
+- **Avartan D-Street - Finance Case Challenge - closes Tue 17 Nov** | consulting | in-person | students | deadline: n/a | https://brabble.ai/go/unstop-1792089?placement=detail_page
+- **The Countermove - A Consulting Challenge - closes Tue 17 Nov** | consulting | unknown | students | deadline: n/a | https://brabble.ai/go/unstop-1799967?placement=detail_page
+- **Article - Business Analyst - Careers at Capital One UK** | consulting | unknown | students | deadline: n/a | https://jobs.capitalone.co.uk/business-analyst-case-study-guide
