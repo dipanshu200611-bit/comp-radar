@@ -3246,7 +3246,7 @@
   "page": "https://newlondonschool.com/",
   "category": "finance",
   "first_seen": "2026-10-23",
-  "reminded": false,
+  "reminded": true,
   "last_seen": "2026-11-08"
  },
  "https://fintechnews.ae/fintech-events-middle-east": {
@@ -5484,19 +5484,6 @@
   "first_seen": "2026-10-31",
   "reminded": false,
   "last_seen": "2026-11-01"
- },
- "https://suochallenges.com": {
-  "title": "Stampin' Up! Only Challenges \u2013 Papercrafting Challenge Site",
-  "organizer": "",
-  "mode": "online",
-  "eligibility": "",
-  "deadline": "2026-11-10",
-  "registration_url": "https://suochallenges.com/",
-  "page": "https://suochallenges.com/",
-  "category": "product",
-  "first_seen": "2026-10-31",
-  "reminded": true,
-  "last_seen": "2026-10-31"
  },
  "https://www.bybit.com/en/press/post/wsot-2026-is-live-registration-opens-for-bybits-world-series-of-trading-with-a-prize-pool-of-up-to-10-million-usdt-across-crypto-stocks-and-ai-bbb5ccce60c205407fb": {
   "title": "WSOT 2026 Is Live: Registration Opens for Bybit's World Series of Trading, With a Prize Pool of Up to 10 Million USDT Across Crypto, Stocks,",

@@ -1,6 +1,5 @@
-# Competitions (updated 2026-11-10)
+# Competitions (updated 2026-11-11)
 
-- **Stampin' Up! Only Challenges – Papercrafting Challenge Site** | product | online | n/a | deadline: 2026-11-10 | https://suochallenges.com/
 - **Global Equity Valuation Competition - Season 3 (Competition, deadline November 11, 2026) · Opportunity Universe** | finance | online | students | deadline: 2026-11-11 | https://opportunity-universe.com/en/opportunity/40390-global-equity-valuation-competition-season-3
 - **Consulting Recruiting Timeline: 2026-27 Deadlines by Firm** | consulting | online | students | deadline: 2026-11-12 | https://strategycase.com/consulting-recruiting-timeline/
 - **JPMorganChase: MarketMind Challenge | Bright Network** | finance | online | students | deadline: 2026-11-13 | https://www.brightnetwork.co.uk/signup/?next=/
