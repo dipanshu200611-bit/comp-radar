@@ -166,7 +166,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-12"
  },
  "https://www.hackathonradar.com/discover/c/fintech/2026": {
   "title": "Upcoming Fintech Hackathons 2026 | Hackathon Radar",
@@ -230,7 +230,7 @@
   "page": "https://internshala.com/competitions/agentic-banking-hackathon-2026/",
   "category": "finance",
   "first_seen": "2026-10-15",
-  "reminded": false,
+  "reminded": true,
   "last_seen": "2026-10-27"
  },
  "https://brabble.ai/hackathons": {
@@ -1518,7 +1518,7 @@
   "category": "product",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-06"
+  "last_seen": "2026-11-12"
  },
  "https://theproductspace.in/events": {
   "title": "Product Management & AI Events | The Product Space",
@@ -2624,19 +2624,6 @@
   "first_seen": "2026-10-19",
   "reminded": false,
   "last_seen": "2026-10-23"
- },
- "https://opportunity-universe.com/en/opportunity/40390-global-equity-valuation-competition-season-3": {
-  "title": "Global Equity Valuation Competition - Season 3 (Competition, deadline November 11, 2026) \u00b7 Opportunity Universe",
-  "organizer": "",
-  "mode": "online",
-  "eligibility": "students",
-  "deadline": "2026-11-11",
-  "registration_url": "https://opportunity-universe.com/en/opportunity/40390-global-equity-valuation-competition-season-3",
-  "page": "https://opportunity-universe.com/en/opportunity/40390-global-equity-valuation-competition-season-3",
-  "category": "finance",
-  "first_seen": "2026-10-20",
-  "reminded": true,
-  "last_seen": "2026-10-21"
  },
  "https://www.ukri.org/apply-for-funding/before-you-apply/find-out-if-you-can-apply-for-funding": {
   "title": "Future research and innovation funding opportunities \u2013 UKRI",
@@ -4260,7 +4247,7 @@
   "page": "https://www.business.rutgers.edu/full-time-mba",
   "category": "consulting",
   "first_seen": "2026-10-26",
-  "reminded": false,
+  "reminded": true,
   "last_seen": "2026-10-26"
  },
  "https://www.mbaschools.org/resources/what-is-an-mba": {
@@ -4651,7 +4638,7 @@
   "category": "consulting",
   "first_seen": "2026-10-28",
   "reminded": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-12"
  },
  "https://accelium.com.au/smart-move": {
   "title": "Accelium Smart Move",
@@ -6045,7 +6032,7 @@
   "last_seen": "2026-11-09"
  },
  "https://brabble.ai/go/unstop-1788752": {
-  "title": "Product Strategy Case Competition | November Edition - closes Sun 15 Nov",
+  "title": "Product Strategy Case Competition | November Edition - closes Sat 14 Nov",
   "organizer": "",
   "mode": "online",
   "eligibility": "",
@@ -6055,7 +6042,7 @@
   "category": "consulting",
   "first_seen": "2026-11-02",
   "reminded": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-12"
  },
  "https://allevents.in/perth/challenge": {
   "title": "Challenge Events | List Of All Upcoming Challenge Events In Perth",
@@ -6691,7 +6678,7 @@
   "page": "https://www.bwl.uni-mannheim.de/en/homburg/newsroom/news/accenture-phd-career-exchange-case-challenge-und-dinner-fuer-promovierende/",
   "category": "consulting",
   "first_seen": "2026-11-05",
-  "reminded": false,
+  "reminded": true,
   "last_seen": "2026-11-08"
  },
  "https://www.lgmaqld.org.au/join": {
@@ -6874,12 +6861,12 @@
   "category": "consulting",
   "first_seen": "2026-11-06",
   "reminded": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-12"
  },
  "https://www.tbsnews.net/economy/corporates/dumc-host-crack-managers-2026-mark-56th-management-day-1594606": {
   "title": "DUMC to host Crack Managers 2026 to mark 56th Management Day | The Business Standard",
   "organizer": "",
-  "mode": "online",
+  "mode": "hybrid",
   "eligibility": "students",
   "deadline": null,
   "registration_url": "https://www.tbsnews.net/economy/corporates/dumc-host-crack-managers-2026-mark-56th-management-day-1594606",
@@ -6887,7 +6874,7 @@
   "category": "consulting",
   "first_seen": "2026-11-06",
   "reminded": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-12"
  },
  "https://highschoolcasecomp.org/about.html": {
   "title": "What Is a Business Case Competition? | HSACC",
@@ -7486,5 +7473,44 @@
   "first_seen": "2026-11-10",
   "reminded": false,
   "last_seen": "2026-11-10"
+ },
+ "https://register.ignite.microsoft.com/flow/microsoft/ignite27/welcome/page/welcome": {
+  "title": "November 2026 announcements - Partner Center announcements | Microsoft Learn",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://register.ignite.microsoft.com/flow/microsoft/ignite27/welcome/page/welcome",
+  "page": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-november",
+  "category": "product",
+  "first_seen": "2026-11-12",
+  "reminded": false,
+  "last_seen": "2026-11-12"
+ },
+ "https://pmi.org.uk/event-listing/pmi-uk-synergy-built-for-chaos-9th-november-2026": {
+  "title": "PMI UK Synergy: Built for Chaos. 9th November 2026 \u2013 PMI United Kingdom Chapter",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://pmi.org.uk/event-listing/pmi-uk-synergy-built-for-chaos-9th-november-2026/",
+  "page": "https://pmi.org.uk/event-listing/pmi-uk-synergy-built-for-chaos-9th-november-2026/",
+  "category": "product",
+  "first_seen": "2026-11-12",
+  "reminded": false,
+  "last_seen": "2026-11-12"
+ },
+ "https://campaignme.com/register": {
+  "title": "New issue out now: Dubai Lynx 2026 and the next act for strategy - Campaign Middle East",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://campaignme.com/register/",
+  "page": "https://campaignme.com/new-issue-out-now-dubai-lynx-2026-and-the-next-act-for-strategy/",
+  "category": "product",
+  "first_seen": "2026-11-12",
+  "reminded": false,
+  "last_seen": "2026-11-12"
  }
 }

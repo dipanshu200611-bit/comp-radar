@@ -1,6 +1,5 @@
-# Competitions (updated 2026-11-11)
+# Competitions (updated 2026-11-12)
 
-- **Global Equity Valuation Competition - Season 3 (Competition, deadline November 11, 2026) · Opportunity Universe** | finance | online | students | deadline: 2026-11-11 | https://opportunity-universe.com/en/opportunity/40390-global-equity-valuation-competition-season-3
 - **Consulting Recruiting Timeline: 2026-27 Deadlines by Firm** | consulting | online | students | deadline: 2026-11-12 | https://strategycase.com/consulting-recruiting-timeline/
 - **JPMorganChase: MarketMind Challenge | Bright Network** | finance | online | students | deadline: 2026-11-13 | https://www.brightnetwork.co.uk/signup/?next=/
 - **Entry Details | Effie Worldwide** | consulting | unknown | n/a | deadline: 2026-11-13 | https://effie.org/join-the-effie-us-mailing-list/
@@ -490,7 +489,7 @@
 - **2026 UNC Healthcare Case Competition - UNC Center for the Business of Health** | consulting | in-person | students | deadline: n/a | https://cboh.unc.edu/event/2026-unc-healthcare-case-competition/
 - **GM/WSU Mike Ilitch School of Business Supply Chain Case Competition** | consulting | unknown | students | deadline: n/a | https://ilitchbusiness.wayne.edu/supply-chain/case
 - **Competitions for Students from United Kingdom 2026/2027 · Opportunity Universe** | consulting | hybrid | students | deadline: n/a | https://opportunity-universe.com/en/country/gb/competition
-- **Product Strategy Case Competition | November Edition - closes Sun 15 Nov** | consulting | online | n/a | deadline: n/a | https://brabble.ai/go/unstop-1788752?placement=detail_page
+- **Product Strategy Case Competition | November Edition - closes Sat 14 Nov** | consulting | online | n/a | deadline: n/a | https://brabble.ai/go/unstop-1788752?placement=detail_page
 - **Challenge Events | List Of All Upcoming Challenge Events In Perth** | product | online | n/a | deadline: n/a | https://allevents.in/perth/challenge
 - **WSOT 2026 Is Live: Registration Opens for Bybit's World Series of Trading, With a Prize Pool of Up to 10 Million USDT Across Crypto, Stocks,** | finance | online | n/a | deadline: n/a | https://www.prnewswire.com/apac/news-releases/wsot-2026-is-live-registration-opens-for-bybits-world-series-of-trading-with-a-prize-pool-of-up-to-10-million-usdt-across-crypto-stocks-and-ai-302923862.html
 - **Stock Market Simulator** | finance | online | students | deadline: n/a | https://www.wallstreetsurvivor.com/
@@ -542,7 +541,7 @@
 - **Google PM Product Sense Round Answer Template — Product Managers** | product | in-person | n/a | deadline: n/a | https://product-managers.blog/google-pm-product-sense-round-answer-template/
 - **Event Details
 		 · Special Olympics International** | product | in-person | n/a | deadline: n/a | https://portals.specialolympics.org/participation-types
-- **DUMC to host Crack Managers 2026 to mark 56th Management Day | The Business Standard** | consulting | online | students | deadline: n/a | https://www.tbsnews.net/economy/corporates/dumc-host-crack-managers-2026-mark-56th-management-day-1594606
+- **DUMC to host Crack Managers 2026 to mark 56th Management Day | The Business Standard** | consulting | hybrid | students | deadline: n/a | https://www.tbsnews.net/economy/corporates/dumc-host-crack-managers-2026-mark-56th-management-day-1594606
 - **UNL | College of Business  | Events** | consulting | unknown | students | deadline: n/a | https://www.unl.edu/apply/
 - **Competitions** | consulting | hybrid | students | deadline: n/a | https://docs.google.com/forms/d/e/1FAIpQLSfvgy-fTl6ZdDeeDMcsLczlf8Q9FzfIMXlX2vfa9CWbtjPTFw/viewform
 - **Events - Owen James Events** | consulting | unknown | students | deadline: n/a | https://www.owenjamesevents.com/events
@@ -581,3 +580,6 @@
 - **Avartan D-Street - Finance Case Challenge - closes Tue 17 Nov** | consulting | in-person | students | deadline: n/a | https://brabble.ai/go/unstop-1792089?placement=detail_page
 - **The Countermove - A Consulting Challenge - closes Tue 17 Nov** | consulting | unknown | students | deadline: n/a | https://brabble.ai/go/unstop-1799967?placement=detail_page
 - **Article - Business Analyst - Careers at Capital One UK** | consulting | unknown | students | deadline: n/a | https://jobs.capitalone.co.uk/business-analyst-case-study-guide
+- **November 2026 announcements - Partner Center announcements | Microsoft Learn** | product | hybrid | n/a | deadline: n/a | https://register.ignite.microsoft.com/flow/microsoft/ignite27/welcome/page/welcome
+- **PMI UK Synergy: Built for Chaos. 9th November 2026 – PMI United Kingdom Chapter** | product | hybrid | n/a | deadline: n/a | https://pmi.org.uk/event-listing/pmi-uk-synergy-built-for-chaos-9th-november-2026/
+- **New issue out now: Dubai Lynx 2026 and the next act for strategy - Campaign Middle East** | product | online | n/a | deadline: n/a | https://campaignme.com/register/
