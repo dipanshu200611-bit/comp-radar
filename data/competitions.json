@@ -160,13 +160,13 @@
   "organizer": "",
   "mode": "online",
   "eligibility": "students",
-  "deadline": "2027-02-16",
+  "deadline": "2027-03-25",
   "registration_url": "https://conrad.spacecenter.org/about/calendar/",
   "page": "https://conrad.spacecenter.org/about/calendar/",
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "https://www.hackathonradar.com/discover/c/fintech/2026": {
   "title": "Upcoming Fintech Hackathons 2026 | Hackathon Radar",
@@ -179,7 +179,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://globaltv.in/hackathon26": {
   "title": "FinTech Innovation Hackathon 2026 | St Aloysius and RBIH Launch FinTech Innovation Hackathon 2026 to Fight Digital Payment Fraud | Global TV",
@@ -396,11 +396,11 @@
   "eligibility": "students",
   "deadline": null,
   "registration_url": "https://platform.worldquantbrain.com/iqc",
-  "page": "https://www.worldquant.com/brain/iqc/",
+  "page": "https://www.worldquant.com/iqc/",
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-06"
+  "last_seen": "2026-11-13"
  },
  "https://brabble.ai/go/unstop-1764253": {
   "title": "Equity Research Challenge - closes Fri 16 Oct",
@@ -416,7 +416,7 @@
   "last_seen": "2026-10-15"
  },
  "https://brabble.ai/go/unstop-1769336": {
-  "title": "Quantico: The FinTech Risk Challenge - closes Sun 15 Nov",
+  "title": "Quantico: The FinTech Risk Challenge - closes Fri 20 Nov",
   "organizer": "",
   "mode": "online",
   "eligibility": "students",
@@ -426,7 +426,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-02"
+  "last_seen": "2026-11-13"
  },
  "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/register-now": {
   "title": "General Rules & Roles - Wharton Global Youth Program",
@@ -634,7 +634,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-13"
  },
  "https://www.iseg.ulisboa.pt/en/2026/10/global-management-challenge-registration-is-open-until-october-26": {
   "title": "Global Management Challenge: Registration Open Through October 26 - ISEG",
@@ -2363,7 +2363,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://www.uschamber.com/co/events/co-100-sbf-registration": {
   "title": "Free Grants and Programs for Small Business | CO- by US Chamber of Commerce",
@@ -2415,7 +2415,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://www.theasianbanker.com/finance-west-africa-2026/agenda": {
   "title": "Finance West Africa 2026",
@@ -2540,12 +2540,12 @@
   "mode": "online",
   "eligibility": "",
   "deadline": null,
-  "registration_url": "https://tradercomps.com/competitions",
-  "page": "https://tradercomps.com/competitions",
+  "registration_url": "https://tradercomps.com/competitions?view=calendar",
+  "page": "https://tradercomps.com/competitions?view=calendar",
   "category": "finance",
   "first_seen": "2026-10-19",
   "reminded": false,
-  "last_seen": "2026-11-05"
+  "last_seen": "2026-11-13"
  },
  "https://libraries.luc.edu/QuinlanCaseCompetition": {
   "title": "Home - Delta Sigma Pi x Quinlan Case Competition - LibGuides at Loyola University Chicago",
@@ -3224,17 +3224,17 @@
   "last_seen": "2026-11-08"
  },
  "https://forms.gle/JaSwBCD7cDmmX1Tj6": {
-  "title": "UK National Case Championship 2026 | New London School",
+  "title": "UK National Case Championship 2026: The Dwelly Endgame | New London School",
   "organizer": "",
   "mode": "hybrid",
   "eligibility": "students",
   "deadline": "2026-11-14",
   "registration_url": "https://forms.gle/JaSwBCD7cDmmX1Tj6",
-  "page": "https://newlondonschool.com/",
+  "page": "https://newlondonschool.com/case",
   "category": "finance",
   "first_seen": "2026-10-23",
   "reminded": true,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://fintechnews.ae/fintech-events-middle-east": {
   "title": "Fintech Events Middle East - Fintech News UAE",
@@ -3613,19 +3613,6 @@
   "reminded": false,
   "last_seen": "2026-11-06"
  },
- "https://strategycase.com/consulting-recruiting-timeline": {
-  "title": "Consulting Recruiting Timeline: 2026-27 Deadlines by Firm",
-  "organizer": "",
-  "mode": "online",
-  "eligibility": "students",
-  "deadline": "2026-11-12",
-  "registration_url": "https://strategycase.com/consulting-recruiting-timeline/",
-  "page": "https://strategycase.com/consulting-recruiting-timeline/",
-  "category": "consulting",
-  "first_seen": "2026-10-25",
-  "reminded": true,
-  "last_seen": "2026-11-01"
- },
  "https://johnson.campusgroups.com/rsvp_boot": {
   "title": "MBA Media and Entertainment Case Competition - Media, Entertainment & Sports Club",
   "organizer": "",
@@ -3689,7 +3676,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-13"
  },
  "https://www.solutiongeek.in/competitions": {
   "title": "Competitions | SolutionGeek",
@@ -4417,7 +4404,7 @@
   "category": "finance",
   "first_seen": "2026-10-27",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://www.rma-mn.org/education/commercial-lending-academy/commercial-lending-academy-adv-oct-26-30-2026": {
   "title": "Chapter Event Calendar | Risk Management Association - ProSight Financial Association",
@@ -4433,17 +4420,17 @@
   "last_seen": "2026-10-27"
  },
  "https://www.ycombinator.com/apply": {
-  "title": "YC Application Deadline Dates (2027)",
+  "title": "Startup Application Deadlines in November 2026 | FounderCal.org",
   "organizer": "",
-  "mode": "in-person",
+  "mode": "hybrid",
   "eligibility": "",
-  "deadline": "2026-12-11",
+  "deadline": "2027-01-11",
   "registration_url": "https://www.ycombinator.com/apply",
-  "page": "https://zyner.io/blog/yc-application-deadline",
+  "page": "https://foundercal.org/deadlines/2026-11",
   "category": "finance",
   "first_seen": "2026-10-27",
   "reminded": false,
-  "last_seen": "2026-11-06"
+  "last_seen": "2026-11-13"
  },
  "https://www.quantt.co.uk/resources/worldquant-brain": {
   "title": "WorldQuant BRAIN Review 2026: Consultant Pay, IQC and Jobs | Quantt",
@@ -4716,7 +4703,7 @@
   "category": "finance",
   "first_seen": "2026-10-29",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://opportunity-universe.com/en/type/competition": {
   "title": "Competitions 2026/2027: 791 Open Competitions for International Students \u00b7 Opportunity Universe",
@@ -4820,7 +4807,7 @@
   "category": "finance",
   "first_seen": "2026-10-29",
   "reminded": false,
-  "last_seen": "2026-11-04"
+  "last_seen": "2026-11-13"
  },
  "https://timesofdubai.ae/arab-competition-forum-dubai-2026-digital-markets": {
   "title": "Arab Competition Forum Dubai 2026: Digital Markets Challenge",
@@ -5483,7 +5470,7 @@
   "category": "finance",
   "first_seen": "2026-11-01",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://competemap.com/blog/competition-calendar/november-competition-registration-calendar-openings-deadlines": {
   "title": "November 2026 Competition Registration Calendar: What Opens and What Closes This Month | CompeteMap",
@@ -5496,7 +5483,7 @@
   "category": "finance",
   "first_seen": "2026-11-01",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://qcinit.tech/QiskitFallFest26/tracks": {
   "title": "Tracks \u2014 Qiskit Fall Fest 2026",
@@ -5548,7 +5535,7 @@
   "category": "finance",
   "first_seen": "2026-11-01",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://www.dallascollege.edu/news/2026/dallas-college-students-participate-in-global-1-million-virtual-stock-trading-challenge-": {
   "title": "Dallas College Students Participate in Global $1 Million Virtual Stock Trading Challenge  \u2013 Dallas College",
@@ -5938,7 +5925,7 @@
   "category": "finance",
   "first_seen": "2026-11-02",
   "reminded": false,
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-13"
  },
  "https://tg.me/nbscareers/3499": {
   "title": "The Fullerton/SGX Value-Up Singapore Equities Challenge is back for\u2026 \u2014 NBS Academy for Career Excellence (ACE) \u2014 TG.ME",
@@ -6354,7 +6341,7 @@
   "category": "finance",
   "first_seen": "2026-11-04",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://my.hfm.com/en/int/login": {
   "title": "\u2018Virtual to Real\u2019 DEMO Contest | HFM",
@@ -6419,7 +6406,7 @@
   "category": "finance",
   "first_seen": "2026-11-05",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://markets.financialcontent.com/stocks/article/bizwire-2026-11-4-the-students-challenge-by-natixis-investment-managers-applications-open-for-the-7th-edition": {
   "title": "FinancialContent - The Students Challenge by Natixis Investment Managers: Applications Open for the 7th Edition",
@@ -6458,7 +6445,7 @@
   "category": "finance",
   "first_seen": "2026-11-05",
   "reminded": false,
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-13"
  },
  "https://app.fundedfast.com": {
   "title": "Free Trading Competition: Monthly Championship | FundedFast",
@@ -6575,7 +6562,7 @@
   "category": "finance",
   "first_seen": "2026-11-05",
   "reminded": false,
-  "last_seen": "2026-11-10"
+  "last_seen": "2026-11-13"
  },
  "https://effie.org/join-the-effie-us-mailing-list": {
   "title": "Entry Details | Effie Worldwide",
@@ -7030,7 +7017,7 @@
   "category": "finance",
   "first_seen": "2026-11-07",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://www.financialcontent.com/article/bizwire-2026-11-4-the-students-challenge-by-natixis-investment-managers-applications-open-for-the-7th-edition": {
   "title": "The Students Challenge by Natixis Investment Managers: Applications Open for the 7th Edition | FinancialContent",
@@ -7121,7 +7108,7 @@
   "category": "finance",
   "first_seen": "2026-11-07",
   "reminded": false,
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-13"
  },
  "https://www.investing.co.uk/demo-trading-competitions": {
   "title": "Brokers with the Best Demo Trading Competitions in the UK 2026",
@@ -7134,7 +7121,7 @@
   "category": "finance",
   "first_seen": "2026-11-07",
   "reminded": false,
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-13"
  },
  "https://witness.co.za/news/business/2026/11/02/young-investors-put-their-skills-to-the-test-in-the-jse-investment-challenge": {
   "title": "Young investors put their skills to the test in the JSE Investment Challenge | The Witness",
@@ -7160,7 +7147,7 @@
   "category": "finance",
   "first_seen": "2026-11-07",
   "reminded": false,
-  "last_seen": "2026-11-07"
+  "last_seen": "2026-11-13"
  },
  "https://shattered.io/startup-challenges-accelerators-closing-november-2026": {
   "title": "5 Startup Challenges Close in November [2026]",
@@ -7173,7 +7160,7 @@
   "category": "finance",
   "first_seen": "2026-11-08",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://www.internationalfinanceacademy.com/blog/free-competitions-for-high-school-students-2026-27": {
   "title": "Free Competitions for High School Students 2026\u201327 | IFA",
@@ -7202,7 +7189,7 @@
   "last_seen": "2026-11-08"
  },
  "https://createwith.com/cities/singapore": {
-  "title": "15 AI Events in Singapore \u2014 Nov 2026\u2013Sept 2027 | Create With",
+  "title": "16 AI Events in Singapore \u2014 Nov 2026\u2013Sept 2027 | Create With",
   "organizer": "",
   "mode": "hybrid",
   "eligibility": "students",
@@ -7212,7 +7199,7 @@
   "category": "finance",
   "first_seen": "2026-11-08",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-13"
  },
  "https://remoteworkstack.net/singapore-fintech-festival-2026-the-payments-ai-and-financial-technology-trends-to-watch": {
   "title": "Singapore FinTech Festival 2026",
@@ -7512,5 +7499,213 @@
   "first_seen": "2026-11-12",
   "reminded": false,
   "last_seen": "2026-11-12"
+ },
+ "https://app.wallstreetsurvivor.com/members/register": {
+  "title": "November 2026 AI Trading Contest - Wall Street Survivor",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://app.wallstreetsurvivor.com/members/register?admin=9581917&session=371088",
+  "page": "https://www.wallstreetsurvivor.com/ai-trading-contest/",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://valuationmasterclass.com/gevc": {
+  "title": "Global Equity Valuation Competition - Valuation Master Class",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": "2026-12-07",
+  "registration_url": "https://valuationmasterclass.com/gevc/#register",
+  "page": "https://valuationmasterclass.com/gevc/",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://cfa-sf.org/event-registration-page.html": {
+  "title": "2027 CFA Institute Research Challenge: Kick-off Meeting",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://cfa-sf.org/event-registration-page.html?id=844414FC-E343-4D68-908C2BA49D73A67D",
+  "page": "https://cfa-sf.org/events-content-library/events/2027-cfa-institute-research-challenge-kick-off-meeting.html",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://www.scholarshiptracker.org/scholarships/colgate-palmolive-haz-la-u-scholarship": {
+  "title": "Scholarships Due in November 2026: Deadlines and Requirements",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": "2026-11-17",
+  "registration_url": "https://www.scholarshiptracker.org/scholarships/colgate-palmolive-haz-la-u-scholarship",
+  "page": "https://www.scholarshiptracker.org/guides/deadlines/november",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://hostingminds.org": {
+  "title": "74th EWGCFM | Casa de Campo 2026",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": "2026-11-16",
+  "registration_url": "https://hostingminds.org/#registration",
+  "page": "https://hostingminds.org/",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": true,
+  "last_seen": "2026-11-13"
+ },
+ "https://competitions.archi/competition/architecture-portfolio-challenge-2026": {
+  "title": "Architecture Portfolio Challenge 2026: Architerrax Call",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": "2027-02-01",
+  "registration_url": "https://competitions.archi/competition/architecture-portfolio-challenge-2026/",
+  "page": "https://competitions.archi/competition/architecture-portfolio-challenge-2026/",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://www.portfolio.hu/en/events/conference-economy/portfolio-professional-investment-day-2026/1982/overview": {
+  "title": "Professional Investment Day 2026 - Overview",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://www.portfolio.hu/en/events/conference-economy/portfolio-professional-investment-day-2026/1982/overview",
+  "page": "https://www.portfolio.hu/en/events/conference-economy/portfolio-professional-investment-day-2026/1982/overview",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://www.prnewswire.com/news-releases/the-students-challenge-by-natixis-investment-managers-applications-open-for-the-7th-edition-302928295.html": {
+  "title": "The Students Challenge by Natixis Investment Managers: Applications Open for the 7th Edition",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.prnewswire.com/news-releases/the-students-challenge-by-natixis-investment-managers-applications-open-for-the-7th-edition-302928295.html",
+  "page": "https://www.prnewswire.com/news-releases/the-students-challenge-by-natixis-investment-managers-applications-open-for-the-7th-edition-302928295.html",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://tensorhack.com/hackathons/month/november-2026": {
+  "title": "hackathons in november 2026 \u00b7 TensorHack",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-11-13",
+  "registration_url": "https://tensorhack.com/hackathons/month/november-2026",
+  "page": "https://tensorhack.com/hackathons/month/november-2026",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": true,
+  "last_seen": "2026-11-13"
+ },
+ "https://tensorhack.com/calendar": {
+  "title": "hackathon calendar 2026: deadlines by month \u00b7 TensorHack",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-11-13",
+  "registration_url": "https://tensorhack.com/calendar",
+  "page": "https://tensorhack.com/calendar",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": true,
+  "last_seen": "2026-11-13"
+ },
+ "https://devhunt.org/hackathons/north-america": {
+  "title": "Hackathons in North America (November 2026): 16 Upcoming | DevHunt",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://devhunt.org/hackathons/north-america",
+  "page": "https://devhunt.org/hackathons/north-america",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://coinspaidmedia.com/business/major-crypto-and-fintech-events-november-2026": {
+  "title": "24 Major Crypto and FinTech Events in November 2026 | CP Media",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://coinspaidmedia.com/business/major-crypto-and-fintech-events-november-2026/",
+  "page": "https://coinspaidmedia.com/business/major-crypto-and-fintech-events-november-2026/",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://opportunityzones.com/2026/11/opportunityzones-com-to-host-oz-pitch-day-on-november-12-2026": {
+  "title": "OpportunityZones.com to Host OZ Pitch Day on November 12, 2026 - OpportunityZones.com",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://opportunityzones.com/2026/11/opportunityzones-com-to-host-oz-pitch-day-on-november-12-2026/",
+  "page": "https://opportunityzones.com/2026/11/opportunityzones-com-to-host-oz-pitch-day-on-november-12-2026/",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://lp.the5ers.com/market-masters-2026": {
+  "title": "Market Masters | Free Masterclasses + $13K Cash Prizes",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://lp.the5ers.com/market-masters-2026/#mm-form",
+  "page": "https://lp.the5ers.com/market-masters-2026/",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://fintechnews.sg/139171/fintech/sff-fintech-excellence-awards-2026": {
+  "title": "Meet the 24 Finalists of the SFF Fintech Excellence Awards 2026 - Fintech Singapore",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://fintechnews.sg/139171/fintech/sff-fintech-excellence-awards-2026/",
+  "page": "https://fintechnews.sg/139171/fintech/sff-fintech-excellence-awards-2026/",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
+ },
+ "https://fintechnews.sg/140868/fintech/singapore-fintech-festival-2026-five-forces-global-finance": {
+  "title": "Singapore Fintech Festival 2026 to Explore 5 Forces Reshaping Global Finance - Fintech Singapore",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://fintechnews.sg/140868/fintech/singapore-fintech-festival-2026-five-forces-global-finance/",
+  "page": "https://fintechnews.sg/140868/fintech/singapore-fintech-festival-2026-five-forces-global-finance/",
+  "category": "finance",
+  "first_seen": "2026-11-13",
+  "reminded": false,
+  "last_seen": "2026-11-13"
  }
 }
