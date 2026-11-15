@@ -1,6 +1,5 @@
-# Competitions (updated 2026-11-14)
+# Competitions (updated 2026-11-15)
 
-- **UK National Case Championship 2026: The Dwelly Endgame | New London School** | finance | hybrid | students | deadline: 2026-11-14 | https://forms.gle/JaSwBCD7cDmmX1Tj6
 - **Agentic Banking Hackathon 2026 - Internshala Competitions** | finance | hybrid | students | deadline: 2026-11-15 | https://internshala.com/registration/student?utm_source=is_competitions&utm_medium=header
 - **Full-Time MBA | Rutgers Business School** | consulting | hybrid | students | deadline: 2026-11-15 | https://www.business.rutgers.edu/executive-education/open-enrollment
 - **Accenture PhD Career Exchange: Case Challenge and Dinner for PhD Students | Business School | University of Mannheim** | consulting | online | students | deadline: 2026-11-15 | https://www.bwl.uni-mannheim.de/en/homburg/newsroom/news/accentures-interaktiver-strategy-workshop-230426/
@@ -544,7 +543,7 @@
 - **PetKids Paws and Grow Business Case Competition - closes Tue 10 Nov** | consulting | online | n/a | deadline: n/a | https://brabble.ai/go/unstop-1787004?placement=detail_page
 - **FMA Gargi X FIC DDUC Finance Case Competition - closes Tue 10 Nov** | consulting | unknown | n/a | deadline: n/a | https://brabble.ai/go/unstop-1791164?placement=detail_page
 - **NEXORA-The Case Competition - closes Wed 11 Nov** | consulting | in-person | students | deadline: n/a | https://brabble.ai/go/unstop-1792658?placement=detail_page
-- **AdTract - Marketing Case Competition - closes Sat 14 Nov** | consulting | unknown | n/a | deadline: n/a | https://brabble.ai/go/unstop-1792020?placement=detail_page
+- **AdTract - Marketing Case Competition - closes Mon 16 Nov** | consulting | unknown | n/a | deadline: n/a | https://brabble.ai/go/unstop-1792020?placement=detail_page
 - **CBS Case Competition** | consulting | unknown | n/a | deadline: n/a | https://www.eventbrite.dk/o/78347740833
 - **Events - Special Olympics Texas** | product | unknown | n/a | deadline: n/a | https://www.sotx.org/events/
 - **APM Project Management Challenge** | product | unknown | students | deadline: n/a | https://www.apm.org.uk/community/pm-challenge/
