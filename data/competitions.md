@@ -1,10 +1,5 @@
-# Competitions (updated 2026-11-15)
+# Competitions (updated 2026-11-16)
 
-- **Agentic Banking Hackathon 2026 - Internshala Competitions** | finance | hybrid | students | deadline: 2026-11-15 | https://internshala.com/registration/student?utm_source=is_competitions&utm_medium=header
-- **Full-Time MBA | Rutgers Business School** | consulting | hybrid | students | deadline: 2026-11-15 | https://www.business.rutgers.edu/executive-education/open-enrollment
-- **Accenture PhD Career Exchange: Case Challenge and Dinner for PhD Students | Business School | University of Mannheim** | consulting | online | students | deadline: 2026-11-15 | https://www.bwl.uni-mannheim.de/en/homburg/newsroom/news/accentures-interaktiver-strategy-workshop-230426/
-- **P&G PEAKATHON 2026: Flagship P&G Case Competition - NUS Centre for Future-ready Graduates** | consulting | hybrid | students | deadline: 2026-11-15 | https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/P-G-PEAKATHON-2026--Flagship-P-G-Case-Competition_R000161496
-- **World Investment Competition 2026 | StudentCompetitions.com** | finance | online | students | deadline: 2026-11-15 | https://studentcompetitions.com/competitions/world-investment-competition-2026/apply
 - **74th EWGCFM | Casa de Campo 2026** | finance | online | students | deadline: 2026-11-16 | https://hostingminds.org/#registration
 - **CMA outlines proposals to unlock contactless technology on Apple iPhone - GOV.UK** | consulting | unknown | n/a | deadline: 2026-11-17 | https://www.gov.uk/government/news/cma-outlines-proposals-to-unlock-contactless-technology-on-apple-iphone
 - **16 AI Events in Singapore — Nov 2026–Sept 2027 | Create With** | finance | hybrid | students | deadline: 2026-11-17 | https://createwith.com/cities/singapore
@@ -637,3 +632,9 @@
 - **CIMA Exam Structure: The Full Syllabus Explained | VIVA Tuition** | consulting | online | students | deadline: n/a | https://www.vivatuition.com/cima/guides/cima-exam-structure
 - **Agenda - Pre-Conference Workshops (am) & Main Conference Day 1 Plenary (pm) | TIDES Europe: Oligonucleotide and Peptide Therapeutics** | product | unknown | students | deadline: n/a | https://informaconnect.com/tides-europe/agenda/1/
 - **Events for November 2026** | product | unknown | n/a | deadline: n/a | https://pinionafrica.com/events/
+- **Service Details** | consulting | unknown | n/a | deadline: n/a | https://www.crummerconsultants.com/service-details.html
+- **Crummer Consultants** | consulting | unknown | n/a | deadline: n/a | https://crummerconsultants.com/
+- **What Is Strategy?** | consulting | hybrid | students | deadline: n/a | https://hbr.org/1996/11/what-is-strategy
+- **1. Introduction to Management – Management: Financial, Social, and Ecological Well-Being** | consulting | hybrid | students | deadline: n/a | https://pressbooks.openedmb.ca/management/chapter/chapter-1/
+- **What Is Management? - Swiss School of Business and Management Geneva** | consulting | online | students | deadline: n/a | https://www.ssbm.ch/apply-to-ssbm
+- **Master of Business Administration - Wikipedia** | consulting | hybrid | students | deadline: n/a | https://en.wikipedia.org/wiki/Master_of_Business_Administration
