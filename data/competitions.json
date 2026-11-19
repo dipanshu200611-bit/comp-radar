@@ -36,7 +36,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://brabble.ai/college-students/case-competitions": {
   "title": "Case competitions for college and MBA students, open now",
@@ -179,7 +179,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://globaltv.in/hackathon26": {
   "title": "FinTech Innovation Hackathon 2026 | St Aloysius and RBIH Launch FinTech Innovation Hackathon 2026 to Fight Digital Payment Fraud | Global TV",
@@ -383,11 +383,11 @@
   "eligibility": "students",
   "deadline": null,
   "registration_url": "https://platform.worldquantbrain.com/iqc",
-  "page": "https://www.worldquant.com/iqc/",
+  "page": "https://www.worldquant.com/brain/iqc/",
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://brabble.ai/go/unstop-1764253": {
   "title": "Equity Research Challenge - closes Fri 16 Oct",
@@ -403,7 +403,7 @@
   "last_seen": "2026-10-15"
  },
  "https://brabble.ai/go/unstop-1769336": {
-  "title": "Quantico: The FinTech Risk Challenge - closes Fri 20 Nov",
+  "title": "Quantico: The FinTech Risk Challenge - closes Mon 23 Nov",
   "organizer": "",
   "mode": "online",
   "eligibility": "students",
@@ -413,7 +413,7 @@
   "category": "finance",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/register-now": {
   "title": "Investment Competition - Wharton Global Youth Program",
@@ -673,7 +673,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://unstop.com/competitions/1757615/register": {
   "title": "SMART TANK 5.0 | NATIONAL CASE COMPETITION | FLAME UNIVERSITY  - 2026",
@@ -725,7 +725,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://sa.ku.edu": {
   "title": "EY/KU Case Competition - The University of Kansas",
@@ -920,7 +920,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-19"
  },
  "https://sooncheng.com/asia-business-simulation-singapore-round-2026-two-days-of-strategy-innovation-and-global-collaboration.html": {
   "title": "Asia Business Simulation Singapore Round 2026: Two Days of Strategy, Innovation and Global Collaboration - SOON CHENG PTE. LTD",
@@ -1172,15 +1172,15 @@
  "https://www.aecfafrica.org/division/consultancy-opportunities": {
   "title": "Consultancy opportunities Archives - AECF",
   "organizer": "",
-  "mode": "in-person",
-  "eligibility": "",
-  "deadline": null,
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-12-04",
   "registration_url": "https://www.aecfafrica.org/division/consultancy-opportunities/",
   "page": "https://www.aecfafrica.org/division/consultancy-opportunities/",
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-10-15"
+  "last_seen": "2026-11-19"
  },
  "http://eepurl.com/dHOdgX": {
   "title": "EURAXESS Latin America and the Caribbean | EURAXESS",
@@ -1440,7 +1440,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-19"
  },
  "https://brabble.ai/go/unstop-1765060": {
   "title": "Business Tangent 2026: A Social Impact Case Competition - closes Fri 23 Oct",
@@ -1713,7 +1713,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://unstop.com/competitions/1759161/register": {
   "title": "NationBuilding Case Study Competition 2026 - 2026",
@@ -1752,7 +1752,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://careers.crowe.com/event/6aa1819b45c7eb527d9a5519/Fall-2026-Crowe-National-Case-Competition": {
   "title": "Crowe National Case Competition | Crowe",
@@ -1869,7 +1869,7 @@
   "category": "consulting",
   "first_seen": "2026-10-15",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://auto-sens.com/europe/agenda": {
   "title": "AutoSens Europe Agenda - AutoSens",
@@ -2116,7 +2116,7 @@
   "category": "consulting",
   "first_seen": "2026-10-17",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://easychair.org/smart-program/KUCIRC2026/2026-10-13.html": {
   "title": "Program for Tuesday, October 13th",
@@ -2350,7 +2350,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.uschamber.com/co/events/co-100-sbf-registration": {
   "title": "Free Grants and Programs for Small Business | CO- by US Chamber of Commerce",
@@ -2402,7 +2402,7 @@
   "category": "finance",
   "first_seen": "2026-10-18",
   "reminded": false,
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-19"
  },
  "https://www.theasianbanker.com/finance-west-africa-2026/agenda": {
   "title": "Finance West Africa 2026",
@@ -2527,12 +2527,12 @@
   "mode": "online",
   "eligibility": "",
   "deadline": null,
-  "registration_url": "https://tradercomps.com/competitions?view=calendar",
-  "page": "https://tradercomps.com/competitions?view=calendar",
+  "registration_url": "https://tradercomps.com/competitions",
+  "page": "https://tradercomps.com/competitions",
   "category": "finance",
   "first_seen": "2026-10-19",
   "reminded": false,
-  "last_seen": "2026-11-13"
+  "last_seen": "2026-11-19"
  },
  "https://libraries.luc.edu/QuinlanCaseCompetition": {
   "title": "Home - Delta Sigma Pi x Quinlan Case Competition - LibGuides at Loyola University Chicago",
@@ -2899,7 +2899,7 @@
   "last_seen": "2026-11-03"
  },
  "https://brabble.ai/go/unstop-1771607": {
-  "title": "Caseception (Case Competition) - closes Thu 19 Nov",
+  "title": "Caseception (Case Competition) - closes Fri 20 Nov",
   "organizer": "",
   "mode": "online",
   "eligibility": "students",
@@ -2909,7 +2909,7 @@
   "category": "consulting",
   "first_seen": "2026-10-20",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://brabble.ai/go/unstop-1767431": {
   "title": "Finance Traitors - Finance & Strategy Competition - closes Sun 1 Nov",
@@ -3637,7 +3637,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.solutiongeek.in/competitions": {
   "title": "Competitions | SolutionGeek",
@@ -3676,7 +3676,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.leadersinconsulting.com/summit-2026-london-waitinglist": {
   "title": "LEADERS IN CONSULTING Summit London 2026",
@@ -3754,7 +3754,7 @@
   "category": "consulting",
   "first_seen": "2026-10-25",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://brabble.ai/go/unstop-1774032": {
   "title": "MED Detective - National Medical Case Study Competition - closes Sun 15 Nov",
@@ -4352,7 +4352,7 @@
   "category": "finance",
   "first_seen": "2026-10-27",
   "reminded": false,
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-19"
  },
  "https://www.rma-mn.org/education/commercial-lending-academy/commercial-lending-academy-adv-oct-26-30-2026": {
   "title": "Chapter Event Calendar | Risk Management Association - ProSight Financial Association",
@@ -4378,7 +4378,7 @@
   "category": "finance",
   "first_seen": "2026-10-27",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.quantt.co.uk/resources/worldquant-brain": {
   "title": "WorldQuant BRAIN Review 2026: Consultant Pay, IQC and Jobs | Quantt",
@@ -4573,7 +4573,7 @@
   "category": "consulting",
   "first_seen": "2026-10-28",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://accelium.com.au/smart-move": {
   "title": "Accelium Smart Move",
@@ -4651,7 +4651,7 @@
   "category": "finance",
   "first_seen": "2026-10-29",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://opportunity-universe.com/en/type/competition": {
   "title": "Competitions 2026/2027: 791 Open Competitions for International Students \u00b7 Opportunity Universe",
@@ -5340,7 +5340,7 @@
   "category": "consulting",
   "first_seen": "2026-10-31",
   "reminded": true,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.cli.collaw.com/cli_forms/future-of-law-report-2026": {
   "title": "Annual Summit: Centre for Legal Innovation Summit 2026",
@@ -5405,7 +5405,7 @@
   "category": "consulting",
   "first_seen": "2026-10-31",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.bybit.com/en/press/post/wsot-2026-is-live-registration-opens-for-bybits-world-series-of-trading-with-a-prize-pool-of-up-to-10-million-usdt-across-crypto-stocks-and-ai-bbb5ccce60c205407fb": {
   "title": "WSOT 2026 Is Live: Registration Opens for Bybit's World Series of Trading, With a Prize Pool of Up to 10 Million USDT Across Crypto, Stocks,",
@@ -5431,7 +5431,7 @@
   "category": "finance",
   "first_seen": "2026-11-01",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://qcinit.tech/QiskitFallFest26/tracks": {
   "title": "Tracks \u2014 Qiskit Fall Fest 2026",
@@ -5483,7 +5483,7 @@
   "category": "finance",
   "first_seen": "2026-11-01",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.dallascollege.edu/news/2026/dallas-college-students-participate-in-global-1-million-virtual-stock-trading-challenge-": {
   "title": "Dallas College Students Participate in Global $1 Million Virtual Stock Trading Challenge  \u2013 Dallas College",
@@ -5509,7 +5509,7 @@
   "category": "finance",
   "first_seen": "2026-11-01",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-19"
  },
  "https://devcuration.com/articles/founders-bay-virtual-investor-pitch-session-2026-11-02": {
   "title": "Founders Bay\u2019s Virtual Pitch Session Brings Three Investors Into the Room | DevCuration",
@@ -5535,7 +5535,7 @@
   "category": "finance",
   "first_seen": "2026-11-01",
   "reminded": false,
-  "last_seen": "2026-11-08"
+  "last_seen": "2026-11-19"
  },
  "https://remoteworkstack.net/online-jobs-in-manila-opportunities-and-how-to-apply": {
   "title": "Singapore FinTech Festival 2026",
@@ -5873,7 +5873,7 @@
   "category": "finance",
   "first_seen": "2026-11-02",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://tg.me/nbscareers/3499": {
   "title": "The Fullerton/SGX Value-Up Singapore Equities Challenge is back for\u2026 \u2014 NBS Academy for Career Excellence (ACE) \u2014 TG.ME",
@@ -5993,7 +5993,7 @@
   "last_seen": "2026-11-03"
  },
  "https://www.wallstreetsurvivor.com": {
-  "title": "Stock Market Simulator: Practice Trading with Fake Money",
+  "title": "Stock Market Simulator: Practice Trading for Free",
   "organizer": "",
   "mode": "online",
   "eligibility": "students",
@@ -6003,7 +6003,7 @@
   "category": "finance",
   "first_seen": "2026-11-03",
   "reminded": false,
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-19"
  },
  "https://apply.techstars.com": {
   "title": "TechStars Application Deadline Dates (2026)",
@@ -6224,7 +6224,7 @@
   "category": "finance",
   "first_seen": "2026-11-04",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://devhunt.org/hackathons": {
   "title": "Upcoming Hackathons (November 2026): 36 Online and In-Person | DevHunt",
@@ -6419,7 +6419,7 @@
   "category": "finance",
   "first_seen": "2026-11-05",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://cexfinder.com/visit/Bybit": {
   "title": "Coinbase Launches Its First Global Trading Competition With $2M Prize Pool - Cexfinder",
@@ -6497,7 +6497,7 @@
   "category": "finance",
   "first_seen": "2026-11-05",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://iowajpec.org/form/innovation-challenge-fall-applic": {
   "title": "Innovation Challenge Fall 2026 | John Pappajohn Entrepreneurial Center - The University of Iowa",
@@ -6510,7 +6510,7 @@
   "category": "consulting",
   "first_seen": "2026-11-05",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.pmpstrategy.com/en/2026/11/03/november-at-pmp-strategy-case-cracking-career-conversations-more": {
   "title": "November at PMP Strategy: Case Cracking, Career Conversations & More - PMP Strategy",
@@ -6757,7 +6757,7 @@
   "category": "consulting",
   "first_seen": "2026-11-06",
   "reminded": true,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.tbsnews.net/economy/corporates/dumc-host-crack-managers-2026-mark-56th-management-day-1594606": {
   "title": "DUMC to host Crack Managers 2026 to mark 56th Management Day | The Business Standard",
@@ -7056,7 +7056,7 @@
   "category": "finance",
   "first_seen": "2026-11-07",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://shattered.io/startup-challenges-accelerators-closing-november-2026": {
   "title": "5 Startup Challenges Close in November [2026]",
@@ -7069,7 +7069,7 @@
   "category": "finance",
   "first_seen": "2026-11-08",
   "reminded": false,
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-19"
  },
  "https://www.internationalfinanceacademy.com/blog/free-competitions-for-high-school-students-2026-27": {
   "title": "Free Competitions for High School Students 2026\u201327 | IFA",
@@ -7238,7 +7238,7 @@
   "category": "consulting",
   "first_seen": "2026-11-09",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.revas.online/en/registration-boss": {
   "title": "Global Business Competition for students BOSS 2026 | Revas Business Simulation Games",
@@ -7303,7 +7303,7 @@
   "category": "consulting",
   "first_seen": "2026-11-10",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://brabble.ai/go/unstop-1792089": {
   "title": "Avartan D-Street - Finance Case Challenge - closes Tue 17 Nov",
@@ -7342,7 +7342,7 @@
   "category": "consulting",
   "first_seen": "2026-11-10",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://register.ignite.microsoft.com/flow/microsoft/ignite27/welcome/page/welcome": {
   "title": "November 2026 announcements - Partner Center announcements | Microsoft Learn",
@@ -7368,7 +7368,7 @@
   "category": "product",
   "first_seen": "2026-11-12",
   "reminded": false,
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-19"
  },
  "https://campaignme.com/register": {
   "title": "Agency of The Year Middle East 2026 shortlist revealed - Campaign Middle East",
@@ -7394,7 +7394,7 @@
   "category": "finance",
   "first_seen": "2026-11-13",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://valuationmasterclass.com/gevc": {
   "title": "Global Equity Valuation Competition - Valuation Master Class",
@@ -7433,7 +7433,7 @@
   "category": "finance",
   "first_seen": "2026-11-13",
   "reminded": true,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://competitions.archi/competition/architecture-portfolio-challenge-2026": {
   "title": "Architecture Portfolio Challenge 2026: Architerrax Call",
@@ -7446,7 +7446,7 @@
   "category": "finance",
   "first_seen": "2026-11-13",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.portfolio.hu/en/events/conference-economy/portfolio-professional-investment-day-2026/1982/overview": {
   "title": "Professional Investment Day 2026 - Overview",
@@ -7472,7 +7472,7 @@
   "category": "finance",
   "first_seen": "2026-11-13",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://devhunt.org/hackathons/north-america": {
   "title": "Hackathons in North America (November 2026): 14 Upcoming | DevHunt",
@@ -7563,7 +7563,7 @@
   "category": "finance",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://contests.cfapoland.org/en/research-challenge": {
   "title": "Research Challenge \u2013 Competitions for young investment professionals",
@@ -7576,20 +7576,20 @@
   "category": "finance",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://docs.google.com/forms/d/e/1FAIpQLSfvktqgJWJMS1iAh2aUvZPuVOwWXOjzlsG7gtZTIWgfyRmbqQ/viewform": {
   "title": "HBS New Venture Competition 2027: Key $55K Guide",
   "organizer": "",
   "mode": "hybrid",
   "eligibility": "students",
-  "deadline": "2027-01-15",
+  "deadline": "2026-12-31",
   "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSfvktqgJWJMS1iAh2aUvZPuVOwWXOjzlsG7gtZTIWgfyRmbqQ/viewform",
   "page": "https://fundsforimpact.org/hbs-new-venture-competition-2027/",
   "category": "finance",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.groupebpce.com/en/all-the-latest-news/natixis-investment-managers-launches-the-students-challenge-3": {
   "title": "The Students Challenge by Natixis Investment Managers - Groupe BPCE",
@@ -7627,7 +7627,7 @@
   "page": "https://arthaton.com/",
   "category": "finance",
   "first_seen": "2026-11-14",
-  "reminded": false,
+  "reminded": true,
   "last_seen": "2026-11-14"
  },
  "https://drew.edu/academic/office-of-the-registrar/transcripts-enrollment-verification": {
@@ -7693,7 +7693,7 @@
   "category": "finance",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://fintechnews.sg/fintech-events-singapore": {
   "title": "Fintech Events Singapore - Fintech Singapore",
@@ -7732,7 +7732,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://signup.casecompetition.com/signup": {
   "title": "Login - CBS Case Competition",
@@ -7745,7 +7745,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://schulichsec.ca/events/uec-2026": {
   "title": "UEC 2026: Undergraduate Entrepreneurship Conference, 8 and 14 November \u00c2\u00b7 SEC \u00c3\u0097 RCIBA",
@@ -7758,7 +7758,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://fireup.cmich.edu/portal/apply": {
   "title": "Logistics Undergraduate Case Competition",
@@ -7784,7 +7784,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.isenberg.umass.edu/calendar/eleventh-annual-isenberg-ethics-competition": {
   "title": "Eleventh Annual Isenberg Ethics Competition : Isenberg School of Management : UMass Amherst",
@@ -7836,7 +7836,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-19"
  },
  "https://forefrontevents.co/event/workplace-strategy-summit-nsw-2026": {
   "title": "Workplace Strategy Summit NSW 2026 - Forefront",
@@ -7862,7 +7862,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-19"
  },
  "https://surveys.wipo.int/s3/2027-WIPO-IP-Moot-Court-Competition-Application-Form": {
   "title": "Moot Court Competition",
@@ -7888,7 +7888,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-14"
+  "last_seen": "2026-11-19"
  },
  "https://www.rhsmith.umd.edu/apply": {
   "title": "Master\u2019s Case Competition | Robert H. Smith School of Business",
@@ -7901,7 +7901,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.vivatuition.com/cima/guides/cima-exam-dates": {
   "title": "CIMA Exam Dates 2026 and 2027: Case Studies and OTs | VIVA Tuition",
@@ -7927,7 +7927,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.goodfirms.co/business-services/management-consulting/australia": {
   "title": "Top Management Consulting Firms in Australia - 2026 Reviews | Goodfirms",
@@ -7943,7 +7943,7 @@
   "last_seen": "2026-11-14"
  },
  "https://brabble.ai/go/unstop-1797542": {
-  "title": "Achilles' Heel- A Marketing Case Competition - closes Wed 18 Nov",
+  "title": "Achilles' Heel- A Marketing Case Competition - closes Thu 19 Nov",
   "organizer": "",
   "mode": "unknown",
   "eligibility": "",
@@ -7953,7 +7953,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://brabble.ai/go/unstop-1802395": {
   "title": "Reframe (Design and Marketing Case Competition) - closes Tue 17 Nov",
@@ -7995,7 +7995,7 @@
   "last_seen": "2026-11-18"
  },
  "https://brabble.ai/go/unstop-1797270": {
-  "title": "Steel Authority of India Limited (SAIL) X IIM Ranchi - National Case Competition - closes Fri 20 Nov",
+  "title": "Steel Stride: Steel Authority of India Limited (SAIL) X IIM Ranchi - National Case Competition - closes Fri 20 Nov",
   "organizer": "",
   "mode": "unknown",
   "eligibility": "",
@@ -8005,7 +8005,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://brabble.ai/go/unstop-1791989": {
   "title": "Episteme - Operations Case Competition - closes Sun 22 Nov",
@@ -8018,7 +8018,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://brabble.ai/go/unstop-1799353": {
   "title": "Case Competition - closes Tue 24 Nov",
@@ -8031,7 +8031,7 @@
   "category": "consulting",
   "first_seen": "2026-11-14",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.vivatuition.com/cima/guides/cima-case-study-exam-dates": {
   "title": "CIMA Case Study Exam Dates 2026-27 | VIVA Tuition",
@@ -8226,7 +8226,7 @@
   "category": "finance",
   "first_seen": "2026-11-17",
   "reminded": false,
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-19"
  },
  "https://devhunt.org/hackathons/ai": {
   "title": "AI Hackathons (November 2026): 12 Upcoming | DevHunt",
@@ -8251,8 +8251,8 @@
   "page": "https://tensorhack.com/calendar",
   "category": "finance",
   "first_seen": "2026-11-17",
-  "reminded": false,
-  "last_seen": "2026-11-17"
+  "reminded": true,
+  "last_seen": "2026-11-19"
  },
  "https://www.bybit.com/en/register": {
   "title": "WSOT 2026 Is Live: Registration Opens for Bybit's World Series of Trading, With a Prize Pool of Up to 10 Million USDT Across Crypto, Stocks,",
@@ -8278,7 +8278,7 @@
   "category": "finance",
   "first_seen": "2026-11-17",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.insiderone.in/go/event/60646f8f-4abe-4167-897c-63b0f4e89a6e": {
   "title": "AI competitions in India: 29 open now (November 2026)",
@@ -8317,7 +8317,7 @@
   "category": "finance",
   "first_seen": "2026-11-17",
   "reminded": false,
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-19"
  },
  "https://web.cvent.com/event/fa0ec699-356d-410f-989c-be7ac2d374f6/summary": {
   "title": "Advisory Board Events",
@@ -8326,11 +8326,11 @@
   "eligibility": "",
   "deadline": null,
   "registration_url": "https://web.cvent.com/event/fa0ec699-356d-410f-989c-be7ac2d374f6/summary",
-  "page": "https://www.bing.com/aclick?ld=e86qoxqfa52WyMlk6ZXlpyoDVUCUyMatl-G5ytV-4tINJ2yE09MG3h7vAlEIwTP2vXmuM4IWYAuC6n82E8pN0q9sXfAdzrjK5Abpx9JJ0_klx8Tds_D3k8Rkq_CKDjpMWE6AreFXYG07-1YCWeBJRZ1Mz6Zeu76JVAfVrIaYQtEvia9TtCUI6Pk9XnJEGVQbuKGcI0ig&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MjY0NjUzNzM4OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODk1NDY5MzMyNyUyNmRzX2FfY2lkJTNkNzYxNzk4MTEwMSUyNmRzX2FfY2FpZCUzZDIzMDI1Mjg0MTI4JTI2ZHNfYV9hZ2lkJTNkMTkyMjQ3NzA2NTQ0JTI2ZHNfYV9saWQlM2Rrd2QtMjM0MzE0NTQ4NDU3NyUyNiUyNmRzX2VfYWRpZCUzZDgyNzM4NjgxNTg4MzcxJTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODI3Mzk4MTE0MzAyMDklM2Fsb2MtMTkwJTI2JTI2ZHNfZV9uZXR3b3JrJTNkbyUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuYWR2aXNvcnkuY29tJTJmY29tcGFueSUyZnByb2R1Y3RzJTJmYWR2aXNvcnktYm9hcmQtZXZlbnRzJTNmdXRtX2NhbXBhaWduJTNkQURfNDguOF9BbGxBQl8yMDI2JTI2dXRtX3NvdXJjZSUzZG1pY3Jvc29mdCUyNnV0bV9tZWRpdW0lM2RwYWlkLXNlYXJjaCUyNnV0bV9zZmdvY2FtcGFpZ25pZCUzZDcwMVZWMDAwMDBoMWRCV1lBWSUyNnV0bV9jb250ZW50JTNkQURfNDguOF9NQV9BZHZpc29yeUJvYXJkX0JyYW5kX0V2ZW50c0FkTCUyNnV0bV90ZXJtJTNkQWR2aXNvcnklMjUyMEJvYXJkJTI1MjBjb25mZXJlbmNlcyUyNnV0bV9uYW1lJTNkNjM4NzIzMjYxJTI2dXRtX2FkZ3JvdXAlM2QxMzIzODE0NjM2MTI4NjgyJTI2aWQlM2Q2MjUwJTI2Z2NsaWQlM2RhNWM5MjIyZDQyZWMxMGU1MzgxYzQ4ZDE3MTVkOTFmOCUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZGE1YzkyMjJkNDJlYzEwZTUzODFjNDhkMTcxNWQ5MWY4&rlid=a5c9222d42ec10e5381c48d1715d91f8",
+  "page": "https://www.bing.com/aclick?ld=e81a5GBqLyHya-I-4SUAGOgzVUCUyDtMa9NVvRxjmeqNEVq5mzHRWbK2Z3R3siYnPXwiyuGOf-dyG_m1dZIgAVjD_Y5vQ9wyn0uNrDBcxrhzkZ3-KYZhi_Z5qZBzKGMdwNqG7fJ1UkO86xzySrDO2ZATJzu6rqKeBBlxrBCbsA4v745ffnBwbOjf2G8ymjEMP9Qp-ysGgBOcrFggD7SND4IsSN8KY&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MjY0NjUzNzM4OSUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODk1NDY5MzMyNyUyNmRzX2FfY2lkJTNkNzYxNzk4MTEwMSUyNmRzX2FfY2FpZCUzZDIzMDI1Mjg0MTI4JTI2ZHNfYV9hZ2lkJTNkMTkyMjQ3NzA2NTQ0JTI2ZHNfYV9saWQlM2Rrd2QtMjM0MzE0NTQ4NDU3NyUyNiUyNmRzX2VfYWRpZCUzZDgyNzM4NjgxNTg4MzcxJTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtODI3Mzk4MTE0MzAyMDklM2Fsb2MtMTkwJTI2JTI2ZHNfZV9uZXR3b3JrJTNkbyUyNmRzX3VybF92JTNkMiUyNmRzX2Rlc3RfdXJsJTNkaHR0cHMlM2ElMmYlMmZ3d3cuYWR2aXNvcnkuY29tJTJmY29tcGFueSUyZnByb2R1Y3RzJTJmYWR2aXNvcnktYm9hcmQtZXZlbnRzJTNmdXRtX2NhbXBhaWduJTNkQURfNDguOF9BbGxBQl8yMDI2JTI2dXRtX3NvdXJjZSUzZG1pY3Jvc29mdCUyNnV0bV9tZWRpdW0lM2RwYWlkLXNlYXJjaCUyNnV0bV9zZmdvY2FtcGFpZ25pZCUzZDcwMVZWMDAwMDBoMWRCV1lBWSUyNnV0bV9jb250ZW50JTNkQURfNDguOF9NQV9BZHZpc29yeUJvYXJkX0JyYW5kX0V2ZW50c0FkTCUyNnV0bV90ZXJtJTNkQWR2aXNvcnklMjUyMEJvYXJkJTI1MjBjb25mZXJlbmNlcyUyNnV0bV9uYW1lJTNkNjM4NzIzMjYxJTI2dXRtX2FkZ3JvdXAlM2QxMzIzODE0NjM2MTI4NjgyJTI2aWQlM2Q2MjUwJTI2Z2NsaWQlM2RiNzViZjFmZGE5ZDYxYWQzMmQ0OTliMDM3ODE3YWExMSUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZGI3NWJmMWZkYTlkNjFhZDMyZDQ5OWIwMzc4MTdhYTEx&rlid=b75bf1fda9d61ad32d499b037817aa11",
   "category": "consulting",
   "first_seen": "2026-11-17",
   "reminded": false,
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-19"
  },
  "https://www.marcusevans.com/conferences/cfoafrica": {
   "title": "CMA Events | IMA Middle East",
@@ -8382,7 +8382,7 @@
   "category": "consulting",
   "first_seen": "2026-11-17",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://brabble.ai/go/unstop-1784601": {
   "title": "Kotler Sutra: The Marketing Case Competition - closes Mon 30 Nov",
@@ -8395,7 +8395,7 @@
   "category": "consulting",
   "first_seen": "2026-11-17",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://managementconsulted.com/event/building-for-the-next-chapter-undergraduate-case-competition-world-cup-finals": {
   "title": "The Squarespace Challenge \u2013 Undergraduate Case Competition World Cup Finals | Management Consulted",
@@ -8460,7 +8460,7 @@
   "category": "finance",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://axiafutures.com/op/live-floor-nov12": {
   "title": "Black Friday Trading Competition | 12 November 2026 | Axia Futures",
@@ -8473,20 +8473,7 @@
   "category": "finance",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
- },
- "https://news.careers360.com/jee-main-2027-registration-last-date-live-session-1-form-link-jeemain-nta-nic-in-late-fees-documents-correction-window-updates": {
-  "title": "GIFT Finance Olympiad 2026: Eligibility, dates, registration deadline",
-  "organizer": "",
-  "mode": "hybrid",
-  "eligibility": "students",
-  "deadline": "2026-11-18",
-  "registration_url": "https://news.careers360.com/jee-main-2027-registration-last-date-live-session-1-form-link-jeemain-nta-nic-in-late-fees-documents-correction-window-updates",
-  "page": "https://news.careers360.com/gift-city-iim-bangalore-organise-national-finance-olympiad-2026-registration-last-date-october-31",
-  "category": "finance",
-  "first_seen": "2026-11-18",
-  "reminded": true,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://news.ki.se/calendar/nordic-hackathon-2026-coordinated-care-interoperability-and-ehds": {
   "title": "Nordic Hackathon 2026 - Coordinated Care, Interoperability\u2026",
@@ -8499,7 +8486,7 @@
   "category": "finance",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://unstop.com/hackathons/hero-housing-fintech-challenge-iit-bombay-1802169": {
   "title": "Housing Fintech Challenge \u2014 Dates & Prizes | Hackathon Radar",
@@ -8512,7 +8499,7 @@
   "category": "finance",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857": {
   "title": "Agentic AI in BFSI Hackathon \u2014 Dates & Prizes",
@@ -8525,7 +8512,7 @@
   "category": "finance",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://unstop.com/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240": {
   "title": "The Algo Trading Innovation Challenge \u2014 Dates & Prizes",
@@ -8538,7 +8525,7 @@
   "category": "finance",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://dorahacks.io/hackathon/qday": {
   "title": "Aevum Builder Challenge #1 \u2014 Dates & Prizes",
@@ -8551,7 +8538,7 @@
   "category": "finance",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://lu.ma/spacexai-kpi9": {
   "title": "Grok Bot London Financial Crime Hackathon | Hackathon Radar",
@@ -8564,7 +8551,7 @@
   "category": "finance",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://luma.com/lpdkb2zs": {
   "title": "Everesteer Hackathon: Forecasting Markets with AI - DSS x\u2026",
@@ -8590,7 +8577,7 @@
   "category": "consulting",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://dfforms.com/dffd0dba-c739-4a0a-9e13-92a4c6ae8f2a": {
   "title": "2nd CSO 360 Middle East | 10\u201311 November 2026, Istanbul",
@@ -8603,7 +8590,7 @@
   "category": "consulting",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.vivatuition.com/cima/guides/how-to-pass-cima-case-study-exams": {
   "title": "How to Pass CIMA Case Study Exams | VIVA Tuition",
@@ -8629,7 +8616,7 @@
   "category": "consulting",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://aon.mediaroom.com": {
   "title": "News Releases | Aon",
@@ -8668,7 +8655,7 @@
   "category": "consulting",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-18"
+  "last_seen": "2026-11-19"
  },
  "https://www.vivatuition.com/cima/guides/cima-exemptions": {
   "title": "CIMA Levels and Exams: The Structure Explained | VIVA Tuition",
@@ -8682,5 +8669,278 @@
   "first_seen": "2026-11-18",
   "reminded": false,
   "last_seen": "2026-11-18"
+ },
+ "https://tradercomps.com/campaigns/cme-group-cme-group-trading-challenge-november-2026": {
+  "title": "CME Group Trading Challenge (November 2026) | TraderComps",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://tradercomps.com/campaigns/cme-group-cme-group-trading-challenge-november-2026",
+  "page": "https://tradercomps.com/campaigns/cme-group-cme-group-trading-challenge-november-2026",
+  "category": "finance",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://tensorhack.com/hackathons/month/november-2026": {
+  "title": "hackathons in november 2026 \u00b7 TensorHack",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-11-19",
+  "registration_url": "https://tensorhack.com/hackathons/month/november-2026",
+  "page": "https://tensorhack.com/hackathons/month/november-2026",
+  "category": "finance",
+  "first_seen": "2026-11-19",
+  "reminded": true,
+  "last_seen": "2026-11-19"
+ },
+ "https://www.insiderone.in/go/event/a88ae2cc-52bf-4171-9115-bce9eb154eb4": {
+  "title": "AI competitions in India: 29 open now (November 2026)",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.insiderone.in/go/event/a88ae2cc-52bf-4171-9115-bce9eb154eb4?s=competitions-ai",
+  "page": "https://www.insiderone.in/competitions/ai",
+  "category": "finance",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://www.hackathonradar.com/discover/singapore": {
+  "title": "Upcoming Hackathons in Singapore 2026 | Hackathon Radar",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://www.hackathonradar.com/discover/singapore",
+  "page": "https://www.hackathonradar.com/discover/singapore",
+  "category": "finance",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://swne.ja.org/events/2026-ja-stock-market-challenge": {
+  "title": "2026 JA Stock Market Challenge | Junior Achievement of Southwest New England",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://swne.ja.org/events/2026-ja-stock-market-challenge",
+  "page": "https://swne.ja.org/events/2026-ja-stock-market-challenge",
+  "category": "finance",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://be-edge.com/news/making-your-consulting-case": {
+  "title": "2026\u20132027 \u201cMaking Your Consulting Case\u201d Competition: Key Dates and How to Take Part - BE-EDGE",
+  "organizer": "",
+  "mode": "unknown",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://be-edge.com/news/making-your-consulting-case/",
+  "page": "https://be-edge.com/news/making-your-consulting-case/",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://internshala.com/registration/student": {
+  "title": "CASEQuest 2026\u201327: \u20b91.5 Lakh Prize Pool",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": "2026-12-13",
+  "registration_url": "https://internshala.com/registration/student?utm_source=is_competitions&utm_medium=header",
+  "page": "https://internshala.com/competitions/casequest-2026-27-grant-thornton-bharat/",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://www.futuretravelexperience.com/fteasia/register": {
+  "title": "APEX FTE EXPO | The World\u2019s Largest Passenger Experience & Innovation Expo",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.futuretravelexperience.com/fteasia/register/",
+  "page": "https://www.futuretravelexperience.com/fteasia/",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://www.mnstate.edu/admissions/apply-now": {
+  "title": "Dragon Lair Business Plan Pitch Competition",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.mnstate.edu/admissions/apply-now",
+  "page": "https://www.mnstate.edu/academics/colleges-schools/cbac/pitch-competition",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://dfforms.com/dff36ea5-0af6-4c65-a9c1-4e92eabf7355": {
+  "title": "7th CISO 360 Middle East | 10\u201311 November 2026, Istanbul",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://dfforms.com/dff36ea5-0af6-4c65-a9c1-4e92eabf7355",
+  "page": "https://www.pulseconferences.com/conference/7th-ciso-360-middle-east",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://brabble.ai/go/unstop-1818372": {
+  "title": "Ellipsis - Analytics Case Competition - closes Wed 25 Nov",
+  "organizer": "",
+  "mode": "unknown",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://brabble.ai/go/unstop-1818372?placement=detail_page",
+  "page": "https://brabble.ai/s/unstop-1818372",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://brabble.ai/go/unstop-1803817": {
+  "title": "Cerebro 15.0: The National Case Study Competition - closes Wed 25 Nov",
+  "organizer": "",
+  "mode": "in-person",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://brabble.ai/go/unstop-1803817?placement=detail_page",
+  "page": "https://brabble.ai/s/unstop-1803817",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://brabble.ai/go/unstop-1781099": {
+  "title": "Molequest Case Challenge - closes Wed 2 Dec",
+  "organizer": "",
+  "mode": "unknown",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://brabble.ai/go/unstop-1781099?placement=detail_page",
+  "page": "https://brabble.ai/s/unstop-1781099",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://brabble.ai/go/unstop-1816502": {
+  "title": "Chakravyuh: National Strategy Case Competition - closes Tue 22 Dec",
+  "organizer": "",
+  "mode": "unknown",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://brabble.ai/go/unstop-1816502?placement=detail_page",
+  "page": "https://brabble.ai/s/unstop-1816502",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://brabble.ai/go/unstop-1816901": {
+  "title": "CarbonQuest : The Decarbonization Challenge - closes Thu 24 Dec",
+  "organizer": "",
+  "mode": "in-person",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://brabble.ai/go/unstop-1816901?placement=detail_page",
+  "page": "https://brabble.ai/s/unstop-1816901",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://brabble.ai/go/unstop-1796767": {
+  "title": "CaseX: The Case Study Competition - closes Sun 27 Dec",
+  "organizer": "",
+  "mode": "unknown",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://brabble.ai/go/unstop-1796767?placement=detail_page",
+  "page": "https://brabble.ai/s/unstop-1796767",
+  "category": "consulting",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://www.e-architect.com/architecture-competitions": {
+  "title": "Architecture competitions: design contests news - e-architect",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "students",
+  "deadline": "2027-05-14",
+  "registration_url": "https://www.e-architect.com/architecture-competitions",
+  "page": "https://www.e-architect.com/architecture-competitions",
+  "category": "product",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://codebattle.tech/code-battle-2026": {
+  "title": "Code Battle: Student Hackathon in Dubai & the UAE | iCodejr",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://codebattle.tech/code-battle-2026/",
+  "page": "https://codebattle.tech/",
+  "category": "product",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://world.productledalliance.com/location/chicago/register": {
+  "title": "Chicago - Product-Led Summit | Product-Led Summit | Chicago",
+  "organizer": "",
+  "mode": "in-person",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://world.productledalliance.com/location/chicago/register",
+  "page": "https://world.productledalliance.com/location/chicago",
+  "category": "product",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://www.productcircle.co/events/lisbon-november-2026": {
+  "title": "Nov 13 2026 (Lisbon) \u00b7 Lisbon | Product Circle",
+  "organizer": "",
+  "mode": "in-person",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://www.productcircle.co/events/lisbon-november-2026#apply",
+  "page": "https://www.productcircle.co/events/lisbon-november-2026",
+  "category": "product",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
+ },
+ "https://productanonymous.com": {
+  "title": "product anonymous | Melbourne product managers unite!",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://productanonymous.com/",
+  "page": "https://productanonymous.com/",
+  "category": "product",
+  "first_seen": "2026-11-19",
+  "reminded": false,
+  "last_seen": "2026-11-19"
  }
 }
