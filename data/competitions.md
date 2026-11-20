@@ -1,7 +1,5 @@
-# Competitions (updated 2026-11-19)
+# Competitions (updated 2026-11-20)
 
-- **Timeline – CBS Case Competition** | consulting | unknown | n/a | deadline: 2026-11-19 | https://www.casecompetition.com/timeline/
-- **hackathons in november 2026 · TensorHack** | finance | hybrid | students | deadline: 2026-11-19 | https://tensorhack.com/hackathons/month/november-2026
 - **Trading Challenge - The Prairie View A&M Virtual Trading Platform** | finance | online | students | deadline: 2026-11-20 | https://edu.stocktrak.com/pvamutrading/trading-challenge/
 - **2026 Middle East Consultant Awards™ / 9 December 2026** | consulting | hybrid | n/a | deadline: 2026-11-20 | https://meconsultantawards.com/
 - **74th EWGCFM | Casa de Campo 2026** | finance | online | students | deadline: 2026-11-20 | https://hostingminds.org/#registration
@@ -85,7 +83,7 @@
 - **133 Fintech Hackathons | Hackathon Radar** | finance | hybrid | students | deadline: n/a | https://www.hackathonradar.com/discover/c/fintech
 - **Airwallex Agentic Banking Hackathon** | finance | hybrid | n/a | deadline: n/a | https://www.hackerearth.com/community/challenges/hackathon/agentic-banking-hackathon/?register=true
 - **Hackathons open for registration, sorted by deadline** | finance | hybrid | students | deadline: n/a | https://brabble.ai/hackathons
-- **Prod-a-Vista - 2026 | Sarbajit Biswal** | finance | unknown | students | deadline: n/a | https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fsarbajit-biswal-6479b6215_prod-a-vista-2026-activity-7522175511331074048-cdYz&trk=public_post_contextual-sign-in-modal_join-link
+- **Strategy& | LinkedIn** | finance | in-person | students | deadline: n/a | https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fstrategyand&trk=public_biz_promo-join
 - **Crypto Trading Contests In 2026** | finance | hybrid | students | deadline: n/a | https://partner.bybit.com/b/bannertu
 - **Crypto World's Fair Hackathon - Colosseum** | finance | online | students | deadline: n/a | https://colosseum.com/arena/hackathon/register?entry=worldsfair
 - **October 2026 Opportunities: 14 Openings for Africa’s Founders, Innovators and Changemakers** | finance | hybrid | students | deadline: n/a | https://menterprise.africa/october-2026-opportunities-for-africans/
@@ -240,7 +238,7 @@
 - **Best Stock Trading Contests In 2026** | finance | hybrid | students | deadline: n/a | https://tradersunion.com/contests/best-stock-trading-contests/
 - **Finance West Africa 2026** | finance | hybrid | n/a | deadline: n/a | https://www.theasianbanker.com/finance-west-africa-2026/agenda
 - **MoneyBhai Review 2026: India's Best Free Virtual Stock Trading Simulator?** | finance | online | students | deadline: n/a | https://papertradingapp.com/moneybhai/
-- **Virtual Trading App India 2026 – Apps on Google Play** | finance | online | n/a | deadline: n/a | https://play.google.com/store/apps/details?id=zerostake.app&hl=en-GB
+- **Equity Mobile - Apps on Google Play** | finance | online | n/a | deadline: n/a | https://play.google.com/store/apps/details?id=ke.co.equitygroup.equitymobile&hl=en-US
 - **Stock Market Simulator: Practice With Fake Money — Tradewink** | finance | online | students | deadline: n/a | https://www.tradewink.com/learn/stock-market-simulator-guide
 - **12 Investing Competitions for High Schoolers 2026-27** | finance | hybrid | students | deadline: n/a | https://rapunzl.com/blog/investing-competitions-high-school-2026-27
 - **Mobius Social's Inaugural Stock Investment Simulation Competition to Launch Tomorrow in Singapore** | finance | hybrid | n/a | deadline: n/a | https://www.finanznachrichten.de/nachrichten-2026-08/69426146-mobius-social-s-inaugural-stock-investment-simulation-competition-to-launch-tomorrow-in-singapore-011.htm
@@ -625,10 +623,10 @@
 - **CIMA Exam Dates 2026 and 2027: Case Studies and OTs | VIVA Tuition** | consulting | online | students | deadline: n/a | https://www.vivatuition.com/cima/guides/cima-exam-dates
 - **IAM - Case Study & Examples Library** | consulting | online | n/a | deadline: n/a | https://theiam.org/membership/join-now/
 - **Top Management Consulting Firms in Australia - 2026 Reviews | Goodfirms** | consulting | hybrid | n/a | deadline: n/a | https://www.goodfirms.co/business-services/management-consulting/australia
-- **Achilles' Heel- A Marketing Case Competition - closes Thu 19 Nov** | consulting | unknown | n/a | deadline: n/a | https://brabble.ai/go/unstop-1797542?placement=detail_page
+- **Achilles' Heel- A Marketing Case Competition - closes Fri 20 Nov** | consulting | unknown | n/a | deadline: n/a | https://brabble.ai/go/unstop-1797542?placement=detail_page
 - **Reframe (Design and Marketing Case Competition) - closes Tue 17 Nov** | consulting | unknown | students | deadline: n/a | https://brabble.ai/go/unstop-1802395?placement=detail_page
 - **General Case Study Competition - closes Wed 18 Nov** | consulting | online | n/a | deadline: n/a | https://brabble.ai/go/unstop-1805811?placement=detail_page
-- **Avartan Bazaar - Marketing Case Challenge - closes Thu 19 Nov** | consulting | in-person | students | deadline: n/a | https://brabble.ai/go/unstop-1792079?placement=detail_page
+- **Avartan Bazaar - Marketing Case Challenge - closes Fri 20 Nov** | consulting | in-person | students | deadline: n/a | https://brabble.ai/go/unstop-1792079?placement=detail_page
 - **Steel Stride: Steel Authority of India Limited (SAIL) X IIM Ranchi - National Case Competition - closes Fri 20 Nov** | consulting | unknown | n/a | deadline: n/a | https://brabble.ai/go/unstop-1797270?placement=detail_page
 - **Episteme - Operations Case Competition - closes Sun 22 Nov** | consulting | unknown | students | deadline: n/a | https://brabble.ai/go/unstop-1791989?placement=detail_page
 - **Case Competition - closes Tue 24 Nov** | consulting | unknown | students | deadline: n/a | https://brabble.ai/go/unstop-1799353?placement=detail_page
@@ -693,3 +691,17 @@
 - **Chicago - Product-Led Summit | Product-Led Summit | Chicago** | product | in-person | n/a | deadline: n/a | https://world.productledalliance.com/location/chicago/register
 - **Nov 13 2026 (Lisbon) · Lisbon | Product Circle** | product | in-person | n/a | deadline: n/a | https://www.productcircle.co/events/lisbon-november-2026#apply
 - **product anonymous | Melbourne product managers unite!** | product | online | n/a | deadline: n/a | https://productanonymous.com/
+- **Financial economics - Wikipedia** | finance | hybrid | students | deadline: n/a | https://en.wikipedia.org/wiki/Financial_economics
+- **Hedge (finance) - Wikipedia** | finance | hybrid | students | deadline: n/a | https://en.wikipedia.org/wiki/Hedge_(finance)
+- **Market (economics) - Wikipedia** | finance | hybrid | students | deadline: n/a | https://en.wikipedia.org/wiki/Market_(economics)
+- **Seattle business & organization consulting | Eagle Hill Consulting** | consulting | in-person | n/a | deadline: n/a | https://www.eaglehillconsulting.com/seattle/
+- **Seattle Office | AIM Consulting** | consulting | unknown | n/a | deadline: n/a | https://aimconsulting.com/locations/seattle/
+- **Top Consulting Firms in Seattle, WA 2026 | Built In Seattle** | consulting | hybrid | students | deadline: n/a | https://www.builtinseattle.com/companies/type/consulting-companies
+- **Consulting Firms Seattle | Management Consulted** | consulting | in-person | n/a | deadline: n/a | https://managementconsulted.com/consulting-firms-seattle/
+- **Top Consulting Firms in Seattle - 2026 Business Guide** | consulting | online | students | deadline: n/a | https://www.casebasix.com/pages/consulting-firms-seattle
+- **BERK Consulting | Data-Driven Insights & Strategy** | consulting | unknown | n/a | deadline: n/a | https://www.berkconsulting.com/
+- **🧨 Senior Product Marketing Manager, Remote Job, November 2026** | product | hybrid | n/a | deadline: n/a | https://dynamitejobs.com/company/arcsite/remote-job/senior-product-marketing-manager
+- **Building a Global Tech Career at Home in Costa Rica** | product | in-person | students | deadline: n/a | https://newsroom.cisco.com/content/r/newsroom/en/us/a/y2026/m11/building-a-global-tech-career-at-home-in-costa-rica.html
+- **Product Manager Interview Prep Guide (2026) | Coursera** | product | hybrid | n/a | deadline: n/a | https://www.coursera.org/resources/product-management-interview-prep-guide
+- **The 8 types of PM Interview Questions (+ answers) - IGotAnOffer** | product | in-person | students | deadline: n/a | https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions
+- **Product Marketing Summit Seattle 2026 | June 17–18** | product | in-person | n/a | deadline: n/a | https://world.productmarketingalliance.com/location/seattle/register
