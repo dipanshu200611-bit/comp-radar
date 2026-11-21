@@ -1,8 +1,5 @@
-# Competitions (updated 2026-11-20)
+# Competitions (updated 2026-11-21)
 
-- **Trading Challenge - The Prairie View A&M Virtual Trading Platform** | finance | online | students | deadline: 2026-11-20 | https://edu.stocktrak.com/pvamutrading/trading-challenge/
-- **2026 Middle East Consultant Awards™ / 9 December 2026** | consulting | hybrid | n/a | deadline: 2026-11-20 | https://meconsultantawards.com/
-- **74th EWGCFM | Casa de Campo 2026** | finance | online | students | deadline: 2026-11-20 | https://hostingminds.org/#registration
 - **IIM Bangalore, GIFT City launch national case challenge for students with tracks in global markets and governance | Education News - The Ind** | finance | hybrid | students | deadline: 2026-11-21 | https://develop.indianexpress.com/article/education/iim-bangalore-gift-city-finance-olympiad-case-challenge-2026-10933547/
 - **Arthaton 2026** | finance | online | students | deadline: 2026-11-22 | https://forms.gle/vV6HC4824Gw6aCB16
 - **hackathon calendar 2026: deadlines by month · TensorHack** | finance | hybrid | students | deadline: 2026-11-22 | https://tensorhack.com/calendar
@@ -705,3 +702,9 @@
 - **Product Manager Interview Prep Guide (2026) | Coursera** | product | hybrid | n/a | deadline: n/a | https://www.coursera.org/resources/product-management-interview-prep-guide
 - **The 8 types of PM Interview Questions (+ answers) - IGotAnOffer** | product | in-person | students | deadline: n/a | https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions
 - **Product Marketing Summit Seattle 2026 | June 17–18** | product | in-person | n/a | deadline: n/a | https://world.productmarketingalliance.com/location/seattle/register
+- **Consulting firm - Wikipedia** | consulting | hybrid | students | deadline: n/a | https://en.wikipedia.org/wiki/Consulting_firm
+- **What is Consulting? – Career Center | University of Virginia** | consulting | online | students | deadline: n/a | https://career.virginia.edu/resources/what-is-consulting/
+- **25 Types of Consulting and What Each Is Worth in 2026 | Consulting Success®** | consulting | hybrid | n/a | deadline: n/a | https://www.consultingsuccess.com/types-of-consulting
+- **What Is Consulting? Facts and Misconceptions About the Industry That’s Grown by 8%** | consulting | hybrid | students | deadline: n/a | https://leaders.com/articles/business/what-is-consulting/
+- **APM | Chartered Membership Organisation** | product | online | n/a | deadline: n/a | https://www.apm.org.uk/
+- **Asociación Puertorriqueños en Marcha (APM) – Philadelphia, PA** | product | unknown | students | deadline: n/a | https://forms.office.com/pages/responsepage.aspx?id=iEpBazZiU0OZQqtFY_UtGQe409B-NSlKpD6zyz65pXZUMVVXTEozN0lDTEVUUzcxVFVGRjJFVVRMQS4u&origin=lprLink
