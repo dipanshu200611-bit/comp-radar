@@ -1,6 +1,5 @@
-# Competitions (updated 2026-11-21)
+# Competitions (updated 2026-11-22)
 
-- **IIM Bangalore, GIFT City launch national case challenge for students with tracks in global markets and governance | Education News - The Ind** | finance | hybrid | students | deadline: 2026-11-21 | https://develop.indianexpress.com/article/education/iim-bangalore-gift-city-finance-olympiad-case-challenge-2026-10933547/
 - **Arthaton 2026** | finance | online | students | deadline: 2026-11-22 | https://forms.gle/vV6HC4824Gw6aCB16
 - **hackathon calendar 2026: deadlines by month · TensorHack** | finance | hybrid | students | deadline: 2026-11-22 | https://tensorhack.com/calendar
 - **The ILO Better Regional Migration Management (BRMM) Programme University Essay Writing Competition 2026 (Fully Funded to Fifth LMAG in Zanzi** | consulting | unknown | students | deadline: 2026-11-25 | https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmm-programme-university-essay-writing-competition-2026/
