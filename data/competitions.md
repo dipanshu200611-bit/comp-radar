@@ -1,4 +1,4 @@
-# Competitions (updated 2026-11-23)
+# Competitions (updated 2026-11-24)
 
 - **The ILO Better Regional Migration Management (BRMM) Programme University Essay Writing Competition 2026 (Fully Funded to Fifth LMAG in Zanzi** | consulting | unknown | students | deadline: 2026-11-25 | https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmm-programme-university-essay-writing-competition-2026/
 - **The ILO Better Regional Migration Management (BRMM)Programme Journalism and Storytelling Competition 2026 (Fully Funded to the Fifth LMAG in** | consulting | online | students | deadline: 2026-11-25 | https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmmprogramme-journalism-and-storytelling-competition-2026/
