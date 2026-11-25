@@ -7316,7 +7316,7 @@
   "category": "product",
   "first_seen": "2026-11-12",
   "reminded": false,
-  "last_seen": "2026-11-23"
+  "last_seen": "2026-11-25"
  },
  "https://campaignme.com/register": {
   "title": "Agency of The Year Middle East 2026 shortlist revealed - Campaign Middle East",
@@ -8486,7 +8486,7 @@
   "category": "consulting",
   "first_seen": "2026-11-18",
   "reminded": false,
-  "last_seen": "2026-11-19"
+  "last_seen": "2026-11-25"
  },
  "https://dfforms.com/dffd0dba-c739-4a0a-9e13-92a4c6ae8f2a": {
   "title": "2nd CSO 360 Middle East | 10\u201311 November 2026, Istanbul",
@@ -8785,7 +8785,7 @@
   "category": "product",
   "first_seen": "2026-11-19",
   "reminded": false,
-  "last_seen": "2026-11-23"
+  "last_seen": "2026-11-25"
  },
  "https://codebattle.tech/code-battle-2026": {
   "title": "Code Battle: Student Hackathon in Dubai & the UAE | iCodejr",
@@ -8811,7 +8811,7 @@
   "category": "product",
   "first_seen": "2026-11-19",
   "reminded": false,
-  "last_seen": "2026-11-23"
+  "last_seen": "2026-11-25"
  },
  "https://www.productcircle.co/events/lisbon-november-2026": {
   "title": "Nov 13 2026 (Lisbon) \u00b7 Lisbon | Product Circle",
@@ -8824,7 +8824,7 @@
   "category": "product",
   "first_seen": "2026-11-19",
   "reminded": false,
-  "last_seen": "2026-11-23"
+  "last_seen": "2026-11-25"
  },
  "https://productanonymous.com": {
   "title": "product anonymous | Melbourne product managers unite!",
@@ -9135,7 +9135,7 @@
   "page": "https://algoconnect-quantathon-2026.devpost.com/",
   "category": "finance",
   "first_seen": "2026-11-23",
-  "reminded": false,
+  "reminded": true,
   "last_seen": "2026-11-23"
  },
  "https://ivmf.syracuse.edu/programs": {
@@ -9370,7 +9370,7 @@
   "category": "product",
   "first_seen": "2026-11-23",
   "reminded": false,
-  "last_seen": "2026-11-23"
+  "last_seen": "2026-11-25"
  },
  "https://www.eventbrite.com/e/entrepreneur-of-influence-challenge-tickets-2004484085860": {
   "title": "Entrepreneur of Influence Challenge Tickets, Wednesday, December 9-Thursday, December 10 \u00a0\u2022\u00a0 10 AM-12 PM | Eventbrite",
@@ -9383,7 +9383,7 @@
   "category": "product",
   "first_seen": "2026-11-23",
   "reminded": false,
-  "last_seen": "2026-11-23"
+  "last_seen": "2026-11-25"
  },
  "https://conferencegrid.com/conferences/product": {
   "title": "Product Conferences 2026 & 2027 | ConferenceGrid",
@@ -9396,7 +9396,7 @@
   "category": "product",
   "first_seen": "2026-11-23",
   "reminded": false,
-  "last_seen": "2026-11-23"
+  "last_seen": "2026-11-25"
  },
  "https://www.moldpres.md/eng/economy/registration-for-the-wine-of-moldova-2026-national-competition-open-wineries-can-register-till-november-25": {
   "title": "Registration for Wine of Moldova 2026 National Competition open; wineries can register till November 25",
@@ -9422,7 +9422,7 @@
   "category": "product",
   "first_seen": "2026-11-23",
   "reminded": false,
-  "last_seen": "2026-11-23"
+  "last_seen": "2026-11-25"
  },
  "https://www.eventbrite.com/e/uk-competition-litigation-emerging-trends-from-the-cat-tickets-1997686570308": {
   "title": "UK Competition Litigation \u2013 Emerging Trends from the CAT Tickets, Wednesday, November 4 \u00a0\u2022\u00a0 5:30 PM - 8:30 PM | Eventbrite",
@@ -9435,7 +9435,7 @@
   "category": "product",
   "first_seen": "2026-11-23",
   "reminded": false,
-  "last_seen": "2026-11-23"
+  "last_seen": "2026-11-25"
  },
  "https://indiastox.com/weekly-challenges": {
   "title": "IndiaStox Weekly Predictions Challenge | IndiaStox",
@@ -9474,6 +9474,45 @@
   "category": "product",
   "first_seen": "2026-11-23",
   "reminded": false,
-  "last_seen": "2026-11-23"
+  "last_seen": "2026-11-25"
+ },
+ "https://www.insiderone.in/go/event/edd30818-25b6-48d8-8fb9-f865503eb9d6": {
+  "title": "Competitions in India: 390 open now (November 2026) \u00b7 insiderOne",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "students",
+  "deadline": null,
+  "registration_url": "https://www.insiderone.in/go/event/edd30818-25b6-48d8-8fb9-f865503eb9d6?s=competitions",
+  "page": "https://www.insiderone.in/competitions/in/noida",
+  "category": "product",
+  "first_seen": "2026-11-25",
+  "reminded": false,
+  "last_seen": "2026-11-25"
+ },
+ "https://www.scrum.org/courses/professional-scrum-product-owner-advanced-2026-11-23-112107": {
+  "title": "Professional Scrum Product Owner - Advanced - Online, November 23, 2026 - Anastasios Psarros | Scrum.org",
+  "organizer": "",
+  "mode": "online",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://www.scrum.org/courses/professional-scrum-product-owner-advanced-2026-11-23-112107",
+  "page": "https://www.scrum.org/courses/professional-scrum-product-owner-advanced-2026-11-23-112107",
+  "category": "product",
+  "first_seen": "2026-11-25",
+  "reminded": false,
+  "last_seen": "2026-11-25"
+ },
+ "https://www.godubai.com/citylife/press_release_page.asp": {
+  "title": "ISM Middle East Closes 2026 Edition with Global Sourcing Success and Announces Landmark 20th Edition for September 2027 | GoDubai.com",
+  "organizer": "",
+  "mode": "hybrid",
+  "eligibility": "",
+  "deadline": null,
+  "registration_url": "https://www.godubai.com/citylife/press_release_page.asp?pr=194985",
+  "page": "https://www.godubai.com/citylife/press_release_page.asp?pr=194985",
+  "category": "product",
+  "first_seen": "2026-11-25",
+  "reminded": false,
+  "last_seen": "2026-11-25"
  }
 }

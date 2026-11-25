@@ -1,4 +1,4 @@
-# Competitions (updated 2026-11-24)
+# Competitions (updated 2026-11-25)
 
 - **The ILO Better Regional Migration Management (BRMM) Programme University Essay Writing Competition 2026 (Fully Funded to Fifth LMAG in Zanzi** | consulting | unknown | students | deadline: 2026-11-25 | https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmm-programme-university-essay-writing-competition-2026/
 - **The ILO Better Regional Migration Management (BRMM)Programme Journalism and Storytelling Competition 2026 (Fully Funded to the Fifth LMAG in** | consulting | online | students | deadline: 2026-11-25 | https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmmprogramme-journalism-and-storytelling-competition-2026/
@@ -734,3 +734,6 @@
 - **IndiaStox Weekly Predictions Challenge | IndiaStox** | product | unknown | students | deadline: n/a | https://indiastox.com/weekly-challenges
 - **Professional Scrum Product Owner - Advanced - Online, November 23, 2026 - Anastasios Psarros | Scrum.org** | product | online | n/a | deadline: n/a | https://www.scrum.org/class/register/112107
 - **November 2026 announcements - Partner Center announcements | Microsoft Learn** | product | hybrid | n/a | deadline: n/a | https://skilling-hub.com/collection/specialization-audit-prep-workshops
+- **Competitions in India: 390 open now (November 2026) · insiderOne** | product | hybrid | students | deadline: n/a | https://www.insiderone.in/go/event/edd30818-25b6-48d8-8fb9-f865503eb9d6?s=competitions
+- **Professional Scrum Product Owner - Advanced - Online, November 23, 2026 - Anastasios Psarros | Scrum.org** | product | online | n/a | deadline: n/a | https://www.scrum.org/courses/professional-scrum-product-owner-advanced-2026-11-23-112107
+- **ISM Middle East Closes 2026 Edition with Global Sourcing Success and Announces Landmark 20th Edition for September 2027 | GoDubai.com** | product | hybrid | n/a | deadline: n/a | https://www.godubai.com/citylife/press_release_page.asp?pr=194985
