@@ -1,7 +1,5 @@
-# Competitions (updated 2026-11-25)
+# Competitions (updated 2026-11-26)
 
-- **The ILO Better Regional Migration Management (BRMM) Programme University Essay Writing Competition 2026 (Fully Funded to Fifth LMAG in Zanzi** | consulting | unknown | students | deadline: 2026-11-25 | https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmm-programme-university-essay-writing-competition-2026/
-- **The ILO Better Regional Migration Management (BRMM)Programme Journalism and Storytelling Competition 2026 (Fully Funded to the Fifth LMAG in** | consulting | online | students | deadline: 2026-11-25 | https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmmprogramme-journalism-and-storytelling-competition-2026/
 - **AlgoConnect Quantathon - 2026: Where the Algo gets evaluated, not the Pitch - Devpost** | finance | hybrid | n/a | deadline: 2026-11-28 | https://algoconnect-quantathon-2026.devpost.com/
 - **The JournalismAI Strategy Lab 2026 for African journalists and media professionals | Opportunities For Africans** | consulting | online | students | deadline: 2026-11-29 | https://www.opportunitiesforafricans.com/the-journalismai-strategy-lab-2026-for-african-journalists-and-media-professionals/
 - **JournalismAI Strategy Lab 2026 for African Journalists and Media Professionals** | consulting | online | students | deadline: 2026-11-29 | https://www.afterschoolafrica.com/88293/griffith-university-vice-chancellors-international-scholarship/
@@ -737,3 +735,5 @@
 - **Competitions in India: 390 open now (November 2026) · insiderOne** | product | hybrid | students | deadline: n/a | https://www.insiderone.in/go/event/edd30818-25b6-48d8-8fb9-f865503eb9d6?s=competitions
 - **Professional Scrum Product Owner - Advanced - Online, November 23, 2026 - Anastasios Psarros | Scrum.org** | product | online | n/a | deadline: n/a | https://www.scrum.org/courses/professional-scrum-product-owner-advanced-2026-11-23-112107
 - **ISM Middle East Closes 2026 Edition with Global Sourcing Success and Announces Landmark 20th Edition for September 2027 | GoDubai.com** | product | hybrid | n/a | deadline: n/a | https://www.godubai.com/citylife/press_release_page.asp?pr=194985
+- **JSBA x KPMG Case Competition  - Friday, November 20, 2026 at 08:00 AM | John Molson Supply Chain and Business Technology Association** | product | unknown | students | deadline: n/a | https://evelya.co/en/john-molson-school-of-business/john-molson-supply-chain-and-business-technology-association/jsba-x-kpmg-case-competition-0597
+- **Australia Treats AI as Key Foreign Policy Challenge in 2026** | product | unknown | students | deadline: n/a | https://app.emergent.sh/
