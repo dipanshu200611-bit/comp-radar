@@ -1,4 +1,4 @@
-# Competitions (updated 2026-11-27)
+# Competitions (updated 2026-11-28)
 
 - **AlgoConnect Quantathon - 2026: Where the Algo gets evaluated, not the Pitch - Devpost** | finance | hybrid | n/a | deadline: 2026-11-28 | https://algoconnect-quantathon-2026.devpost.com/
 - **The JournalismAI Strategy Lab 2026 for African journalists and media professionals | Opportunities For Africans** | consulting | online | students | deadline: 2026-11-29 | https://www.opportunitiesforafricans.com/the-journalismai-strategy-lab-2026-for-african-journalists-and-media-professionals/
@@ -17,6 +17,7 @@
 - **Global Equity Valuation Competition - Valuation Master Class** | finance | online | students | deadline: 2026-12-07 | https://valuationmasterclass.com/gevc/#register
 - **Global Equity Valuation Competition - Season 3 — CaseLeague** | finance | online | students | deadline: 2026-12-09 | https://www.caseleague.org/competitions/15-global-equity-valuation-competition-season-3
 - **Deadlines Approaching – Opportunity Desk** | finance | online | students | deadline: 2026-12-10 | https://newsletter.opportunitydesk.org/subscription/3wghIkBD
+- **Catalyst 2027 Algo Trading (IITM) | Quant Challenges** | finance | online | n/a | deadline: 2026-12-11 | https://quantchallenges.com/challenges/the-leap-sponsored-by-cme-group-november-2026-qc-2981
 - **Upcoming Hackathons (November 2026): 36 Online and In-Person | DevHunt** | finance | hybrid | students | deadline: 2026-12-12 | https://devhunt.org/hackathons
 - **Competition — Design Competitions — AIA Middle East** | consulting | unknown | n/a | deadline: 2026-12-13 | https://www.aiamiddleeast.org/design-competitions/tag/Competition
 - **Housing Fintech Challenge — Dates & Prizes | Hackathon Radar** | finance | hybrid | students | deadline: 2026-12-13 | https://unstop.com/hackathons/hero-housing-fintech-challenge-iit-bombay-1802169
@@ -24,12 +25,18 @@
 - **November 2026: 18 Opportunities for African Entrepreneurs, Innovators and Professionals - Menterprise Africa** | consulting | hybrid | students | deadline: 2026-12-18 | https://menterprise.africa/november-2026-opportunities-for-africans/
 - **Free Grants and Programs for Small Business | CO- by US Chamber of Commerce** | finance | hybrid | students | deadline: 2026-12-31 | https://www.uschamber.com/co/events/co-100-sbf-registration
 - **HBS New Venture Competition 2027: Key $55K Guide** | finance | hybrid | students | deadline: 2026-12-31 | https://docs.google.com/forms/d/e/1FAIpQLSfvktqgJWJMS1iAh2aUvZPuVOwWXOjzlsG7gtZTIWgfyRmbqQ/viewform
+- **Food AgTech Innovation Challenge 2026: Key $150K Guide** | finance | hybrid | students | deadline: 2026-12-31 | https://lnkd.in/dJgHrYjS
 - **NationBuilding Case Study Competition 2026 - 2026** | consulting | hybrid | students | deadline: 2027-01-03 | https://unstop.com/competitions/1759161/register
 - **Synergy '26: Orion Case Study Competition - closes Tue 5 Jan 2027** | consulting | online | students | deadline: 2027-01-05 | https://brabble.ai/go/unstop-1779001?placement=detail_page
 - **Quant Challenges for Trading, Finance & Research** | finance | online | students | deadline: 2027-01-06 | https://quantchallenges.com/challenges/susquehanna-predictions-cup-2026-midterm-elections-competition-qc-2950
 - **Shenzhen FinTech Competition 2026: RMB 250,000 Pool** | finance | hybrid | students | deadline: 2027-01-06 | https://fintechathon.g-ican.com/#/en
+- **Architecture Portfolio Challenge 2026** | finance | online | students | deadline: 2027-01-10 | https://archup.net/architecture-portfolio-challenge-2026/
 - **Startup Application Deadlines in November 2026 | FounderCal.org** | finance | hybrid | n/a | deadline: 2027-01-11 | https://www.ycombinator.com/apply
 - **Banking & Finance Conferences 2026 & 2027: Call for Papers | ACA** | finance | hybrid | students | deadline: 2027-01-14 | https://www.allconferencealert.com/banking-and-finance
+- **Fintech Hackathons (November 2026): 11 Upcoming | DevHunt** | finance | hybrid | students | deadline: 2027-01-15 | https://devhunt.org/hackathons/fintech
+- **AlgoConnect Quantathon 2026 | Quant Challenges** | finance | hybrid | students | deadline: 2027-01-16 | https://quantchallenges.com/challenges/algoconnect-quantathon-2026-qc-2960
+- **UNIVION Chronos De Novo Quant Track | Quant Challenges** | finance | hybrid | students | deadline: 2027-01-16 | https://quantchallenges.com/challenges/univion-chronos-de-novo-quant-finance-track-qc-2989
+- **SET Crypto Trading Competition | Quant Challenges** | finance | online | n/a | deadline: 2027-01-17 | https://quantchallenges.com/challenges/duke-fintech-trading-competition-qc-2924
 - **Free Stock Market Games: Six Contests Compared 2026** | finance | hybrid | students | deadline: 2027-01-25 | https://cryptoticker.io/en/free-stock-market-games/
 - **Free Competitions for High School Students 2026–27 | IFA** | finance | hybrid | students | deadline: 2027-01-25 | https://www.internationalfinanceacademy.com/blog/free-competitions-for-high-school-students-2026-27
 - **KPMG Ace the Case | KPMG Canada** | consulting | hybrid | students | deadline: 2027-01-30 | https://careers.kpmg.ca/event-39339/talentcommunity/form?lang=en-US
@@ -41,8 +48,10 @@
 - **Research Challenge – Competitions for young investment professionals** | finance | hybrid | students | deadline: 2027-02-11 | https://contests.cfapoland.org/en/research-challenge#registration
 - **Deadlines | HMMT** | finance | online | n/a | deadline: 2027-02-13 | https://www.hmmt.org/rg/nu
 - **9 Photography Contests Still Open in October 2026: Verified Deadlines and Entry Rules - Camera Times** | finance | online | students | deadline: 2027-02-14 | https://cameratimes.org/october-2026-photography-contests-open-calls/
+- **Stevens HFT Competition 2027 | Quant Challenges** | finance | online | students | deadline: 2027-02-15 | https://quantchallenges.com/challenges/league-of-algo-challenge-qc-2832
 - **CIMA Strategic Case Study (SCS): Exam Guide & Resources — MSL Business School** | consulting | online | n/a | deadline: 2027-02-19 | https://www.mslbusinessschool.com/cima-strategic-case-study
 - **10 Business Programs and Competitions for International Students | Borderless** | consulting | hybrid | students | deadline: 2027-02-21 | https://borderless.so/blog/business-programs-and-competitions-for-international-students
+- **Quantpedia Awards 2027 ($25K Pool) | Quant Challenges** | finance | hybrid | students | deadline: 2027-02-25 | https://quantchallenges.com/challenges/quantpedia-awards-2027-qc-2959
 - **Business Scholarships - Scholarships.com** | consulting | unknown | students | deadline: 2027-02-28 | https://www.scholarships.com/scholarships/media-fellows-scholarship
 - **OpportunitiesForAfricans.com | Opportunities For Africans** | consulting | in-person | students | deadline: 2027-02-28 | https://www.opportunitiesforafricans.com/#penci-login-popup
 - **Quant Event & Competitions (Q4 2026)** | finance | hybrid | students | deadline: 2027-03-05 | https://alpha1.ghost.io/quant-event-competitions-q4-2026/
@@ -54,7 +63,7 @@
 - **Innovation Challenge Fall 2026 | John Pappajohn Entrepreneurial Center - The University of Iowa** | consulting | in-person | students | deadline: 2027-04-01 | https://iowajpec.org/form/innovation-challenge-fall-applic
 - **5 Startup Challenges Close in November [2026]** | finance | hybrid | students | deadline: 2027-04-07 | https://shattered.io/startup-challenges-accelerators-closing-november-2026/
 - **City of Chicago :: DCASE Opportunities** | finance | hybrid | students | deadline: 2027-04-15 | https://www.chicago.gov/content/city/en/depts/dca/supp_info/dance_residency_call.html
-- **Quant Challenges for Trading, Finance & Research** | finance | online | students | deadline: 2027-04-23 | https://quantchallenges.com/challenges/yale-undergraduate-trading-competition-2027-yutc-qc-2955
+- **Quant Challenges for Trading, Finance & Research** | finance | hybrid | students | deadline: 2027-04-23 | https://quantchallenges.com/
 - **UK & Ireland Student Competitions Database | CompeteMap** | consulting | unknown | students | deadline: 2027-05-06 | https://competemap.com/
 - **Architecture competitions: design contests news - e-architect** | product | online | students | deadline: 2027-05-14 | https://www.e-architect.com/architecture-competitions
 - **20 Funding Opportunities for Startup Founders Open Now (November 2026): Y Combinator, UNICEF, MIT Solve, Mastercard Foundation and More - Op** | finance | hybrid | students | deadline: 2027-05-24 | https://opportunitylab.net/kwara-state-bursary-award-2025-2026/
@@ -63,8 +72,10 @@
 - **Business Competition Calendar 2026–27 for Students | IFA** | finance | online | students | deadline: 2027-06-12 | https://www.internationalfinanceacademy.com/competition-calendar
 - **EIC Pathfinder Challenges 2026: Funding, Eligibility & How to Apply | EUACC** | finance | online | students | deadline: 2027-09-16 | https://www.euacc.ai/programmes/pathfinder-challenges#how-to-apply
 - **MONECO Financial Training : Home Page** | finance | hybrid | n/a | deadline: 2027-09-21 | https://www.moneco.com/
+- **Metaculus Market Pulse 26Q4 ($7.5K) | Quant Challenges** | finance | online | n/a | deadline: 2027-10-03 | https://quantchallenges.com/challenges/metaculus-market-pulse-challenge-26q4-qc-2961
 - **CIMA Case Study Exam Dates 2026–2027: OCS, MCS & SCS Timetable — MSL Business School** | consulting | online | students | deadline: 2027-11-12 | https://www.mslbusinessschool.com/cima
 - **Call for Applications| Opportunities For Africans** | consulting | online | students | deadline: 2027-11-15 | https://www.opportunitiesforafricans.com/category/call-for-applications/
+- **Open quant challenges (2026–2027) | Quant Challenges** | finance | hybrid | students | deadline: 2028-01-01 | https://quantchallenges.com/challenges/yale-undergraduate-trading-competition-2027-yutc-qc-2955
 - **AI Drives Surge in WorldQuant Quant Competition Registrations** | finance | hybrid | students | deadline: n/a | https://www.globalbankingandfinance.com/ai-use-lifts-participation-worldquant-contest/
 - **Upcoming case competitions in October 2026** | finance | hybrid | students | deadline: n/a | https://brabble.ai/upcoming/case-competitions/october-2026
 - **Case Competitions 2026: Open Now, Deadlines & Prizes** | finance | hybrid | students | deadline: n/a | https://brabble.ai/case-competitions
@@ -755,3 +766,14 @@
 - **Business Case Competition 2026 - United States | EUROPESAYS.COM** | consulting | unknown | n/a | deadline: n/a | https://www.europesays.com/unitedstates/tag/business-case-competition-2026/
 - **case competition - United States | EUROPESAYS.COM** | consulting | unknown | n/a | deadline: n/a | https://www.europesays.com/unitedstates/tag/case-competition/
 - **CASE STUDIES - Universal Ai University** | consulting | online | students | deadline: n/a | https://admissions.universalai.in/
+- **One Who Codes 2026 - A Portfolio Challenge · 15 Nov · India · Jamao** | finance | online | students | deadline: n/a | https://jamao.in/e/one-who-codes-2026-a-portfolio-challenge
+- **The Students Challenge by Natixis Investment Managers: Applications Open for the 7th Edition** | finance | hybrid | students | deadline: n/a | https://www.webull.com/news/15864447702375424
+- **GGC: GMGN Global Championship - London Finals** | finance | hybrid | n/a | deadline: n/a | https://web3voyager.com/event/ggc-gmgn-global-championship---london-finals
+- **CFA Institute Announces Winners of Investing Simulator Challenge Following Global Competition | CFA Institute** | finance | online | students | deadline: n/a | https://www.cfainstitute.org/about/press-room/2026/cfa-institute-announces-winners-investing-simulator-challenge
+- **Contest Archives - Wall Street Survivor** | finance | online | students | deadline: n/a | https://www.wallstreetsurvivor.com/category/contest/
+- **BLUFF MASTER – Financial Forensics Challenge - closes Fri 4 Dec** | finance | online | students | deadline: n/a | https://brabble.ai/go/unstop-1823064?placement=detail_page
+- **Fintech Reloaded Hackathon — Dates & Registration** | finance | hybrid | n/a | deadline: n/a | https://lu.ma/k60bbili
+- **Team1 x OKX Mini Hackathon — Dates & Registration** | finance | hybrid | students | deadline: n/a | https://lu.ma/z8f067zb
+- **Future Pioneers: Paris Edition Hackathon | Hackathon Radar** | finance | hybrid | students | deadline: n/a | https://www.uds-triathlon.de/events/future-pioneers/
+- **Product Festival 2026 | Product Management Conference, Zurich** | product | in-person | students | deadline: n/a | https://productmanagementfestival.com/
+- **GLOBAL FINAL 2026 Tickets, Thursday, November 26  •  3:30 PM - 8 PM | Eventbrite** | product | unknown | n/a | deadline: n/a | https://www.eventbrite.dk/e/global-final-2026-tickets-1989842105302
